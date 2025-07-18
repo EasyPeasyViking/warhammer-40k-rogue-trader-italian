@@ -151,6 +151,7 @@ TRANSLATION EXAMPLES:
 - "--- Start of dossier ---" → "--- Inizio del dossier ---"
 - "winded" → "affaticato"
 - "Take off" → "Rimuovi"
+- "Drop" → "Lascia"
 - Text that contains the only word "Clear" is translated into "Pulisci"
 
 QUALITY ASSURANCE:
