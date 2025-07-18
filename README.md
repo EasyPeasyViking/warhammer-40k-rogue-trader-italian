@@ -271,12 +271,3 @@ Gli utenti sono responsabili di:
 ## Rimozione Contenuti
 
 Se **Games Workshop Ltd**, **Owlcat Games**, o altri detentori di diritti ritengono che questo progetto violi i loro diritti, sono invitati a contattarci per una rimozione immediata.
-
-## Traduzione Community Italiana
-
-**⚠️ Importante**: La traduzione in questo repository è stata **generata completamente con AI** (Claude). Pur essendo ottimizzata per Warhammer 40,000: Rogue Trader, potrebbe presentare imprecisioni linguistiche.
-
-Per una **traduzione curata da traduttori italiani**, visita **Language Pack Italia**:
-
-- [**Sito**](https://languagepack.it/warhammer-40000-rogue-trader/)
-- [**Discord**](https://discord.gg/VrGZTybfQ6)
