@@ -26,7 +26,7 @@ Per attivare la traduzione in Italiano del gioco, segui i seguenti passaggi:
 
 4. Sostituisci il file `esES.json` con quello scaricato al punto 1.
 
-5. Avvia il gioco e cambia la lingua dalle impostazioni del gioco.
+5. Avvia il gioco e selezione la lingua "Español" dalle impostazioni del gioco.
 
 6. Goditi l'esperienza di gioco in Italiano! Emperor protect!
 
