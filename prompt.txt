@@ -147,6 +147,7 @@ TRANSLATION EXAMPLES:
 - Acronyms like MP, TGH, INT are left intact
 - "From:" → "Da:"
 - "Original" → "Originale"
+- "Events" → "Eventi"
 - "--- Start of dossier ---" → "--- Inizio del dossier ---"
 
 QUALITY ASSURANCE:
