@@ -153,6 +153,8 @@ TRANSLATION EXAMPLES:
 - "Take off" → "Rimuovi"
 - "Drop" → "Lascia"
 - Text that contains the only word "Clear" is translated into "Pulisci"
+- "Fellowship" → "socialità"
+- "Carouse" → "Baldoria"
 
 QUALITY ASSURANCE:
 - Always double-check that markup codes are never removed
