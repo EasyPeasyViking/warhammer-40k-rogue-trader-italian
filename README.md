@@ -30,9 +30,9 @@ Per attivare la traduzione in Italiano del gioco, segui i seguenti passaggi:
 
 6. Goditi l'esperienza di gioco in Italiano! Emperor protect!
 
-Se vuoi segnalare feedback, miglioramenti o imprecisioni, apri una issue.
+**Per segnalare feedback, miglioramenti o imprecisioni sulla traduzione, apri pure una [issue](https://github.com/EasyPeasyViking/warhammer-40k-rogue-trader-italian/issues).**
 
-Se vuoi usare lo script per aggiornare e/o modificare la traduzione, continua a leggere le sezioni successive.
+**Avanzato:** Per usare lo script per aggiornare e/o modificare la traduzione, continua a leggere le sezioni successive.
 
 ## 2. Strumento di traduzione
 
