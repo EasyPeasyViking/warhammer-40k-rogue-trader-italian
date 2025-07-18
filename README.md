@@ -13,7 +13,9 @@ Contenuti del repository:
 
 Per attivare la traduzione in Italiano del gioco, segui i seguenti passaggi:
 
-1. Scarica il file `esES.json`
+1. Scarica il file [`esES.json`](esES.json)
+
+![Download del file](./assets/download-file.png)
 
 2. Apri la cartella d'installazione del gioco (esempio Steam)
 
