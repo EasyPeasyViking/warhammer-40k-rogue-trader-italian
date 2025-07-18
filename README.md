@@ -57,8 +57,8 @@ Uno strumento di traduzione specializzato per localizzare i file di testo del gi
 
 1. Clona il repository:
 ```bash
-git clone https://github.com/yourusername/wh40k-rogue-trader-translator.git
-cd wh40k-rogue-trader-translator
+git clone git@github.com:EasyPeasyViking/warhammer-40k-rogue-trader-italian.git
+cd warhammer-40k-rogue-trader-italian
 ```
 
 2. Installa le dipendenze richieste:
