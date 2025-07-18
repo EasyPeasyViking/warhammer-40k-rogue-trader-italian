@@ -3,9 +3,11 @@
 ![Warhammer 40,000: Rogue Trader Logo](./assets/Warhammer-40000-Rogue-Trader-Logo.png)
 
 Contenuti del repository:
-1. il file della traduzione in Italiano di Warhammer 40K: Rogue Trader
-  - Supporta le DLC **Void Shadows** e **Lex Imperialis**, aggiornati alla versione **1.4.1.208** (15 Luglio 2025)
-2. lo strumento usato per generare una nuova traduzione, oppure aggiornare la traduzione corrente (in caso di nuovi aggiornamenti o DLC del gioco).
+
+1. File della traduzione in Italiano di Warhammer 40K: Rogue Trader
+    - Supporta le DLC **Void Shadows** e **Lex Imperialis**
+    - Aggiornati alla versione **1.4.1.208** (15 Luglio 2025)
+2. Strumento usato per generare una nuova traduzione, oppure aggiornare la traduzione corrente (in caso di nuovi aggiornamenti o DLC del gioco).
 
 ## 1. Come attivare la traduzione italiana
 
