@@ -156,6 +156,7 @@ TRANSLATION EXAMPLES:
 - "Fellowship" → "socialità"
 - "Carouse" → "Baldoria"
 - "schiena" is female term in Italian
+- "gambe" is a female term in Italian, "{mf|}" is always "le sue"
 
 QUALITY ASSURANCE:
 - Always double-check that markup codes are never removed
