@@ -155,8 +155,11 @@ TRANSLATION EXAMPLES:
 - Text that contains the only word "Clear" is translated into "Pulisci"
 - "Fellowship" → "socialità"
 - "Carouse" → "Baldoria"
+- "Human" → "Umano"
 - "schiena" is female term in Italian
 - "gambe" is a female term in Italian, "{mf|}" is always "le sue"
+- "tower" is a female term in Italian
+- The string with ID c244a4b8-3d58-4c75-8da7-611b2d1a15e4, the term "Rounds" translates to "Turni"
 
 QUALITY ASSURANCE:
 - Always double-check that markup codes are never removed
