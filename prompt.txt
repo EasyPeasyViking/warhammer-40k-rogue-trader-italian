@@ -160,6 +160,7 @@ TRANSLATION EXAMPLES:
 - "gambe" is a female term in Italian, "{mf|}" is always "le sue"
 - "tower" is a female term in Italian
 - The string with ID c244a4b8-3d58-4c75-8da7-611b2d1a15e4, the term "Rounds" translates to "Turni"
+- When a text starts with "I do." before by a phrase, that should be translated into "Si." or "Certo." because it express agreement.
 
 QUALITY ASSURANCE:
 - Always double-check that markup codes are never removed
