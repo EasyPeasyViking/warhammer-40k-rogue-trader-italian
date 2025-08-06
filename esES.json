@@ -275179,6 +275179,442 @@
     "f7f9beec-9c12-491d-a4a7-a9dedae4c9c7": {
       "Offset": 0,
       "Text": "{n}Un sospiro teso esce dal vox.{/n} \"L-la prego di trattenere la sua ira, Sua Signoria, ma questo servo non sa nulla. Gli è stato ordinato di consegnare questo senza fare o rispondere a domande, pena il taglio della lingua... di nuovo. Q-quindi... ec-eccoci qui... Temo di non poterla aiutare...\" {n}Il servo si scuote nervosamente, poi vi offre alcuni profondi inchini e se ne va rapidamente.{/n}"
+    },
+    "4c20cc7b-f660-43ee-acd6-1bfc96c0a161": {
+      "Offset": 0,
+      "Text": ""
+    },
+    "8b49e973-3e5c-4d0c-a3a1-07c40c733880": {
+      "Offset": 0,
+      "Text": ""
+    },
+    "b5a29746-a985-4ba4-94a1-298253be533c": {
+      "Offset": 0,
+      "Text": ""
+    },
+    "03b98793-c09b-42a4-9633-004da988ad44": {
+      "Offset": 0,
+      "Text": "Mentre il cyber-aquila è in combattimento, ogni volta che l'{g|Encyclopedia:CareerOverseerGlossary}Overseer{/g} concede un {g|Encyclopedia:ExtraTurn}turno extra{/g} a un alleato, quell'alleato guadagna +{uip|AGI Bonus|cd1bc2285bb54db78734297bc404684c} {g|Encyclopedia:WarhammerAgility}Agilità{/g} e +{uip|PER Bonus|cd1bc2285bb54db78734297bc404684c} {g|Encyclopedia:WarhammerPerception}Percezione{/g} fino alla fine del {g|Encyclopedia:Round}turno{/g}.\nSe il cyber-aquila è {g|f:ec56854df2e84ef196a49079a43b5211}in volo{/g}, questi bonus sono raddoppiati."
+    },
+    "699aaf17-c9e4-40a4-84c6-e83c11da318e": {
+      "Offset": 0,
+      "Text": "Scorta Alata"
+    },
+    "222ff01d-a589-4781-9cb2-5f79d5421dac": {
+      "Offset": 0,
+      "Text": "<u>Bonus {g|Encyclopedia:WarhammerAgility}AGI{/g} del Famiglio</u>"
+    },
+    "c4cca5d6-7d92-4aec-a715-0c119149a2bb": {
+      "Offset": 0,
+      "Text": "<u>Bonus {g|Encyclopedia:WarhammerPerception}PER{/g} del Famiglio</u>"
+    },
+    "8cce6b9a-a64e-4658-8eed-54c8e1d76116": {
+      "Offset": 0,
+      "Text": "Quando attacca un bersaglio con {g|f:66e7b370e32b43118315ab0fd24a7f0d}exploits{/g}, l'aquila cibernetica ottiene lo stesso bonus ai danni dell'Overseer. Il suo attacco rimuove tutti gli {g|f:66e7b370e32b43118315ab0fd24a7f0d}exploits{/g} dal bersaglio.\nQuando l'aquila cibernetica infligge {g|f:1e22c265a12744cc95a03d26b6c3cef9}obstructed{/g} a un nemico, quel nemico deve superare un test di {g|Encyclopedia:WarhammerAgility}Agilità{/g} {g|Encyclopedia:ResistanceTest}di resistenza{/g} con una penalità di −{uip|AGISave|5fc198b41b194129a8d29658840ddf76} {g|Encyclopedia:Penalty}penalty{/g} o subire +{uip|ExploitNumber|5fc198b41b194129a8d29658840ddf76} {g|f:66e7b370e32b43118315ab0fd24a7f0d}exploits{/g}."
+    },
+    "46190427-c2df-4207-9fae-49918c779346": {
+      "Offset": 0,
+      "Text": "Analisi Aerea"
+    },
+    "bdf4e627-c4b0-47c4-9011-73f785d52a7b": {
+      "Offset": 0,
+      "Text": "<u>(agilità del famiglio {g|Encyclopedia:WarhammerAgility}AGI{/g} / 2)</u>"
+    },
+    "0b81824b-03ef-453c-8dfc-2da4d6602315": {
+      "Offset": 0,
+      "Text": "<u>(bonus {g|Encyclopedia:WarhammerAgility}AGI{/g} del famiglio / 3)</u>"
+    },
+    "8dfc8d2d-b5d1-4233-b50e-7fd1e342944a": {
+      "Offset": 0,
+      "Text": "Al termine dell'eliminazione di questo bersaglio, l'{g|Encyclopedia:CareerOverseerGlossary}Overseer{/g} o un suo alleato recupera +1 {g|Encyclopedia:ActionPoints}PA{/g} e ottiene un bonus cumulabile di +1 a {g|Encyclopedia:Resolve}risolutezza{/g}."
+    },
+    "ab16c6ef-f520-41f7-b9b8-57a1ce6f7774": {
+      "Offset": 0,
+      "Text": "Morte Promessa"
+    },
+    "78bcbd50-8964-4485-8ae4-bdf5a972ffe1": {
+      "Offset": 0,
+      "Text": "Ogni volta che l'effetto {g|f:1e22c265a12744cc95a03d26b6c3cef9}ostruito{/g} viene rimosso da un nemico, quel nemico subisce l'effetto {g|f:d683469a1e0e45d48e72a5ed2811f1b0}morte promessa{/g} fino alla fine del combattimento."
+    },
+    "84ffde40-592e-475c-86dd-2e3005f6741a": {
+      "Offset": 0,
+      "Text": "Promessa di Morte"
+    },
+    "8bccb683-6f9c-4aee-aa4b-04762efc875e": {
+      "Offset": 0,
+      "Text": "All'inizio del {g|Encyclopedia:Turn}turno{/g} del suo {g|Encyclopedia:CareerOverseerGlossary}Supervisore{/g}, l'aquila cyber-meccanica {g|f:ec56854df2e84ef196a49079a43b5211}in volo{/g} infligge {uip|Exploit Number|267f29e1f94d43ec9f9cd5ee25d7427c} {g|f:66e7b370e32b43118315ab0fd24a7f0d}exploit{/g} a ciascun nemico in combattimento."
+    },
+    "97aeb68a-2485-462a-b5e1-46571b8af66a": {
+      "Offset": 0,
+      "Text": "Analisi della Disposizione"
+    },
+    "88020f39-b171-40cf-bf8d-79b8fd130386": {
+      "Offset": 0,
+      "Text": "<u>(1 + bonus familiare di {g|Encyclopedia:WarhammerPerception}PER{/g} / 5)</u>"
+    },
+    "55419805-8d86-4999-b58f-6b1eee04b788": {
+      "Offset": 0,
+      "Text": "Ogni volta che l'{g|Encyclopedia:CareerOverseerGlossary}Overseer{/g} viene attaccato, il suo cyber-mastiff guadagna {uip|Mastiff STR Bonus|582bb17c04754121b4b31647865dfd32} {g|Encyclopedia:TemporaryWounds}ferite temporanee{/g}. Si accumula.\nFinché il cyber-mastiff ha ferite temporanee, le sue {g|Encyclopedia:HitSequenceGlossary}probabilità di colpire{/g}, {g|Encyclopedia:DamageGlossary}danni{/g} inflitti, {g|Encyclopedia:WarhammerArmourGlossary}armatura{/g}, {g|Encyclopedia:DodgeGlossary}schivata{/g} e {g|Encyclopedia:Parry}parata{/g} aumentano del +{uip|Mastiff tHP|582bb17c04754121b4b31647865dfd32}%."
+    },
+    "56258f78-09d4-49fb-8747-1024dd31d407": {
+      "Offset": 0,
+      "Text": "Riflessi da Combattimento"
+    },
+    "20111012-c1eb-4231-aad2-c8e7c582eef4": {
+      "Offset": 0,
+      "Text": "Quando attacca un bersaglio con {g|f:66e7b370e32b43118315ab0fd24a7f0d}exploits{/g}, il cyber-mastiff guadagna lo stesso bonus ai danni inferti dell'{g|Encyclopedia:CareerOverseerGlossary}Overseer{/g}. Il suo attacco rimuove tutti gli {g|f:66e7b370e32b43118315ab0fd24a7f0d}exploits{/g} dal bersaglio.\nSe l'Overseer inizia il proprio {g|Encyclopedia:Turn}turno{/g} in {g|Encyclopedia:DetailsOfTheCoverGlossary}copertura parziale{/g}, per 1 {g|Encyclopedia:Round}turno{/g}, il cyber-mastiff guadagna +{uip|Overseer INT Bonus|ce95a986c4044c0ca07fd0db9915388c} {g|Encyclopedia:MovementPoints}MP{/g} e ha la sua {g|Encyclopedia:DodgeGlossary}schivata{/g} e {g|Encyclopedia:Parry}parata{/g} aumentate di +{uip|Overseer PER Bonus|ce95a986c4044c0ca07fd0db9915388c}%.\nSe l'Overseer inizia il proprio turno in copertura completa, questi bonus sono raddoppiati."
+    },
+    "134874d1-7b98-4142-bbe2-d423d3e56dea": {
+      "Offset": 0,
+      "Text": "Approccio Completo"
+    },
+    "375b71d9-d1ee-470e-8ffb-71220f7b670f": {
+      "Offset": 0,
+      "Text": "<u>(Bonus {g|Encyclopedia:WarhammerPerception}PER{/g} del Supervisore)</u>"
+    },
+    "8c4ae292-e2c3-470c-a09e-2f74a056668b": {
+      "Offset": 0,
+      "Text": "<u>(Bonus di {g|Encyclopedia:WarhammerIntelligence}INT{/g} del Supervisore)</u>"
+    },
+    "f0e1f01c-9dfc-4fa9-b363-5b631bdafaed": {
+      "Offset": 0,
+      "Text": "<u>(10 + {g|Encyclopedia:TemporaryWounds}ferite temporanee{/g} del famiglio)</u>"
+    },
+    "e13d47c2-c556-4770-bf7e-b46881c70f7c": {
+      "Offset": 0,
+      "Text": "<u>Bonus {g|Encyclopedia:WarhammerStrength}STR{/g} del Famiglio</u>"
+    },
+    "13273269-e346-4a05-aae1-47ec6dc0a4c2": {
+      "Offset": 0,
+      "Text": "Ogni volta che il cyber-mastiff {g|Encyclopedia:HitSequenceGlossary}colpisce{/g} un nemico, ha una probabilità del {uip|Prone Chance|e09dd57609ff429aa33c697e99242c36}% di abbattere il suo bersaglio {g|Encyclopedia:ProneEffect}a terra{/g} per 1 {g|Encyclopedia:Round}turno{/g}."
+    },
+    "7cf83349-38d0-4ed4-bbce-025113337de1": {
+      "Offset": 0,
+      "Text": "Fragilità"
+    },
+    "830517e2-5465-4e9a-85da-18661bfddf2d": {
+      "Offset": 0,
+      "Text": "<u>(3 × bonus familiare di {g|Encyclopedia:WarhammerStrength}STR{/g})</u>"
+    },
+    "16ce3fc3-3757-4c2b-abf7-9dc4662dd67b": {
+      "Offset": 0,
+      "Text": "L'{g|Encyclopedia:CareerOverseerGlossary}Overseer{/g} infligge {g|f:e09dd57609ff429aa33c697e99242c36}fragilità{/g} ai nemici per 1 {g|Encyclopedia:Round}turno{/g}.\nIl danno dell'arma del cyber-mastiff contro i nemici {g|Encyclopedia:ProneEffect}a terra{/g} è aumentato di {uip|Pet WS Bonus|e202927235194d9ba695ea250e904cf0}."
+    },
+    "6636f006-d7f4-4798-ad4e-a883803e214c": {
+      "Offset": 0,
+      "Text": "Assalto Feroce"
+    },
+    "178f109c-21f7-45d2-8307-87842b0127c3": {
+      "Offset": 0,
+      "Text": "<u>Bonus di {g|Encyclopedia:WarhammerWeaponSkill}WS{/g} del Famiglio</u>"
+    },
+    "0e3e4b37-4761-494d-b38b-0336a191975b": {
+      "Offset": 0,
+      "Text": "Quando un alleato in un raggio di 3 celle intorno al cyber-mastiff ottiene un {g|Encyclopedia:ExtraTurn}turno extra{/g}, il cyber-mastiff immediatamente (prima dell'inizio del turno extra) effettua un attacco gratuito singolo contro un nemico adiacente, se presente."
+    },
+    "a2c85fb6-ec3c-4868-95f0-ad1a457c91b2": {
+      "Offset": 0,
+      "Text": "Attacco Preventivo"
+    },
+    "9654af06-b55f-441f-8d6f-85711a90c41d": {
+      "Offset": 0,
+      "Text": "Dopo che l'{g|Encyclopedia:CareerOverseerGlossary}Overseer{/g} usa {g|f:e955823f54d24088ae1fdefe88d3684d}Danza della Lama{/g}, il cyber-mastiff usa immediatamente {g|f:a82be46a250047dcbaf7fe534441ae6c}Carneficina Sanguinosa{/g}."
+    },
+    "8a239cc6-d2ce-4e6d-afee-563af79e2119": {
+      "Offset": 0,
+      "Text": "Lame e Artigli"
+    },
+    "ea1c89a7-7d47-4cbd-933d-26dd1d11930e": {
+      "Offset": 0,
+      "Text": "Il cyber-mastiff effettua {uip|Attack Number|a82be46a250047dcbaf7fe534441ae6c} singoli attacchi da mischia contro bersagli adiacenti casuali (compresi gli alleati), infliggendo danni ridotti del 50%."
+    },
+    "0fa38a42-5ab6-4fbc-9d2e-6ba4f2a79c28": {
+      "Offset": 0,
+      "Text": "Carneficina Sanguinosa"
+    },
+    "92153073-be01-4199-8c40-93ae6777ee98": {
+      "Offset": 0,
+      "Text": "<u>(2 + bonus familiare di {g|Encyclopedia:WarhammerStrength}STR{/g} / 4)</u>"
+    },
+    "eb2246e7-8d14-475c-b039-14f50871f290": {
+      "Offset": 0,
+      "Text": "Il cyber-mastiff guadagna uno stack di {g|f:10672b55534045a19bbbcae01f7e741d}richiamo di sangue{/g} ogni 20% di {g|Encyclopedia:CareerOverseerGlossary}Supervisore{/g} attualmente mancanti di {g|Encyclopedia:HitPoints}ferite{/g}."
+    },
+    "823c9098-d4a5-4b3d-a1e9-38ac5033ee2c": {
+      "Offset": 0,
+      "Text": "Sangue Condiviso"
+    },
+    "48508db4-a4be-4c8f-b24a-cb0347dffecf": {
+      "Offset": 0,
+      "Text": "Ogni stack aumenta il danno inflitto dal cyber-mastiff e i suoi {g|Encyclopedia:MovementPoints}MP{/g} di +{uip|Damage Increase|10672b55534045a19bbbcae01f7e741d}."
+    },
+    "93c423db-bc37-4601-9a87-a94f32124b80": {
+      "Offset": 0,
+      "Text": "Richiamo di Sangue"
+    },
+    "7386d5f6-533e-4a8b-a024-6814f245b23c": {
+      "Offset": 0,
+      "Text": "<u>((bonus {g|Encyclopedia:WarhammerWeaponSkill}WS{/g} del famiglio + bonus {g|Encyclopedia:WarhammerStrength}STR{/g} del famiglio) / 2)</u>"
+    },
+    "9e0edb84-7d83-4ef4-a9b0-fd091728d3fe": {
+      "Offset": 0,
+      "Text": "Ogni volta che l'{g|Encyclopedia:CareerOverseerGlossary}Overseer{/g} usa {g|f:9c78e44bf8ff44a9afff8370c673c9ad}Voce di Comando{/g}, il suo effetto viene applicato anche al suo cyber-mastiff."
+    },
+    "a2a3d983-a19a-4675-a1c1-4dad0a26b006": {
+      "Offset": 0,
+      "Text": "Addestramento Speciale"
+    },
+    "45217d7d-3fcf-4788-bb91-49e2ba55c916": {
+      "Offset": 0,
+      "Text": "Il cyber-mastiff non rimuove più gli {g|f:66e7b370e32b43118315ab0fd24a7f0d}exploits{/g} dai suoi bersagli (continuando comunque a ottenere un bonus di danni)."
+    },
+    "bfb81e95-9baa-4b99-b845-6a29b98fd1bd": {
+      "Offset": 0,
+      "Text": "Mazzata Precisa"
+    },
+    "ca213949-5c07-45d0-947f-c58bc13df4a0": {
+      "Offset": 0,
+      "Text": "Gli alleati in un raggio di 2 celle intorno al cyber-mastiff hanno il costo di {g|Encyclopedia:Reload}ricarica{/g} ridotto di −1 {g|Encyclopedia:ActionPoints}PA{/g}."
+    },
+    "b616de79-b59d-4daf-b206-605fe7243a4a": {
+      "Offset": 0,
+      "Text": "Sacchi di Munizioni"
+    },
+    "3d667871-8295-4e59-8669-2e2bde0c6756": {
+      "Offset": 0,
+      "Text": "Ogni volta che il cyber-mastiff ottiene bonus da {g|f:582bb17c04754121b4b31647865dfd32}Riflessi da Combattimento{/g}, se il suo {g|Encyclopedia:CareerOverseerGlossary}Supervisore{/g} si trova entro un raggio di 3 celle, anche quest'ultimo ottiene questi bonus (ad eccezione dei {g|Encyclopedia:TemporaryWounds}danni temporanei{/g})."
+    },
+    "6ab46dd5-1c85-4299-b168-bcb93f994056": {
+      "Offset": 0,
+      "Text": "Caccia Congiunta"
+    },
+    "06b9dd35-7a78-4220-94ca-e74da16e942c": {
+      "Offset": 0,
+      "Text": "Questa creatura è connessa al psyber-raven. Quando questa creatura subisce la prossima istanza di {g|Encyclopedia:DamageGlossary}danno{/g}, {uip|SharedDamage|1054900271274ed5a11b7a8c5b1406d8}% di quel danno (fino a un massimo del 100%) viene inflitto anche agli altri bersagli connessi come {g|Encyclopedia:MentalDamage}danno mentale{/g}. Una volta attivato, questo effetto viene rimosso."
+    },
+    "32643e03-b880-48d9-874d-12cf02ec2183": {
+      "Offset": 0,
+      "Text": "Ogni volta che viene utilizzata {g|f:7962a71f962946258a64df9cd4b7c36a}Purification Discharge{/g}, i bersagli colpiti subiscono {g|f:70a18b24f69f4dfb905cb3d9420d0b19}legami di dolore{/g}, connettendoli con il psyber-raven. In qualsiasi momento, un nemico può essere connesso a un solo psyber-raven."
+    },
+    "f160edc9-d3ca-4c83-a27f-5f8266a45bc8": {
+      "Offset": 0,
+      "Text": "Legami di Dolore"
+    },
+    "c90719c4-cca7-4874-b631-1ec26daf7951": {
+      "Offset": 0,
+      "Text": "<u>(WP del famiglio / 3)</u>"
+    },
+    "0ad4b8cb-7928-4980-afeb-2bda0298d7d8": {
+      "Offset": 0,
+      "Text": "All'inizio del {g|Encyclopedia:Turn}turno{/g} del suo {g|Encyclopedia:CareerOverseerGlossary}Supervisore{/g}, lo sciame di servo-skull infligge immediatamente {uip|ExploitNumber|1946e3294827418889bca99e190cfd92} {g|f:66e7b370e32b43118315ab0fd24a7f0d}exploit{/g} a ciascun nemico in un raggio di 4 celle."
+    },
+    "5c549365-dfca-489c-bad5-d6a93959681e": {
+      "Offset": 0,
+      "Text": "Analisi Esaustiva"
+    },
+    "5758d8ef-3d04-4500-8036-6988d6e867ee": {
+      "Offset": 0,
+      "Text": "<u>(bonus {g|Encyclopedia:WarhammerIntelligence}INT{/g} del famiglio / 2)</u>"
+    },
+    "b32e19de-22b2-45c8-9f39-8eb4ec362a45": {
+      "Offset": 0,
+      "Text": "Ogni volta che un alleato entro un raggio di 4 celle intorno all'sciame di servo-skull ottiene un {g|Encyclopedia:ExtraTurn}turno extra{/g}, il costo della sua prossima abilità non di attacco viene ridotto di −1 {g|Encyclopedia:ActionPoints}PA{/g} e può utilizzare un consumabile, spendendo 0 PA. Se più sciami di servo-skull sono in combattimento, l'effetto non si cumula."
+    },
+    "1608b309-2fc2-4058-99d7-3979e9d6d945": {
+      "Offset": 0,
+      "Text": "Ottimizzazione"
+    },
+    "3d31ee84-2aa4-4087-8e50-3b6c240501d0": {
+      "Offset": 0,
+      "Text": "Ogni volta che Pasqal usa {g|f:95cdd5f42ef5480d9fadd9e0acee641b}Comunione con il Machine Spirit{/g}, lo sciame di servo-skull imita l'effetto di questa abilità, creando una seconda area centrata intorno a sé. Se le aree si sovrappongono, l'effetto non si cumula."
+    },
+    "0d6593d3-befb-478c-b8e4-b76998eb09e4": {
+      "Offset": 0,
+      "Text": "Rifugio per Machine Spirit"
+    },
+    "bab67d9c-b69e-4774-a4f2-bc38c5ccb172": {
+      "Offset": 0,
+      "Text": "Ogni volta che viene concesso un {g|Encyclopedia:ExtraTurn}turno extra{/g} in un raggio di 4 celle intorno allo sciame di servo-skull, fino alla fine del combattimento, il suo {g|Encyclopedia:CareerOverseerGlossary}Supervisore{/g} guadagna +3 {g|Encyclopedia:WarhammerFellowship}socialità{/g} e vede il proprio danno aumentato del +{uip|Bonus Damage|94f07339271446e1bd2ee4b667d3bfc7}%. Cumulabile."
+    },
+    "7e23820f-e18b-49f8-8a53-19e250a2511a": {
+      "Offset": 0,
+      "Text": "Modulo Cinetico"
+    },
+    "8e51f535-2657-43bb-8f45-f9693a4dadf7": {
+      "Offset": 0,
+      "Text": "<u>Bonus {g|Encyclopedia:WarhammerIntelligence}INT{/g} del Famiglio</u>"
+    },
+    "9c68b2c8-80fd-498d-906d-6833958d4ab0": {
+      "Offset": 0,
+      "Text": "Ogni volta che un nemico in un raggio di 4 celle attorno allo sciame di servo-skull viene {g|Encyclopedia:HitSequenceGlossary}colpito{/g} o diventa bersaglio di {g|f:fbdba5fe2a264c25bada29aecd64049a}Indebolisci Difesa{/g}, ogni {g|f:66e7b370e32b43118315ab0fd24a7f0d}exploit{/g} rimosso da quel nemico conferisce allo sciame di servo-skull +1% {g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} e {g|Encyclopedia:DodgeGlossary}schivata{/g} fino alla fine del combattimento. Ogni 10 {g|f:66e7b370e32b43118315ab0fd24a7f0d}exploit{/g} rimossi gli conferiscono +1 {g|Encyclopedia:Deflection}deviazione{/g}."
+    },
+    "70dd4292-5300-4cf5-8ae9-2263a6b69449": {
+      "Offset": 0,
+      "Text": "Modifica sul Campo"
+    },
+    "4629f1f5-2b0d-4c57-86cb-a0608ae9fdcc": {
+      "Offset": 0,
+      "Text": "\"Non sono d'accordo. Il nostro rapporto vale la pena di essere preservato e rafforzato. Riflettici.\""
+    },
+    "1876628e-172d-431a-98cd-0cc645bc2275": {
+      "Offset": 0,
+      "Text": "{n}Una miscela di emozioni attraversa per un momento il volto dell'uomo.{/n} \"Tu e io siamo entrambi vincolati dal dovere, {name}, e questo ha la precedenza su qualsiasi questione del cuore.\""
+    },
+    "6a78d3a8-f856-4fb1-a96b-671325120388": {
+      "Offset": 0,
+      "Text": "Sopravvissuto al Bombardamento Navale"
+    },
+    "e243bf82-ea04-485f-807c-83c134f3dab2": {
+      "Offset": 0,
+      "Text": "Fante Bruciato"
+    },
+    "1a429446-28f0-4b84-adb6-3f93b8b559ef": {
+      "Offset": 0,
+      "Text": "Guardia Ferita"
+    },
+    "30c5bfe8-8d53-49aa-99f1-3e3934846285": {
+      "Offset": 0,
+      "Text": "Profanando la sua nave con xenotech, il Capitano Sargona ha disprezzato gli antichi divieti della Lex Imperialis. Ma commettendo l'atto infame di rubare la sacra decima, ha rinunciato anche alla più remota possibilità di morire una morte degna."
+    },
+    "019e7180-1374-4615-984c-fbac8f5d5d37": {
+      "Offset": 0,
+      "Text": "La giustizia degli Adeptus Arbites è implacabile — e inescapabile per chiunque sia abbastanza stolto da violare la sacra Legge Imperiale."
+    },
+    "2c93d5a0-7fcd-4a37-a63f-4af3f738fbb5": {
+      "Offset": 0,
+      "Text": "Aggiorna la stazione di servizio"
+    },
+    "ca67b876-3b23-4ea4-8dd6-9f9d043b592c": {
+      "Offset": 0,
+      "Text": "I prelati di Foulstone lodano la saggezza del Rogue Trader che guida i fedeli alla prosperità."
+    },
+    "3a899ed8-bc8a-417e-b62e-74549158a99a": {
+      "Offset": 0,
+      "Text": "Benedetto dalla Triade del Martello"
+    },
+    "940d715b-8829-4d48-9d66-0cabc4f17c85": {
+      "Offset": 0,
+      "Text": "Per {mf|lui|lei} che ha fatto voltare e fuggire le mostruosità dalle miniere di Vheabos VI, ogni scontro con gli xenos è un benvenuto test di abilità e prodezza."
+    },
+    "bf0dba36-5ffe-4994-8f80-149178862bc0": {
+      "Offset": 0,
+      "Text": "Tattico Indomabile"
+    },
+    "31ba7d99-655f-4430-be9c-f54d3a1f5828": {
+      "Offset": 0,
+      "Text": "Il Rogue Trader ha nominato tre prelati contemporaneamente, dopo averli convinti a unire i loro sforzi."
+    },
+    "b440b05f-9ad6-4a47-965d-090c92a9636f": {
+      "Offset": 0,
+      "Text": "Guidati da una strategia degli Adeptus Arbites, i servitori del Rogue Trader hanno dato battaglia ai terrificanti insetti d'acciaio, respingendoli nelle viscere del pianeta."
+    },
+    "6d63f707-8e73-4a39-900c-7c8793717a00": {
+      "Offset": 0,
+      "Text": "Il Rogue Trader utilizzò trasmissioni vox planetarie e pressione psicologica per sedare la rivolta su Vheabos VI."
+    },
+    "be307d37-43fc-4b50-ab2e-33b994ab48a8": {
+      "Offset": 0,
+      "Text": "Un dono dell'alto sovrintendente di Vheabos VI, a commemorazione di una pacificazione quasi priva di spargimenti di sangue."
+    },
+    "3171c75d-14e8-4e51-b874-b2c58847bccf": {
+      "Offset": 0,
+      "Text": "Fucile a Pompa del Carceriere"
+    },
+    "58314f22-1dd6-43f2-ad86-3891cb96814c": {
+      "Offset": 0,
+      "Text": "{n}Solomorne ti osserva con intensità.{/n} \"Una... sentenza interessante, Rogue Trader. Nondimeno, il criminale è stato punito, e questo è tutto ciò che conta ora.\""
+    },
+    "5cff59cb-6034-43db-bd44-09587b35d6fd": {
+      "Offset": 0,
+      "Text": "Poco più di frammenti di civiltà separati dall'abbraccio dell'Imperium per migliaia di anni, i mondi feudali tendono a essere sottosviluppati e degradati. La loro tecnologia è solitamente primitiva, e la loro fede nel Dio-Imperatore spesso assume forme bizzarre."
+    },
+    "dc44346c-5139-46c5-9672-3ee55c13d43e": {
+      "Offset": 0,
+      "Text": "Eccellente scelta, {mf|Sua Signoria|Sua Signoria}!"
+    },
+    "a1018d67-8215-4d15-a18d-61a417e21e57": {
+      "Offset": 0,
+      "Text": "Felice di essere d'aiuto a te e al tuo cyber-assistente!"
+    },
+    "b19efe96-6aab-4e38-a148-73683a0a7379": {
+      "Offset": 0,
+      "Text": "Tutti i protocolli calibrati e pronti per operare, {mf|Signoria|Signoria}."
+    },
+    "3b96af3f-49a7-4e0c-8d36-24f4fcb2f702": {
+      "Offset": 0,
+      "Text": "Stai cercando di regalare qualcosa di speciale al tuo cyber-bestia?"
+    },
+    "dd38231f-ff84-40bb-b848-70dd313782af": {
+      "Offset": 0,
+      "Text": "\"No, ho altri affari.\""
+    },
+    "b0f2d968-528b-49ce-8758-96c96a6ae99d": {
+      "Offset": 0,
+      "Text": "Il servizio retto per l'Imperium non comporta sempre illustri atti di gloria. Molti Arbitrator trascorrono l'intera vita vigilando giorno e notte su pianeti come Leethus, dove la tassa immagazzinata deve essere protetta a ogni costo."
+    },
+    "eeb052e3-90fb-4a3e-b29d-a619ea272001": {
+      "Offset": 0,
+      "Text": "Nell'Imperium, dove il giudizio viene emesso senza alcuna deliberazione, il Palazzo di Giustizia di Dargonus è davvero un luogo esotico. Questa meraviglia unica nel suo genere fu costruita per capriccio dell'eccentrico Rogue Trader Benefaz von Valancius, che trovava un piacere raro nel sovrintendere a procedimenti processuali contorti che egli stesso aveva inventato."
+    },
+    "dcb5bc79-c344-4931-9abf-721e82beeab9": {
+      "Offset": 0,
+      "Text": "Theodora von Valancius aveva buone ragioni per credere che i segreti siano meglio custoditi quando solo una persona conosce la loro esistenza — se stessa."
+    },
+    "dae3c634-c6d9-486f-a2b5-31744e0c964e": {
+      "Offset": 0,
+      "Text": "\"Convoca un congresso di credenti ed Ecclesiarchi rispettati. Li sommergeremo con la nostra schiacciante superiorità numerica.\""
+    },
+    "ec7293d8-cb7d-40e9-a29d-761a6d99cf85": {
+      "Offset": 0,
+      "Text": "\"Il trio di prelati ha fatto appello ai pellegrini di mobilitarsi — una tattica per diffondere la consapevolezza della situazione attuale. In termini diplomatici, l'Ordine del Martello non ha fatto alcuna minaccia; tuttavia, c'è una chiara implicazione che, a meno che i Tech-Priest non recedano, il Mechanicus rischia di incorrere nell'ira dei fedeli.\""
+    },
+    "5ed394a1-65c7-4d62-8ea9-969aa6cfe0ba": {
+      "Offset": 0,
+      "Text": "{n}Persone preoccupate per il destino del Crogiolo affluirono a Foulstone a frotte. Tra di esse non c'erano solo alti chierici ma anche potenti aristocratici e altre persone di influenza e pietà. Comprendendo le probabili conseguenze del proseguire della loro lotta, i Tech-Priest non ebbero altra scelta che ritirarsi.{/n}"
+    },
+    "1cbd8a70-5414-42a2-a1c7-b507df940b4e": {
+      "Offset": 0,
+      "Text": "{n}Interi continenti si oscurarono su Kiava Gamma, costringendo i cultisti ad assediare i sancta di distribuzione del Motive Force. Era lì che i difensori del mondo stavano aspettando, armati e pronti a distruggere sia gli scismatici che i \"data-angel\".{/n}"
+    },
+    "8cb05d61-9830-474d-91cf-c786867b76b0": {
+      "Offset": 0,
+      "Text": "\"Respingiamo il nemico nell'oscurità, come ha proposto Solomorne.\""
+    },
+    "364fb2d2-dea2-435e-8a1b-ac59bc7672ab": {
+      "Offset": 0,
+      "Text": "\"Ricacciamo quelle mostruosità sottoterra e usiamo pesanti macchine da trivellazione per simulare un attacco da multiple direzioni. Poi, blocchiamo la maggior parte dei passaggi, lasciando aperti solo quelli meglio difesi. Vediamo quanto questi criminali apprezzeranno essere intrappolati.\""
+    },
+    "f8f0c6e9-bd00-4789-98ee-47d375f654d0": {
+      "Offset": 0,
+      "Text": "\"Potremmo mancare delle forze per sterminare gli invasori, ma abbiamo abbastanza risorse per respingerli e guadagnare tempo per le battaglie future.\""
+    },
+    "334debc4-d109-440a-8fde-ea219a17513a": {
+      "Offset": 0,
+      "Text": "{n}Il nuovo settore di estrazione tremò mentre i macchinari da perforazione squarciavano la roccia. Dalle profondità delle gallerie minerarie giunse un suono di strilli e graffi.{/n}"
+    },
+    "3ee837b6-606f-429b-bcba-e1cfce07e799": {
+      "Offset": 0,
+      "Text": "{n}Uno sciame ripugnante di insetti rinforzati di metallo si è lanciato contro i difensori di Vheabos VI, ma la tattica ha funzionato. Il nemico è stato sconfitto, e quel che rimaneva dello sciame è scomparso nelle viscere del pianeta. Si poteva solo sperare e pregare che fosse stato guadagnato abbastanza tempo per prepararsi alla loro prossima invasione.{/n}"
+    },
+    "9a1f2c21-e425-4bae-a40c-b9c2d0b53095": {
+      "Offset": 0,
+      "Text": "\"Prendi il controllo di tutti i canali di comunicazione. Stiamo seguendo il piano di Solomorne.\""
+    },
+    "8e21bc32-2315-4e42-8ab6-660d8a6f8de1": {
+      "Offset": 0,
+      "Text": "\"Porremo sotto assedio il pianeta, poi ne occuperemo le frequenze vox e diffonderemo la cruda verità: che i detenuti stanno combattendo per un territorio appena abitabile, e che senza l'autorità dell'Imperium moriranno. Rafforzeremo il messaggio con citazioni della Lex Imperialis, dichiarando che qualsiasi resistenza altro non fa che aggravare la trasgressione.\""
+    },
+    "62fd5b13-e620-41f5-b2f8-f3d4cc8c9a18": {
+      "Offset": 0,
+      "Text": "\"Il morale della feccia criminale è basso. Si arrenderanno presto.\""
+    },
+    "0c2d9b98-3336-40aa-b722-cf12ddf149c9": {
+      "Offset": 0,
+      "Text": "{n}Senza fermarsi nemmeno per un minuto, trasmissioni planetarie descrissero nei minimi dettagli come Vheabos VI si sarebbe rivelata una trappola mortale per i ribelli. Questo scoraggiò molti di loro, che presto rivolsero le loro armi contro i nemici del Rogue Trader nella speranza di ricevere una punizione più lieve.{/n}"
+    },
+    "afa9ec08-82be-4b4a-9fce-507968db83a6": {
+      "Offset": 0,
+      "Text": "\"Incidentalmente, durante il mio periodo come carceriere, ho ottenuto con successo che le riserve dei filtri dell'aria venissero ridotte, rendendo il mondo più dipendente dalle forniture esterne. Così, ogni respiro che i ribelli prendono li avvicina alla morte — letteralmente.\""
     }
   }
 }
