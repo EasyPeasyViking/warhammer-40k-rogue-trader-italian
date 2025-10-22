@@ -275614,5 +275614,3845 @@
   "afa9ec08-82be-4b4a-9fce-507968db83a6": {
     "Offset": 0,
     "Text": "\"Incidentalmente, durante il mio periodo come carceriere, ho ottenuto con successo che le riserve dei filtri dell'aria venissero ridotte, rendendo il mondo più dipendente dalle forniture esterne. Così, ogni respiro che i ribelli prendono li avvicina alla morte — letteralmente.\""
+  },
+  "a00aef13-1171-40fb-8136-a891070900ef": {
+    "Offset": 0,
+    "Text": "Nemici {g|Encyclopedia:ImmobilisedEffect}immobilizzati{/g} o {g|Encyclopedia:SlowedEffect}rallentati{/g} dal webber di questo personaggio hanno la loro {g|Encyclopedia:WarhammerWeaponSkill}Abilità con le Armi{/g}, {g|Encyclopedia:WarhammerBallisticSkill}Abilità Balistica{/g} e {g|Encyclopedia:WarhammerAgility}Agilità{/g} ridotte di −{uip|Debuff|ea3131acef5645c3a8eaba942fe404a9} per la durata di questo effetto."
+  },
+  "2190db33-bf9b-4f54-a316-1a12e91b9c5e": {
+    "Offset": 0,
+    "Text": "Annodatura Robusta"
+  },
+  "9b5e0d42-85a3-4df7-8007-609396027095": {
+    "Offset": 0,
+    "Text": ""
+  },
+  "e17507ad-af19-48e6-94ab-5cf2a209fe60": {
+    "Offset": 0,
+    "Text": "<u>(2 × potenza del bastone dello psyker × {g|Encyclopedia:PsyRating}rating psichico{/g} + bonus {g|Encyclopedia:WarhammerWillpower}WP{/g} dello psyker)</u>"
+  },
+  "a0ad4ea9-ae94-400f-be33-5b07cb729f23": {
+    "Offset": 0,
+    "Text": "<u>(2 × potenza del bastone dello psyker × {g|Encyclopedia:PsyRating}psy rating{/g} + {g|Encyclopedia:WarhammerWillpower}WP{/g} {g|Encyclopedia:Bonus}bonus{/g} dello psyker)</u>"
+  },
+  "3804bc83-1e28-490d-b234-2e342adeaedd": {
+    "Offset": 0,
+    "Text": "<u>(livello di potenza del bastone dello psyker × {g|Encyclopedia:PsyRating}rating psichico{/g} + bonus {g|Encyclopedia:WarhammerWillpower}WP{/g} dello psyker)</u>"
+  },
+  "f83844da-685c-4f58-af92-14e1f339bd42": {
+    "Offset": 0,
+    "Text": "L'utente guadagna permanentemente +1 {g|Encyclopedia:PsyRating}psy rating{/g} e +30% di probabilità in più di innescare {g|Encyclopedia:PerilsOfWarp}pericoli del warp{/g}."
+  },
+  "b3e0f74f-1b9b-447a-9006-06d4da337e3b": {
+    "Offset": 0,
+    "Text": "Emulsione Scintillante"
+  },
+  "a70e838f-6b4c-4ec5-a55c-a16529119f10": {
+    "Offset": 0,
+    "Text": "L'utente guadagna permanentemente +1 {g|Encyclopedia:Deflection}deviazione{/g}, ma subisce −10 {g|Encyclopedia:WarhammerAgility}Agilità{/g}."
+  },
+  "48433bb2-d9b7-4f34-bb19-5afcb631f1f9": {
+    "Offset": 0,
+    "Text": "Soluzione Viscosa"
+  },
+  "e73e100d-6f83-43f5-9e62-ebbb2adcf482": {
+    "Offset": 0,
+    "Text": "Pretore"
+  },
+  "2df1342f-ee36-4194-b0d2-c0adce0435e6": {
+    "Offset": 0,
+    "Text": "Il titolo di Proctor indica un Arbitrator veterano. Nella gerarchia dell'Adeptus Arbites, i Proctor agiscono come sergenti sotto il comando del Maresciallo."
+  },
+  "0915d1ec-a20a-405f-bc63-1b72376c68ee": {
+    "Offset": 0,
+    "Text": "I Proctor comandano piccoli squadroni operativi degli Adeptus Arbites e riferiscono direttamente al Marshal in carica. I loro compiti vanno dalla cattura dei criminali più pericolosi nell'Espansione all'esecuzione di pattugliamenti di routine nei distretti dei mondi alveare."
+  },
+  "37d5dda5-7239-4c50-8596-7d0937e3c545": {
+    "Offset": 0,
+    "Text": "Utilizzare un attacco con sovraccarico di un'arma al plasma garantisce una probabilità del {uip|Chance|0835dbc012334dd49f849fcc92e9f708}% (non può superare il 100%) di causare {g|f:2a5d173c50af4cfd86eb00b12848b450}Esplosione al Plasma{/g}.\nOgni stack di questo effetto aumenta il danno di {g|f:0bc1f945b05e4b5593ec6151c7109a06}Sovraccarico al Plasma (Attacco ad Area){/g} del +5%, {g|f:1da644efeb174a789fc857602ebdfc1b}Sovraccarico al Plasma (Danno Extra){/g} del +15% e {g|f:2a5d173c50af4cfd86eb00b12848b450}Esplosione al Plasma{/g} del +10%.\nAll'inizio del turno non extra del possessore, viene rimosso −1 stack di questo effetto."
+  },
+  "3ea4d5b2-245e-4692-b8a7-303c3f6566a3": {
+    "Offset": 0,
+    "Text": "Surriscaldamento Cella al Plasma"
+  },
+  "09d3d0cb-f75b-4401-88b8-f59f24a23ae7": {
+    "Offset": 0,
+    "Text": "<u>(25 × numero di accumuli di {g|f:0835dbc012334dd49f849fcc92e9f708}surriscaldamento cella al plasma{/g})</u>"
+  },
+  "3fc36e9e-4f2e-48dd-a474-fc8a7d1a5a15": {
+    "Offset": 0,
+    "Text": "Grido di Agonia"
+  },
+  "8e0bfa7e-2492-46d6-b7b9-99366a188071": {
+    "Offset": 0,
+    "Text": "Mechadendrite per Bolter"
+  },
+  "30426d76-c1bf-41b6-8e11-29fd4566959d": {
+    "Offset": 0,
+    "Text": "Infligge {g|Encyclopedia:MentalDamage}danni mentali{/g} al bersaglio. Se il bersaglio fallisce un {g|Encyclopedia:WarhammerIntelligence}Test di Intelligenza{/g} {g|Encyclopedia:ResistanceTest}di resistenza{/g}, la sua {g|Encyclopedia:WarhammerWillpower}Volontà{/g}, {g|Encyclopedia:WarhammerPerception}Percezione{/g} e {g|Encyclopedia:WarhammerFellowship}Socialità{/g} vengono ridotte di −10 e il suo {g|Encyclopedia:PsyRating}psy rating{/g} viene ridotto di −1."
+  },
+  "e67369e7-a283-4916-9635-469cc7c11527": {
+    "Offset": 0,
+    "Text": "Primo Obiettivo"
+  },
+  "60f3add7-6b7b-4e83-8859-eabfeaedd24e": {
+    "Offset": 0,
+    "Text": "<u>(20 + 2 × {g|Encyclopedia:WarhammerFellowship}FEL{/g} bonus)</u>"
+  },
+  "bac8b532-8d1f-4a92-81bc-1e1c96f0f77d": {
+    "Offset": 0,
+    "Text": "Questo attacco infligge lo stesso danno dell'arma laser e non conta ai fini del {g|Encyclopedia:AttacksPerTurn}limite di attacchi per turno{/g} ma può essere utilizzato solo una volta per {g|Encyclopedia:Round}turno{/g}."
+  },
+  "4bfd0710-acb0-4bc8-8ce8-e4250a43ab9f": {
+    "Offset": 0,
+    "Text": "Colpo di Baionetta"
+  },
+  "ab225102-794a-4d9e-a653-b6fecfad5bdf": {
+    "Offset": 0,
+    "Text": "Questo personaggio guadagna +{uip|Resolve|d61fbaba9fe34b6697efe57f3c5e8574} {g|Encyclopedia:Resolve}resolve{/g}."
+  },
+  "e3ae3c52-969f-436a-894a-8b6895c66909": {
+    "Offset": 0,
+    "Text": "Mentre il Commissario è adiacente a un nemico, i suoi alleati guadagnano +{uip|Resolve|d61fbaba9fe34b6697efe57f3c5e8574} {g|Encyclopedia:Resolve}risolutezza{/g}.\nSe non ci sono creature in un raggio di 2 celle, il Commissario guadagna +{uip|Resolve|d61fbaba9fe34b6697efe57f3c5e8574} risolutezza."
+  },
+  "0549cae2-0db9-412f-bace-cd7a4a6abc22": {
+    "Offset": 0,
+    "Text": "Fatti Conoscere dal Terrore!"
+  },
+  "64fe8c24-152e-4572-a532-7454137cf9f0": {
+    "Offset": 0,
+    "Text": "Questo personaggio guadagna +{uip|Resolve|d61fbaba9fe34b6697efe57f3c5e8574} {g|Encyclopedia:Resolve}resolve{/g}."
+  },
+  "11232c2a-38ae-484d-9629-833c533a5cbc": {
+    "Offset": 0,
+    "Text": "<u>(100 + {g|Encyclopedia:SkillCoercion}Coercizione{/g} del Commissario)</u>"
+  },
+  "f0cec6ea-5c35-4d7a-9fe0-aade646aa102": {
+    "Offset": 0,
+    "Text": "<u>(2 × bonus di {g|Encyclopedia:WarhammerFellowship}FEL{/g} del Commissario)</u>"
+  },
+  "14ded558-7e73-4ad5-8927-f74e40fd54c2": {
+    "Offset": 0,
+    "Text": "<u>(Coercizione del Commissario {g|Encyclopedia:SkillCoercion}Coercion{/g} / 10)</u>"
+  },
+  "1bee3781-4cf0-46bc-bbda-5b8df68ea5b2": {
+    "Offset": 0,
+    "Text": "Questo personaggio infligge il +{uip|BonusFEL|cdbe5dd63fd84f3fb20f37e7ad043f6e}% di danni in più, guadagna +{uip|BonusFEL|cdbe5dd63fd84f3fb20f37e7ad043f6e}% di {g|Encyclopedia:DodgeGlossary}schivata{/g} e {g|Encyclopedia:Parry}parata{/g}, e +{uip|BonusStatCoercion|cdbe5dd63fd84f3fb20f37e7ad043f6e} a tutte le {g|Encyclopedia:Characteristic}caratteristiche{/g}."
+  },
+  "8d56b733-34ba-42f8-afdc-80133cd61442": {
+    "Offset": 0,
+    "Text": "A Tutti i Costi!"
+  },
+  "27ec2334-2d1e-4522-8b6e-94154de16447": {
+    "Offset": 0,
+    "Text": ""
+  },
+  "565de6d5-31b0-4bd5-a899-52fd555454fa": {
+    "Offset": 0,
+    "Text": "<u>(1 + {g|Encyclopedia:CharacterLevel}livello personaggio{/g} / 10)</u>"
+  },
+  "83be8e42-371d-4f3a-aa24-77c23b8ea7f9": {
+    "Offset": 0,
+    "Text": "<u>(bonus {g|Encyclopedia:WarhammerFellowship}FEL{/g} / 2)</u>"
+  },
+  "3e7b5952-3398-4b80-9360-ee895f2bf7dc": {
+    "Offset": 0,
+    "Text": "Colpi con una pistola nella mano primaria infliggono il +{uip|BSBonus2|1a1ac3e3f133432a8c5c0d19cce16035}% più di danni, ottengono +15% {g|Encyclopedia:CritChancesAndCritDamageGlossary}chance di colpo critico{/g} e +{uip|FELBonus2|1a1ac3e3f133432a8c5c0d19cce16035}% {g|Encyclopedia:DodgeReduction}riduzione schivata{/g}."
+  },
+  "68d6f561-d8e6-4df9-b39b-5f1954ec7e76": {
+    "Offset": 0,
+    "Text": "Sidearm Iconico"
+  },
+  "f7ba2d71-62c5-4495-91db-da75b6282e1e": {
+    "Offset": 0,
+    "Text": "<u>(2 × bonus {g|Encyclopedia:WarhammerFellowship}FEL{/g} del Commissario)</u>"
+  },
+  "6c8bb010-9af3-4c9d-8dc2-f9413240c3ee": {
+    "Offset": 0,
+    "Text": "<u>(2 × bonus {g|Encyclopedia:WarhammerBallisticSkill}BS{/g} del Commissario)</u>"
+  },
+  "89aa894b-b44b-44e3-b4db-0621e6c27c64": {
+    "Offset": 0,
+    "Text": "L'effetto della {g|f:1a1ac3e3f133432a8c5c0d19cce16035}Iconica Arma da Fianco{/g} è ora attivo quando una pistola è equipaggiata in una qualsiasi delle due mani."
+  },
+  "fb3fda1c-53aa-4bbb-adea-6a55b177493d": {
+    "Offset": 0,
+    "Text": "Uno per i Nemici, Due per i Traditori"
+  },
+  "9a846276-688a-48b4-b72b-6b63f0883285": {
+    "Offset": 0,
+    "Text": "Quando il Commissar usa {g|f:cce96eda109f4431941cb5c240040657}A Ogni Costo!{/g} sparando da dietro, i bonus concessi dall'effetto vengono raddoppiati."
+  },
+  "2210f3cc-37ea-446c-bfca-2a7b6330104e": {
+    "Offset": 0,
+    "Text": "Esecuzione Sommaria"
+  },
+  "3985aa69-3a34-452c-b684-0c23b900724a": {
+    "Offset": 0,
+    "Text": ""
+  },
+  "d9197b1c-b93b-4f17-ba47-aeddca645f03": {
+    "Offset": 0,
+    "Text": ""
+  },
+  "bc40c46c-872c-4d52-83e2-705fea7f87b3": {
+    "Offset": 0,
+    "Text": "In combattimento, il Sacerdote del Ministorum guadagna +{uip|StatBonus|171462027afe4bc6be83799f44fa9995} {g|Encyclopedia:WarhammerWillpower}Willpower{/g}.\nAll'inizio del combattimento, guadagna {unit_stat|WarhammerWillpower|bonus} stack di {g|f:eeecc5cab7b846e8b1478ecfa15ce9bc}zelo{/g}. Guadagna +1 stack di {g|f:eeecc5cab7b846e8b1478ecfa15ce9bc}zelo{/g} per ogni nemico che attacca per la prima volta in combattimento con un bolter, un flamer, o un'arma a catena, melta o potenziata. Guadagna +2 stack di {g|f:eeecc5cab7b846e8b1478ecfa15ce9bc}zelo{/g} per ogni demone o xenos ucciso in combattimento da qualsiasi fonte."
+  },
+  "7128a60c-5b0a-4ef8-babb-51156fdae983": {
+    "Offset": 0,
+    "Text": "Fede Incrollabile"
+  },
+  "93124e79-b0ac-41dd-904a-2ad96566180b": {
+    "Offset": 0,
+    "Text": "<u>(2 × (bonus {g|Encyclopedia:WarhammerStrength}STR{/g} + bonus {g|Encyclopedia:WarhammerToughness}TGH{/g} + bonus {g|Encyclopedia:WarhammerAgility}AGI{/g} + bonus {g|Encyclopedia:WarhammerPerception}PER{/g}))</u>"
+  },
+  "45bfd3ce-6b3b-48e7-a6dd-965c3d900391": {
+    "Offset": 0,
+    "Text": "Un parametro specifico che potenzia le abilità dei Sacerdoti del Ministorum e delle sorelle dell'Adepta Sororitas."
+  },
+  "1197fca2-4bdb-409a-9dfc-4e10a1345c65": {
+    "Offset": 0,
+    "Text": "Zelo"
+  },
+  "0870c1c3-4b05-40e4-8557-1825e9d77d8d": {
+    "Offset": 0,
+    "Text": "Questa creatura è già stata attaccata dal Sacerdote del Ministorum. Se il Sacerdote la attacca di nuovo, non guadagnerà alcun {g|f:eeecc5cab7b846e8b1478ecfa15ce9bc}zelo{/g}."
+  },
+  "030cb67c-5530-4b45-b313-d455da85824b": {
+    "Offset": 0,
+    "Text": "Bersaglio Spregevole"
+  },
+  "7fec548d-4b7e-47e4-ba6d-6e853b2d0b63": {
+    "Offset": 0,
+    "Text": ""
+  },
+  "5be0cd3d-8ebf-4814-936f-824935f15678": {
+    "Offset": 0,
+    "Text": "<u>(5 × numero di {g|f:eeecc5cab7b846e8b1478ecfa15ce9bc}zeal{/g} stack)</u>"
+  },
+  "c11ffbf4-dde1-4e16-bed8-1a0ff3309447": {
+    "Offset": 0,
+    "Text": ""
+  },
+  "69fd85d9-325f-4e69-99aa-f791feedeed2": {
+    "Offset": 0,
+    "Text": ""
+  },
+  "39d68da9-88ba-4933-89ec-2ed0bb00ee06": {
+    "Offset": 0,
+    "Text": "<u>({g|Encyclopedia:WarhammerWillpower}WP{/g} bonus / 3)</u>"
+  },
+  "5ea60068-fd07-4cd8-a0cc-3dc7c9283efa": {
+    "Offset": 0,
+    "Text": ""
+  },
+  "f9da95d4-5141-4cde-9481-248fd28eb5b7": {
+    "Offset": 0,
+    "Text": ""
+  },
+  "e7e74530-04af-4623-9177-f22bc2c34a6a": {
+    "Offset": 0,
+    "Text": "<u>({g|Encyclopedia:WarhammerWillpower}WP{/g} bonus / 2)</u>"
+  },
+  "9f3770f2-9979-4756-9f54-79632f89ccf3": {
+    "Offset": 0,
+    "Text": ""
+  },
+  "33b2cc92-e744-4d7e-8024-80b44b721223": {
+    "Offset": 0,
+    "Text": ""
+  },
+  "1d6ba84c-02a4-4ddc-9a38-47aac8e706a7": {
+    "Offset": 0,
+    "Text": ""
+  },
+  "1fe56732-2212-4455-8846-09830c140ad6": {
+    "Offset": 0,
+    "Text": "Nemici in un raggio di 5 celle intorno all'Ufficiale della Navy (finché dura l'effetto di {g|f:b9f9ef145708451f81283a73c16c527d}braced{/g}) subiscono −{uip|Debuff|8379931fea56440192a660288fada89a} {g|Encyclopedia:WarhammerWeaponSkill}Weapon Skill{/g} e −{uip|Debuff|8379931fea56440192a660288fada89a} {g|Encyclopedia:WarhammerBallisticSkill}Ballistic Skill{/g}."
+  },
+  "109baaa7-5834-4359-8a26-9d6cf448ba61": {
+    "Offset": 0,
+    "Text": "Voce Stentorea"
+  },
+  "1cd01bed-9140-4654-ae4d-862bddb889fc": {
+    "Offset": 0,
+    "Text": "<u>(10 × numero di {g|Encyclopedia:Career}archetipi{/g} scelti dall'Ufficiale di Marina)</u>"
+  },
+  "7f7075df-ba37-4067-b551-6e83c1c7af02": {
+    "Offset": 0,
+    "Text": ""
+  },
+  "9682fc80-8482-4014-a38c-dc04752a8a33": {
+    "Offset": 0,
+    "Text": ""
+  },
+  "fe30195a-0863-4ff9-afe5-0024abcb9d72": {
+    "Offset": 0,
+    "Text": "<u>(10 + 2 × {g|Encyclopedia:WarhammerPerception}PER{/g} bonus)</u>"
+  },
+  "7a281f56-5f79-427d-9ce1-a70066dab7bc": {
+    "Offset": 0,
+    "Text": "Alleati con l'{g|f:b9f9ef145708451f81283a73c16c527d}braced{/g} o influenzati dalle altre abilità non di attacco dell'Ufficiale di Marina ottengono +{uip|dodge bonus|971073f6852045ca832e54ddc2e19ed4}% {g|Encyclopedia:DodgeGlossary}schivata{/g} per 1 {g|Encyclopedia:Round}turno{/g}. Non si cumula.\nL'Ufficiale di Marina e i suoi alleati con l'{g|f:b9f9ef145708451f81283a73c16c527d}braced{/g} non provocano {g|Encyclopedia:AttackOfOpportunityFullGlossary}attacchi di opportunità{/g}."
+  },
+  "5f60e6b1-6e6c-4e55-9c0d-dc09fbdb7849": {
+    "Offset": 0,
+    "Text": "Manovre Elusive"
+  },
+  "9ff91d10-29e0-4a06-a3b7-ec21734806f4": {
+    "Offset": 0,
+    "Text": ""
+  },
+  "7a8951d8-6c39-4b42-b872-b7f9435b1d48": {
+    "Offset": 0,
+    "Text": ""
+  },
+  "7a860645-c707-47d1-b456-c3b9e9b03f9e": {
+    "Offset": 0,
+    "Text": ""
+  },
+  "5d392473-6257-429d-a67a-75eebb926c38": {
+    "Offset": 0,
+    "Text": "Quando l'Ufficiale della Navy realizza un {g|Encyclopedia:CritChancesAndCritDamageGlossary}colpo critico{/g} o {g|Encyclopedia:Parry}para{/g} con successo un attacco usando la sua arma da mischia primaria, effettua immediatamente un attacco con l'arma secondaria (quello che costa meno {g|Encyclopedia:ActionPoints}PA{/g}) contro lo stesso nemico."
+  },
+  "38ef1356-795e-4f2e-812e-6774ed1553a2": {
+    "Offset": 0,
+    "Text": "Addestramento al Combattimento Navale"
+  },
+  "e8a51a6e-79de-4ddd-9be1-a7ff6341208d": {
+    "Offset": 0,
+    "Text": ""
+  },
+  "960c02ff-6699-4c47-9717-d4e3b8f166bb": {
+    "Offset": 0,
+    "Text": "L'Ufficiale della Navy {g|Encyclopedia:PushGlossary}spinge{/g} i nemici in un raggio di 2 celle a una distanza di 2 celle."
+  },
+  "c1b166a6-12c4-4ddd-83e5-7a220765f7dc": {
+    "Offset": 0,
+    "Text": "Levati da me!"
+  },
+  "c24b863d-e6ae-4f3b-865b-859a195ef2fa": {
+    "Offset": 0,
+    "Text": "Ogni carica permette al personaggio di usare {g|f:f0d6fd0433624181a3a6c9bb6fd60ab5}Brace for Impact!{/g}"
+  },
+  "a3fc7a88-1a22-46b4-a245-e9ab6d30f2fa": {
+    "Offset": 0,
+    "Text": "Preparati all'impatto!"
+  },
+  "3a966c68-27a2-4079-9706-af258acd30b2": {
+    "Offset": 0,
+    "Text": "Il personaggio guadagna +2 {g|Encyclopedia:Deflection}deviazione{/g} per ogni {g|Encyclopedia:Career}archetipo{/g} scelto dall'Ufficiale di Marina. Inoltre, il personaggio ottiene immunità agli effetti di movimento forzato e non può essere {g|Encyclopedia:OverpenetrationFullGlossary}sovrapenetrato{/g}."
+  },
+  "9716cb2a-dd3b-4f8d-9676-b8a40db76a55": {
+    "Offset": 0,
+    "Text": "Appoggiate"
+  },
+  "7c3fa560-ef42-4ea6-9213-955d7985b7f0": {
+    "Offset": 0,
+    "Text": "<u>(10 × {g|Encyclopedia:WarhammerIntelligence}INT{/g} bonus)</u>"
+  },
+  "0eb0c7d6-6358-4856-a97f-bf9edbf9f6b1": {
+    "Offset": 0,
+    "Text": "Pasqal: i colpi del suo arc rifle guadagnano +{uip|Dodgepen|bff347d4633745d0a29a7632b92aaf1b}% {g|Encyclopedia:DodgeReduction}riduzione di schivata{/g} contro bersagli primari e secondari."
+  },
+  "1cdee338-c431-4cf7-8a32-a4bf012adf80": {
+    "Offset": 0,
+    "Text": "Amplificatore Pulse"
+  },
+  "79cd88af-7d62-4179-951d-00fbdc0cd8ae": {
+    "Offset": 0,
+    "Text": "<u>({g|Encyclopedia:WarhammerIntelligence}INT{/g} / 3)</u>"
+  },
+  "e969dc04-3b60-406b-ae9c-105e6fa2d98e": {
+    "Offset": 0,
+    "Text": "L'{g|Encyclopedia:CareerAdeptGlossary}Operativo{/g} infligge il <u>(2 × numero di exploit rimossi)</u>% di {g|Encyclopedia:DamageGlossary}danni{/g} aggiuntivi fino alla fine del combattimento."
+  },
+  "17dc0236-202f-44ce-bb67-0be99ad8f913": {
+    "Offset": 0,
+    "Text": "Questo personaggio guadagna +<u>numero di exploit rimossi</u>% {g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} fino alla fine del combattimento."
+  },
+  "77077099-4305-4860-baa6-39353e077492": {
+    "Offset": 0,
+    "Text": "Il familiar ha {g|Encyclopedia:MaxWounds}ferite massime{/g} aumentate del +{uip|Wounds|f0351bf380f0498c9d68f546eac08ec3}%."
+  },
+  "42215173-ce50-4a40-8193-f92a63bb10b4": {
+    "Offset": 0,
+    "Text": "Leghe di Adamantium"
+  },
+  "a0b82062-e408-4ac4-b976-ed6929d7aea2": {
+    "Offset": 0,
+    "Text": "<u>(30 + {g|Encyclopedia:CareerOverseerGlossary}Supervisore{/g} {g|Encyclopedia:SkillTechUse}Tecnouso{/g} / 2)</u>"
+  },
+  "48b8a039-57d6-4f4a-b2be-05ca3cd58f67": {
+    "Offset": 0,
+    "Text": "Il famiglio ottiene una probabilità del {uip|Ignore|8932d22d911745a8817f9fc7c284d5dd}% di ignorare qualsiasi danno in arrivo."
+  },
+  "63b65cd8-55f2-40c7-9c4d-0774045b83dc": {
+    "Offset": 0,
+    "Text": "Misericordia dell'Omnissiah"
+  },
+  "f5456bcb-3659-4959-8b4d-62d2a54ef7a1": {
+    "Offset": 0,
+    "Text": "<u>(5 + {g|Encyclopedia:CareerOverseerGlossary}Supervisore{/g} livello personaggio / 5)</u>"
+  },
+  "61e6b137-0084-49f7-9e73-201c27430dcb": {
+    "Offset": 0,
+    "Text": "Se viene inflitto danno da mischia al famiglio, l'attaccante subisce {g|Encyclopedia:ToxicDamage}danni tossici{/g} pari al {uip|Reflec|9a3485e7900f43939a4e0afe883fb7d5}% del danno inflitto (non può superare il 100%)."
+  },
+  "ff64ad02-6cf5-4f88-ad65-0e4ad7787ede": {
+    "Offset": 0,
+    "Text": "Sistema di Dispersione del Veleno"
+  },
+  "257b6243-3b35-438c-96af-0bcd2ec8bc5b": {
+    "Offset": 0,
+    "Text": "<u>({g|Encyclopedia:CareerOverseerGlossary}Supervisore{/g} di {g|Encyclopedia:SkillMedicae}Medicae{/g} / 4)</u>"
+  },
+  "63320e6e-5153-4ba3-9a5b-7b0986c9f456": {
+    "Offset": 0,
+    "Text": "Quando i {g|Encyclopedia:HitPoints}punti ferita{/g} del famiglio scendono al di sotto del 20% per la prima volta in un {g|Encyclopedia:Round}turno{/g}, il costo della prossima abilità dell'Overseer viene ridotto a 0 {g|Encyclopedia:ActionPoints}PA{/g}."
+  },
+  "8a36b152-ec8d-402c-b41b-0a4182f80fd9": {
+    "Offset": 0,
+    "Text": "Algoritmi di Emergenza"
+  },
+  "51b24073-419b-473e-957f-2bd2d43a63e2": {
+    "Offset": 0,
+    "Text": "In combattimento, il famiglio guadagna +1 {g|Encyclopedia:Deflection}Deviazione{/g} per ogni cella tra esso e l'{g|Encyclopedia:CareerOverseerGlossary}Overseer{/g}, fino a un massimo di {unit_stat|WarhammerFellowship|bonus}."
+  },
+  "b7097b74-09fc-440e-9b4e-014b6139201d": {
+    "Offset": 0,
+    "Text": "Algoritmi di Protezione Autonoma"
+  },
+  "aa356ece-b48e-49e2-8123-ddcd3164f858": {
+    "Offset": 0,
+    "Text": "L'Assassino può muoversi attraverso i nemici e guadagna +{unit_stat|WarhammerAgility|bonus}% {g|Encyclopedia:DodgeGlossary}schivata{/g} e +{unit_stat|WarhammerPerception|bonus}% {g|Encyclopedia:DodgeReduction}riduzione schivata{/g}. I suoi attacchi infliggono il 10% di danni in più. {g|Encyclopedia:DetailsOfTheCoverGlossary}Copertura parziale{/g} fornisce all'Assassino un'efficienza di copertura del 50%."
+  },
+  "f667b39f-d122-4fd1-acbd-ae2ae8a51d25": {
+    "Offset": 0,
+    "Text": "Sfuggente"
+  },
+  "982020f7-87dd-4825-8ae7-58193c2643bb": {
+    "Offset": 0,
+    "Text": "Questa creatura ha una probabilità aumentata del +7% di essere {g|Encyclopedia:HitSequenceGlossary}colpita{/g} e {g|Encyclopedia:CritChancesAndCritDamageGlossary}colpita criticamente{/g} dall'Assassino."
+  },
+  "eab27e99-5f5d-4869-96a7-31972459af0e": {
+    "Offset": 0,
+    "Text": "Se questa creatura non ha l'{g|Encyclopedia:LineOfSight}linea di vista{/g} dell'Assassino alla fine del suo turno, subisce il {uip|WeaponDamagePercent|7bec62f15dc440748fb6d510e9b13f85}% del danno base massimo dell'arma corrente dell'Assassino."
+  },
+  "a5cccc2d-caaf-4296-8fe3-2e74654f9cbf": {
+    "Offset": 0,
+    "Text": "All'inizio del suo {g|Encyclopedia:Turn}turno{/g}, la creatura subisce {uip|Damage|7e42fcb1d83040e38e8d68d7edd96375} danni da {g|Encyclopedia:ShockDamage}shock{/g} con {uip|Pen|7e42fcb1d83040e38e8d68d7edd96375}% di {g|Encyclopedia:ArmourPenetration}penetrazione armatura{/g}.\nQuesto effetto non è considerato un effetto di danni nel tempo."
+  },
+  "52bafab9-1ba7-4268-ac3f-73a7e5eca5e3": {
+    "Offset": 0,
+    "Text": "<u>Numero di stack di {g|f:7e42fcb1d83040e38e8d68d7edd96375}echopulse{/g}</u>"
+  },
+  "c183dcee-4af1-4b97-b005-ab753082764f": {
+    "Offset": 0,
+    "Text": "<u>({g|Encyclopedia:WarhammerIntelligence}INT{/g} / 2)</u>"
+  },
+  "3fc06531-47a9-40ba-a0fa-a84ff1caeb7e": {
+    "Offset": 0,
+    "Text": "I nemici colpiti dal fucile ad arco di questo personaggio subiscono un numero di stack di {g|f:7e42fcb1d83040e38e8d68d7edd96375}echopulse{/g} pari al 10% del danno inflitto. Questi stack durano fino alla fine del combattimento."
+  },
+  "40be537a-9efe-48b3-8ff5-c3ac275d545f": {
+    "Offset": 0,
+    "Text": "Ecopulse"
+  },
+  "a928cfe3-0ff5-4bd2-8e58-dcebd4b8bd64": {
+    "Offset": 0,
+    "Text": "Ogni volta che questo personaggio {g|Encyclopedia:HitSequenceGlossary}colpisce{/g} un bersaglio con un arc rifle, il raggio dell'area in cui vengono colpiti bersagli aggiuntivi aumenta di +{uip|Range|3d2fa2e2452f4a2baf8ede757601254d} (minimo +1)."
+  },
+  "64935a63-af5e-4a93-ba21-77f1fa7840a7": {
+    "Offset": 0,
+    "Text": "Modulo Sovraccarico"
+  },
+  "612380ce-acba-4fef-8717-2d2e7aceef7b": {
+    "Offset": 0,
+    "Text": "<u>({g|Encyclopedia:WarhammerIntelligence}INT{/g} bonus / 5)</u>"
+  },
+  "71dafcc6-cafe-4402-9ee1-0902cb741f35": {
+    "Offset": 0,
+    "Text": "La creatura è {g|Encyclopedia:StaggeredEffect}stordita{/g}. Inoltre, ogni stack aumenta del +20% il {g|Encyclopedia:ShockDamage}danno da shock{/g} subito."
+  },
+  "337598d8-e6f0-4838-8f78-19a3a79ed890": {
+    "Offset": 0,
+    "Text": "Scarica ad Arco"
+  },
+  "db9c19b1-338c-402f-a6fe-affc2345049a": {
+    "Offset": 0,
+    "Text": "Bersagli colpiti dal fucile ad arco di questo personaggio devono superare un {g|Encyclopedia:WarhammerToughness}Tempra{/g} {g|Encyclopedia:ResistanceTest}test di resistenza{/g} altrimenti subiscono +1 stack di {g|f:25e7c7a70ef44e1c94d8618a77a778ec}arc-shock{/g} per 2 {g|Encyclopedia:Round}turni{/g}."
+  },
+  "e34ce110-a099-40d6-91c2-e86cef3af6b4": {
+    "Offset": 0,
+    "Text": "Scossa Sbalzante"
+  },
+  "a848a7fd-eaa6-445b-ab14-975c09a19857": {
+    "Offset": 0,
+    "Text": "Se gli alleati diventano bersagli secondari dell'arco rifle di questo personaggio, non subiscono danni."
+  },
+  "51d1851b-731c-41c0-8edc-b93a047fa0da": {
+    "Offset": 0,
+    "Text": "Liturgia di Isolamento"
+  },
+  "b7898a74-6737-4038-9356-b3ee5e046cfa": {
+    "Offset": 0,
+    "Text": "Ogni volta che questo personaggio colpisce un bersaglio con un arc rifle, ottiene +1 stack di <b>carica residua</b>. Al raggiungimento di 10 stack, ottiene immediatamente un attacco aggiuntivo con l'arc rifle. Una volta attivato l'effetto, questi stack vengono rimossi."
+  },
+  "db8b3199-0850-45ff-98ae-4ad3321c77c3": {
+    "Offset": 0,
+    "Text": "Carica Residua"
+  },
+  "f47ff194-d308-4d83-8d83-29a445059033": {
+    "Offset": 0,
+    "Text": "{g|f:1da644efeb174a789fc857602ebdfc1b}Sovraccarico Plasma (Danni Extra){/g} ignora il bonus {unit_stat|WarhammerIntelligence|bonus} della {g|Encyclopedia:Deflection}deviazione{/g} del bersaglio."
+  },
+  "3cf57a99-6b47-4662-b963-7314075c8336": {
+    "Offset": 0,
+    "Text": "Carica Perforante"
+  },
+  "81a62d0e-ac12-47ff-bda1-5b415e1d768a": {
+    "Offset": 0,
+    "Text": "Questo personaggio guadagna un attacco aggiuntivo con un'arma al plasma nel primo {g|Encyclopedia:Round}turno{/g} di combattimento e quando ricarica un'arma al plasma per la prima volta in ogni turno successivo."
+  },
+  "e9fc71ee-bfec-41d1-98e8-3aa687609a08": {
+    "Offset": 0,
+    "Text": "Blocco di Alimentazione Esterno"
+  },
+  "05bfa269-8f96-4385-8eda-42af5e368c87": {
+    "Offset": 0,
+    "Text": "{g|Encyclopedia:Reload}Ricarica{/g} di un plasma rifle costa 3 {g|Encyclopedia:ActionPoints}PA{/g} in meno e la ricarica di una plasma pistol costa 1 PA in meno."
+  },
+  "f5748a6d-094b-4f06-84c4-727c0462fd01": {
+    "Offset": 0,
+    "Text": "Banca del Plasma"
+  },
+  "36f9744e-ff31-49a7-8d36-f4f876e92f40": {
+    "Offset": 0,
+    "Text": "Questo personaggio subisce solo il 25% del danno causato da {g|f:2a5d173c50af4cfd86eb00b12848b450}Plasma Explosion{/g}. Il bonus di danno di ogni stack di {g|f:0835dbc012334dd49f849fcc92e9f708}plasma cell overheat{/g} è aumentato del +5%."
+  },
+  "b42f7f24-afee-45ea-8ede-913b02aacb53": {
+    "Offset": 0,
+    "Text": "Addestramento alla Sicurezza"
+  },
+  "50b0f470-4d48-4d21-9e19-d4655a346b2c": {
+    "Offset": 0,
+    "Text": "L'area di {g|f:0bc1f945b05e4b5593ec6151c7109a06}Sovraccarico Plasma (Attacco d'Area){/g} è aumentata di una cella aggiuntiva su ogni lato di tutti gli assi (verticale, orizzontale e diagonale)."
+  },
+  "485d7368-96f5-4d30-babb-6fe4bda676f2": {
+    "Offset": 0,
+    "Text": "Area di Splash Potenziata"
+  },
+  "b1cb469b-fb23-4bc1-bb05-b5f842e78071": {
+    "Offset": 0,
+    "Text": "{g|Encyclopedia:FireDamage}Danni da Fuoco{/g} subiti dai nemici attualmente {g|Encyclopedia:ImmobilisedEffect}immobilizzati{/g} o {g|Encyclopedia:SlowedEffect}rallentati{/g} da questo personaggio con il webber sono aumentati del +35%."
+  },
+  "fae763e1-42dc-4f9a-a149-9844b65a6bd9": {
+    "Offset": 0,
+    "Text": "Trattamento del Promethium"
+  },
+  "a5b5b0a0-1277-4b2d-8087-a87a8e144c8d": {
+    "Offset": 0,
+    "Text": "<u>(3 × {g|Encyclopedia:WarhammerPerception}PER{/g} bonus)</u>"
+  },
+  "c2b8d97d-20a7-4ea6-8533-cdad70404765": {
+    "Offset": 0,
+    "Text": "{g|Encyclopedia:AreaOfEffect}Attacchi ad area{/g} con un lanciatore di ragnatele creano un'area ragnatela che dura per 3 {g|Encyclopedia:Round}turni{/g}. Qualsiasi creatura che entra in quell'area, si muove attraverso di essa o inizia il proprio {g|Encyclopedia:Turn}turno{/g} in quest'area deve superare un {g|Encyclopedia:WarhammerAgility}Agilità{/g} {g|Encyclopedia:ResistanceTest}test di resistenza{/g} altrimenti diventa {g|Encyclopedia:SlowedEffect}rallentata{/g} per 1 turno."
+  },
+  "f47ada9f-495a-410e-98b6-4457e00ead6e": {
+    "Offset": 0,
+    "Text": "Rete Trasgico Aracnoide"
+  },
+  "c80dfa2f-f3c7-498c-a9e8-a7b45f86f9c0": {
+    "Offset": 0,
+    "Text": "{g|Encyclopedia:ResistanceTest}Test di Resistenza{/g} contro gli effetti del webber di questo personaggio subiscono una penalità di −30."
+  },
+  "625fc8a7-0fe3-4947-9607-709cf1d914fb": {
+    "Offset": 0,
+    "Text": "Ragnatela Appiccicosa"
+  },
+  "d24e64f3-770b-4007-8122-3975f05145a4": {
+    "Offset": 0,
+    "Text": "Questo primo attacco del personaggio con un webber in un {g|Encyclopedia:Round}turno{/g} non conta ai fini del {g|Encyclopedia:AttacksPerTurn}limite di attacchi per turno{/g}."
+  },
+  "e842f0f2-9a69-40a4-adb4-14ef6aef1734": {
+    "Offset": 0,
+    "Text": "Miratore"
+  },
+  "5dc453dc-f0fe-4a1f-bae2-cc8358348a7f": {
+    "Offset": 0,
+    "Text": "Quando questo personaggio utilizza armi da mischia Drukhari o Aeldari, il danno dell'arma viene calcolato utilizzando la {g|Encyclopedia:WarhammerAgility}Agilità{/g} invece della {g|Encyclopedia:WarhammerStrength}Forza{/g} se l'Agilità è maggiore."
+  },
+  "ccea4c17-271e-4561-b834-74052c0a2174": {
+    "Offset": 0,
+    "Text": "Destrezza"
+  },
+  "b19a55bb-d66d-4fbd-aeaf-ab05085e8bb6": {
+    "Offset": 0,
+    "Text": "{g|Encyclopedia:CritChancesAndCritDamageGlossary}Danno critico{/g} inflitto dalle armi a distanza Aeldari di questo personaggio è aumentato di +{unit_stat|WarhammerPerception|bonus}."
+  },
+  "66daf7de-0f8a-41ba-ad27-3c9a97817378": {
+    "Offset": 0,
+    "Text": "Precisione Mortale"
+  },
+  "c7785b19-93a0-4a18-b39b-cc85c865de33": {
+    "Offset": 0,
+    "Text": "Questo personaggio infligge +20% di danni con le armi a distanza Drukhari per ogni effetto di danno nel tempo che il bersaglio sta subendo."
+  },
+  "5cbc80b7-85ee-4683-9038-6cc1c74bbf84": {
+    "Offset": 0,
+    "Text": "Poesia del Dolore"
+  },
+  "5dc621df-9cac-4437-a02b-b65eb983c3b7": {
+    "Offset": 0,
+    "Text": "L'{g|Encyclopedia:CareerExecutionerGlossary}Executioner{/g} effettua un attacco con la sua arma secondaria. Al {g|Encyclopedia:HitSequenceGlossary}colpo{/g}, il bersaglio subisce danni dall'arma e, se è influenzato da qualsiasi {g|Encyclopedia:CommonStatusesGlossary}effetti{/g} di danni nel tempo, subisce immediatamente 4 ulteriori istanze di danni da quegli effetti. Questo non influisce sulla durata di quegli effetti.\nFino alla fine del combattimento, {g|f:4f04773685be45c29927c6740ccf64d8}Espiazione Forzata{/g} non aumenta il livello degli effetti di danni nel tempo inflitti."
+  },
+  "0b0ccb17-713f-4a32-9e4d-e3357a6ac402": {
+    "Offset": 0,
+    "Text": "L'{g|Encyclopedia:CareerExecutionerGlossary}Executioner{/g} effettua un attacco con la sua arma secondaria. Al {g|Encyclopedia:HitSequenceGlossary}colpo{/g}, il bersaglio subisce danni dall'arma e, se è affetto da qualsiasi {g|Encyclopedia:CommonStatusesGlossary}effetto{/g} di danni periodici, subisce immediatamente 4 ulteriori istanze di danni da quegli effetti. Ciò non influisce sulla durata di tali effetti."
+  },
+  "c4f683e6-18d8-47af-92e7-8826f6f1f174": {
+    "Offset": 0,
+    "Text": "Carnevale di Miseria — Seconda Arma"
+  },
+  "b96a1a60-ad20-4def-85a5-68f2e480a4c1": {
+    "Offset": 0,
+    "Text": "Proficienza di Glaito"
+  },
+  "d32cd913-28de-48b8-89a6-46a08c6dd886": {
+    "Offset": 0,
+    "Text": "Lo psyker cade immediatamente {g|Encyclopedia:UnconsciousEffect}privo di sensi{/g}, e uno o più demoni appaiono al suo posto."
+  },
+  "817724e3-f10d-4487-a8ca-876b09390502": {
+    "Offset": 0,
+    "Text": "Incursione Demoniaca"
+  },
+  "4fb11f8e-9078-44cc-8ea5-9354153b1f42": {
+    "Offset": 0,
+    "Text": "Ogni stack di questo effetto riduce {g|Encyclopedia:WarhammerStrength}Strength{/g} e {g|Encyclopedia:WarhammerPerception}Perception{/g} del −10% e {g|Encyclopedia:DodgeGlossary}dodge{/g} del −20%."
+  },
+  "9ed65b25-c928-4895-9dd6-290e868094b4": {
+    "Offset": 0,
+    "Text": "Affaticato"
+  },
+  "ae35f37a-bff3-4081-b978-9e3682dde723": {
+    "Offset": 0,
+    "Text": "Il portatore si muove in linea retta verso il bersaglio e infligge {uip|Damage|d9f20b396eb64a4293c9e3bd3270e0dc} danni, quindi {g|Encyclopedia:PushGlossary}spinge{/g} il bersaglio di 3 celle. Questa abilità non conta ai fini del limite degli {g|Encyclopedia:AttacksPerTurn}attacchi per turno{/g}.\nDevono esserci almeno 2 celle libere tra il portatore e il bersaglio per utilizzare questa abilità."
+  },
+  "03e55d45-3449-48ae-86ab-3e651c28dcda": {
+    "Offset": 0,
+    "Text": "Assalto Invincibile"
+  },
+  "82fe0ba4-4690-4a86-8093-933721258ca4": {
+    "Offset": 0,
+    "Text": ""
+  },
+  "cfba2ca4-74be-41dd-926d-8245060f9b07": {
+    "Offset": 0,
+    "Text": "<u>{g|Encyclopedia:Deflection}Deviazione{/g}</u>"
+  },
+  "65e874dc-4949-438b-98f1-e7923f1130c5": {
+    "Offset": 0,
+    "Text": ""
+  },
+  "2ccf1fbd-340d-49ac-93af-6e5f96981f01": {
+    "Offset": 0,
+    "Text": "Il portatore ottiene le abilità {g|f:4955b43454f6488f82892e166c76c995}Carica{/g} e {g|f:d9f20b396eb64a4293c9e3bd3270e0dc}Assalto Invincibile{/g}.\nOgni volta che il portatore usa {g|f:4955b43454f6488f82892e166c76c995}Carica{/g}, infligge +{uip|DmgDeflazione|2c4c34ff909a4d3f86b2ad25c5659b96} danni diretti aggiuntivi.\n<b>Proprietà base armatura</b>: +15 {g|Encyclopedia:WarhammerStrength}Strength{/g}."
+  },
+  "7c49149e-2d36-478b-8dea-41de0bbf3004": {
+    "Offset": 0,
+    "Text": "Armatura dell'Assalto Invincibile"
+  },
+  "1fe4c064-dfd5-47df-a2b3-de8f299daede": {
+    "Offset": 0,
+    "Text": "<u>(2 × {g|Encyclopedia:Deflection}deviazione{/g})</u>"
+  },
+  "5beb43b3-bb40-4558-aad6-2e3c7b1425d0": {
+    "Offset": 0,
+    "Text": "<u>{g|Encyclopedia:Deflection}Deviazione{/g}</u>"
+  },
+  "8cc9beeb-3f22-4487-b6f6-8b30fef9c2f3": {
+    "Offset": 0,
+    "Text": "<u>(3 + 3 × {g|Encyclopedia:PsyRating}valutazione psichica{/g})</u>"
+  },
+  "c522d85c-6c10-4e03-99a2-629f22d1a619": {
+    "Offset": 0,
+    "Text": "Il portatore subisce il −50% in meno di {g|Encyclopedia:WarpDamage}danni del warp{/g}.\nUna volta che il portatore subisce danni per la prima volta in un {g|Encyclopedia:Round}turno{/g}, questa armatura scatena un fulmine, infliggendo {uip|Damage|812207c99d794fe9a525dc5ba6d18132} danni a tutte le creature in un raggio di 2 celle.\n<b>Proprietà base dell'armatura</b>: +15 {g|Encyclopedia:WarhammerStrength}Forza{/g}."
+  },
+  "633cf057-5e07-4fab-9cf3-b98219756801": {
+    "Offset": 0,
+    "Text": "Portatore del Tuono"
+  },
+  "dbec44a1-a425-4f87-b738-602bfea7d9b3": {
+    "Offset": 0,
+    "Text": ""
+  },
+  "09d7f140-0638-4f70-a204-c9f51a3c3921": {
+    "Offset": 0,
+    "Text": "Mentre l'indossatore ha {g|Encyclopedia:TemporaryWounds}ferite temporanee{/g}, i suoi attacchi in mischia infliggono il 15% di danni in più.\nOgni volta che l'indossatore {g|Encyclopedia:Parry}para{/g} l'attacco nemico, ottiene +{unit_stat|WarhammerToughness|bonus} {g|Encyclopedia:TemporaryWounds}ferite temporanee{/g}.\n<b>Proprietà base dell'armatura</b>: +15 {g|Encyclopedia:WarhammerStrength}Forza{/g}."
+  },
+  "66fa1a71-4810-4dc1-89b1-ce798959ba62": {
+    "Offset": 0,
+    "Text": "Giudizio Sanguinario"
+  },
+  "b5fbd4aa-d9b6-4bb1-98cc-ba75f734287f": {
+    "Offset": 0,
+    "Text": "Finché non vi sono xenos nel gruppo, l'indossatore guadagna +10 a tutte le {g|Encyclopedia:Characteristic}caratteristiche{/g}.\n<b>Proprietà base dell'armatura</b>: +20 {g|Encyclopedia:WarhammerStrength}Strength{/g}."
+  },
+  "0598891d-ada1-4a98-8cdb-0c535c4531cc": {
+    "Offset": 0,
+    "Text": "Aderente dell'Umanità"
+  },
+  "2282c505-95f6-4b1b-9c08-ead9cf02a931": {
+    "Offset": 0,
+    "Text": "Quando l'indossatore uccide un nemico, {g|Encyclopedia:MomentumWithDetailsGlossary}momentum{/g} viene aumentato di ulteriori due volte rispetto al {g|Encyclopedia:DifficultyTier}livello di difficoltà{/g} del bersaglio."
+  },
+  "558ee3fa-5e9e-4a26-bcdf-87369869c7fa": {
+    "Offset": 0,
+    "Text": "Pellicce dello Skjald"
+  },
+  "b501a1a6-334b-44e3-b4fd-c82acc8975f6": {
+    "Offset": 0,
+    "Text": "L'abilità {g|f:22d6c1b32a6d47f4899a370e28cf16f9}Calcio{/g} costa 0 {g|Encyclopedia:ActionPoints}PA{/g} e infligge +{uip|Damage|15ad552f904944b19a7064a81bfcd801} più {g|Encyclopedia:DamageGlossary}danni{/g}.\nOgni volta che il portatore uccide un nemico con un'arma {g|Encyclopedia:RangeAreaAttacksGlossary}a distanza{/g}, il {g|Encyclopedia:Cooldown}tempo di ricarica{/g} dell'abilità {g|f:22d6c1b32a6d47f4899a370e28cf16f9}Calcio{/g} viene ripristinato."
+  },
+  "a0f671c2-aa0d-46c6-b7e5-a50500adf99c": {
+    "Offset": 0,
+    "Text": "Speroni Rompighiaccio"
+  },
+  "282893b7-3779-4ccd-96b0-8f0dd8c1e8f7": {
+    "Offset": 0,
+    "Text": "Arnoolf il grande! Arnoolf il glorioso!{br}\nIl suo passo frantuma il ghiaccio,{br}\nCinquanta braccia di profondità.{br}\nPiede pesante che cade,{br}\nInviando i nemici dell'Allfather{br}\nA nutrire il Lupo di Mare.{br}\nSkal!{br}"
+  },
+  "cd18fe19-b435-45ff-b894-9c352fec543d": {
+    "Offset": 0,
+    "Text": "Richiede {g|Encyclopedia:SoulMarkFaith}Dogmatico{/g} — Zelota\nL'aquila cibernetica guadagna +20 {g|Encyclopedia:WarhammerPerception}Percezione{/g} e {g|Encyclopedia:WarhammerAgility}Agilità{/g}, e infligge il 250% di danni in più.\nL'aquila cibernetica schiva sempre gli attacchi effettuati da xenos, psyker o demoni."
+  },
+  "f42d44c6-6c64-4c29-9ffb-8defd7244c3f": {
+    "Offset": 0,
+    "Text": "Aquila Immacolata"
+  },
+  "61ee8e07-54a4-4af3-bc76-832e22d3621c": {
+    "Offset": 0,
+    "Text": "Richiede {g|Encyclopedia:SoulMarkCorruption}Eretico{/g} — Zealota\nL'aquila cibernetica guadagna +20 {g|Encyclopedia:WarhammerPerception}Percezione{/g} e {g|Encyclopedia:WarhammerAgility}Agilità{/g}, e infligge il +250% di danni in più.\nOgni volta che l'aquila cibernetica {g|Encyclopedia:DodgeGlossary}schiva{/g} un attacco fatto dal nemico {g|f:1e22c265a12744cc95a03d26b6c3cef9}ostacolato{/g}, quel nemico esegue un attacco contro sé stesso, infliggendo il +100% di danni in più. Non può essere {g|Encyclopedia:BlockChance}bloccato{/g}, {g|Encyclopedia:Parry}parato{/g}, o {g|Encyclopedia:DodgeGlossary}schivato{/g}."
+  },
+  "b3a1e0ae-4a25-4c75-a24e-6c9a4e66c4ce": {
+    "Offset": 0,
+    "Text": "Venti Impazziti"
+  },
+  "1724f741-f768-47c9-a7fc-83a71d5f7355": {
+    "Offset": 0,
+    "Text": "Richiede {g|Encyclopedia:SoulMarkHope}Iconoclasta{/g} — Zelota\nL'aquila cibernetica guadagna +20 {g|Encyclopedia:WarhammerPerception}Percezione{/g} e {g|Encyclopedia:WarhammerAgility}Agilità{/g}, e infligge il 250% di danni in più.\nAll'inizio di ogni {g|Encyclopedia:Round}turno{/g}, tutti i personaggi alleati guadagnano 2 stack dell'effetto {g|f:90f1c90ae52342fda66f67d43e988286}esca{/g}."
+  },
+  "6263af8c-cb3c-4021-bff8-25f9c0fb59ba": {
+    "Offset": 0,
+    "Text": "Devozione dell'Aquila"
+  },
+  "a87c88c9-3fe1-4dfd-9496-0460e318ee64": {
+    "Offset": 0,
+    "Text": "Richiede {g|Encyclopedia:SoulMarkFaith}Dogmatico{/g} — Zelota\nLe {g|Encyclopedia:MaxWounds}ferite massime{/g} del cyber-mastiff aumentano del +50%, e infligge il +250% di danni in più.\nSe il bersaglio è uno xenoide, uno psyker o un demone, questo colpisce sempre con un {g|Encyclopedia:CritChancesAndCritDamageGlossary}colpo critico{/g}."
+  },
+  "69a48db8-7cf7-40c0-88c8-14cb443efdb3": {
+    "Offset": 0,
+    "Text": "Zanne Consacrate"
+  },
+  "c625582f-5ea0-4d0f-b05b-7c65815fb33b": {
+    "Offset": 0,
+    "Text": "Alleati"
+  },
+  "acee3998-49ff-4ce5-9824-58477d1ae654": {
+    "Offset": 0,
+    "Text": "Nemici"
+  },
+  "609a7e63-ec35-475f-ae6a-5f590bcc51d5": {
+    "Offset": 0,
+    "Text": "Richiede {g|Encyclopedia:SoulMarkCorruption}Eretico{/g} — Zelota\nI {g|Encyclopedia:MaxWounds}punti ferita massimi{/g} del cyber-mastiff aumentano del +50%, e infligge il +250% di danni.\nIl cyber-mastiff infligge il +20% di danni in più per ogni nemico sconfitto e il +200% per ogni personaggio alleato incosciente."
+  },
+  "79843df0-9179-4d26-bcfd-42df475fdf9d": {
+    "Offset": 0,
+    "Text": "Cane da Guerra"
+  },
+  "7ecca9d9-d002-4982-b6dc-cc652f731147": {
+    "Offset": 0,
+    "Text": "<u>(Sorvegliante {g|Encyclopedia:SkillCoercion}Coercizione{/g} / 5)</u>"
+  },
+  "a765fa1f-115c-4c59-a3e5-c3ef77c21560": {
+    "Offset": 0,
+    "Text": "Richiede Iconoclasta — Zealot\nLe ferite massime del cyber-mastiff sono aumentate del +50% e infligge il +250% di danni in più.\nTutti i danni inflitti all'alleato {g|f:7d75105e9e224ceab784932c12a26757}protetto{/g} vengono invece inflitti al cyber-mastiff. I danni subiti dal cyber-mastiff {g|f:a63088cd6402424b8ec0c508e5143083}protettivo{/g} da qualsiasi fonte sono ridotti del −{uip|DamageResist|7108aa88cc5a4099a543f5f57741156c}%."
+  },
+  "5e18a7a5-7d81-42bc-8a85-a15fb7d847f5": {
+    "Offset": 0,
+    "Text": "Modello di Lealtà"
+  },
+  "af087a02-4c1c-4bfa-a106-33b1908eed8b": {
+    "Offset": 0,
+    "Text": "{g|Encyclopedia:VeilThickness}Degradazione del Velo{/g} cambia a 0. Gli effetti di {g|f:3ddbf131cbd54087a665d4b2e026b0f2}ustione del warp{/g} e {g|f:26be6a9ad4c540a4921f25834a2f420f}ustione dell'anima{/g} vengono rimossi da tutti gli alleati entro un raggio di 4 celle intorno al psyber-raven."
+  },
+  "c0d37d81-8ca4-49ed-b745-5a672959e542": {
+    "Offset": 0,
+    "Text": "Luce del Trono"
+  },
+  "1fc32b96-1990-4494-b4c0-3b4e38ce9c17": {
+    "Offset": 0,
+    "Text": "Richiede {g|Encyclopedia:SoulMarkFaith}Dogmatico{/g} — Zelota\nLa psyber-raven guadagna +25 {g|Encyclopedia:WarhammerWillpower}Volontà{/g} e {g|Encyclopedia:WarhammerAgility}Agilità{/g}.\nL'Supervisore ottiene l'abilità {g|f:7f6f5b934a994383b8490c76fd5023d4}Luce del Trono{/g}."
+  },
+  "72b3d3e7-456f-4ecf-bace-d5778dda6395": {
+    "Offset": 0,
+    "Text": "Il suo Portatore di Luce"
+  },
+  "8c2cf3fa-6dc0-485a-a776-07f2fe7da410": {
+    "Offset": 0,
+    "Text": "{g|Encyclopedia:VeilThickness}Degrado del Velo{/g} cambia a 20. Il psyber-corvo viene disattivato e 4 demoni casuali appaiono al suo posto. Attaccano ogni creatura in combattimento, tranne loro stessi."
+  },
+  "d07cc9d6-f753-4d6e-acac-8d0e4e857b89": {
+    "Offset": 0,
+    "Text": "Chiamata al Raccolto"
+  },
+  "401acf9d-cefe-4af8-8faf-d1521e1b0650": {
+    "Offset": 0,
+    "Text": "Richiede {g|Encyclopedia:SoulMarkCorruption}Eretico{/g} — Zelota\nIl psyber-corvo guadagna +25 {g|Encyclopedia:WarhammerWillpower}Volontà{/g} e {g|Encyclopedia:WarhammerAgility}Agilità{/g}.\nL'Supervisore ottiene l'abilità {g|f:98b43ba9ab564287abfb43f07585e053}Richiamo al Raccolto{/g}."
+  },
+  "06a70867-1d70-4676-98e0-3d6fcec53d3b": {
+    "Offset": 0,
+    "Text": "Banchetto di Sofferenza"
+  },
+  "f921403c-7569-4da8-8f7f-7692eeccd298": {
+    "Offset": 0,
+    "Text": "Quando questa abilità viene utilizzata, ogni nemico in un raggio di 4 celle intorno al psyber-raven, tranne i demoni con la caratteristica {g|f:de9ae96560504c13af0825e60e397b2c}Creatura del Warp{/g}, attiva {g|Encyclopedia:PerilsOfWarp}i pericoli del warp{/g}, come se il loro {g|Encyclopedia:PsyRating}psy rating{/g} fosse pari a 5. Non può causare l'evocazione di demoni.\n<i>Nota:</i> questo non conta come innescare i pericoli del warp per effetti che dipendono da esso."
+  },
+  "20f53ea0-6a7f-4efd-9cf9-92b15191f7e3": {
+    "Offset": 0,
+    "Text": "Fardello della Strega"
+  },
+  "011d086f-4b5d-4ad2-b787-561bb945e5a6": {
+    "Offset": 0,
+    "Text": "Richiede {g|Encyclopedia:SoulMarkHope}Iconoclast{/g} — Zelota\nIl psyber-corvo guadagna +25 {g|Encyclopedia:WarhammerWillpower}Volontà{/g} e {g|Encyclopedia:WarhammerAgility}Agilità{/g}.\nL'Osservatore ottiene l'abilità {g|f:0818714dfe324d8bbfbd6a6f3ac0b2f6}Fardello della Strega{/g}."
+  },
+  "8c0619dd-3a35-4e39-86be-05a3e448070a": {
+    "Offset": 0,
+    "Text": "Catalizzatore dell'Immaterium"
+  },
+  "8249f430-8354-4282-8e53-8c0e3cd17fd8": {
+    "Offset": 0,
+    "Text": "Richiede {g|Encyclopedia:SoulMarkFaith}Dogmatico{/g} — Zelota\nLo sciame di servo-skull guadagna +20 {g|Encyclopedia:WarhammerFellowship}Socialità{/g} e {g|Encyclopedia:WarhammerIntelligence}Intelligenza{/g}.\nGli attacchi dell'Overseer contro xenos, psyker e demoni che sono {g|f:a115669547864ccc816f0598a404e816}sotto sorveglianza{/g} ignorano {g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} e {g|Encyclopedia:Deflection}deviazione{/g}, e non possono essere {g|Encyclopedia:BlockChance}bloccati{/g} o {g|Encyclopedia:Parry}parati{/g}."
+  },
+  "45094676-7e6e-4ae2-b991-184026f9cf77": {
+    "Offset": 0,
+    "Text": "Nessuna Pietà per gli Impuri"
+  },
+  "1a6282c1-ec4a-4c7c-9c0c-f4e962b18580": {
+    "Offset": 0,
+    "Text": "Richiede {g|Encyclopedia:SoulMarkCorruption}Eretico{/g} — Zelota\nLo sciame di servo-skull guadagna +20 {g|Encyclopedia:WarhammerFellowship}Socialità{/g} e {g|Encyclopedia:WarhammerIntelligence}Intelligenza{/g}.\nNemici che sono {g|f:a115669547864ccc816f0598a404e816}sotto sorveglianza{/g} falliscono automaticamente tutti i test contro l'Osservatore."
+  },
+  "49b95bf2-2dab-4a45-82d2-782154077ddb": {
+    "Offset": 0,
+    "Text": "Idolo Impuro"
+  },
+  "56ae10af-a115-42f6-8967-cb34bcbd3242": {
+    "Offset": 0,
+    "Text": "Richiede {g|Encyclopedia:SoulMarkHope}Iconoclasta{/g} — Zelota\nLo sciame di servo-skull guadagna +20 {g|Encyclopedia:WarhammerFellowship}Socialità{/g} e {g|Encyclopedia:WarhammerIntelligence}Intelligenza{/g}.\nSe c'è almeno un alleato in un raggio di 4 celle intorno allo sciame di servo-skull, la creatura familiare non può essere disattivata."
+  },
+  "4c7aed50-7c6a-450f-b03f-408f17d13652": {
+    "Offset": 0,
+    "Text": "Vigil Senza Fine"
+  },
+  "f0872e0f-9c13-4a12-a912-3bd80ade7d78": {
+    "Offset": 0,
+    "Text": "Il {g|Encyclopedia:Recoil}rinculo{/g} dello Space Marine è ridotto a 0. I bersagli degli {g|Encyclopedia:MeleeAttacksGlossary}attacchi in mischia{/g} dello Space Marine subiscono l'effetto {g|Encyclopedia:StaggeredEffect}stordito{/g}."
+  },
+  "7c16f6f0-9ad5-4e64-bcd0-187000c9d50d": {
+    "Offset": 0,
+    "Text": "Guanti di Ghiaccio Insanguinati"
+  },
+  "aef8ad75-900b-41cd-8c22-2c48f8cd880b": {
+    "Offset": 0,
+    "Text": "Arnoolf ruppe in una risata,{br}\nE il suo fedele bolter rispose con un ululato.{br}\nPelle contro armatura, congelata dal sangue dei nemici,{br}\nLa presa dell'eroe non conosce dubbio!{br}\nSkal!{br}"
+  },
+  "f57cb1d2-1bcf-4beb-a33a-987d7189ace6": {
+    "Offset": 0,
+    "Text": "Quando il portatore esegue un attacco ad {g|Encyclopedia:MeleeAttacksGlossary}area in mischia{/g}, il {g|Encyclopedia:DamageGlossary}danno{/g} base viene aumentato di +2 per ogni bersaglio colpito."
+  },
+  "84c09088-c875-4a62-a862-b0ac5e8b890e": {
+    "Offset": 0,
+    "Text": "Elmo del Lupo Ridente"
+  },
+  "2f87a506-5077-4bd1-b138-4dbe3c78b6c2": {
+    "Offset": 0,
+    "Text": "Glorioso Arnoolf in una tempesta di spade,{br}\nEccitato come un lupo in un inverno famelico.{br}\nLa sua sete mai placata{br}\nPer il mjod scarlatto sulla neve bianca.{br}\nSkal!{br}"
+  },
+  "407a3ca0-74b6-47ba-8f9e-2ea3ca97d296": {
+    "Offset": 0,
+    "Text": "Il portatore guadagna +10% {g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} e immunità a tutti i {g|Encyclopedia:CritChancesAndCritDamageGlossary}colpi critici{/g}."
+  },
+  "b09aad4e-0328-4417-8b22-3cbe682ceef5": {
+    "Offset": 0,
+    "Text": "Teschio del Lupo Rosso"
+  },
+  "dac27731-5ae2-445e-abc6-7c49bc73ca78": {
+    "Offset": 0,
+    "Text": "Il casco di Ulfar è coperto di misteriose rune fenrisiane e motivi a spirale che evocano la potenza del mondo natale dei Space Wolves e raccontano le numerose insidie che lo Space Marine ha sopportato prima di indossare per la prima volta la sua power armor."
+  },
+  "7c0998a9-489a-4c57-a28e-25e4d6a76e77": {
+    "Offset": 0,
+    "Text": "Fino alla fine del combattimento, il personaggio ha il proprio {g|Encyclopedia:WarhammerArmourGlossary}armour{/g} e {g|Encyclopedia:Deflection}deviazione{/g} ridotti della metà, ma il proprio {g|Encyclopedia:CritChancesAndCritDamageGlossary}danno critico{/g} aumentato di +{uip|Armour|1e2eb58ea37445b697e959e630ba4e59}% e {g|Encyclopedia:MeleeAttacksGlossary}attacco da mischia{/g} {g|Encyclopedia:DamageGlossary}danno{/g} aumentato di +{uip|Deflection|1e2eb58ea37445b697e959e630ba4e59}. Tutti gli effetti si sommano."
+  },
+  "12fac93e-455a-4f47-8738-a924a3e1588e": {
+    "Offset": 0,
+    "Text": "Furia Inesorabile"
+  },
+  "b464094c-cb12-48d5-915e-851fe2d8aca4": {
+    "Offset": 0,
+    "Text": ""
+  },
+  "b229c48c-59b8-42ca-bf24-c1624b4cb297": {
+    "Offset": 0,
+    "Text": ""
+  },
+  "9e17044d-02af-4aa2-8f3f-437ab57c5878": {
+    "Offset": 0,
+    "Text": "Vuoti Sotterranei"
+  },
+  "29fe4bc7-2d2b-4ab6-8793-a421f4ffd434": {
+    "Offset": 0,
+    "Text": "Colpo critico con auto-fallimento"
+  },
+  "0760ff1d-d1dd-4c32-8a4a-fcd3fce0e540": {
+    "Offset": 0,
+    "Text": "Il bersaglio deve essere sotto l'effetto di {text}"
+  },
+  "c79b46de-dff6-4202-8408-63248794851c": {
+    "Offset": 0,
+    "Text": "Il bersaglio deve essere sotto l'effetto di {text}"
+  },
+  "a044b07b-c030-4200-bb1a-c07e1cd24c25": {
+    "Offset": 0,
+    "Text": "Mostra armatura"
+  },
+  "21db6062-ed18-4443-81af-f226ce12bf6a": {
+    "Offset": 0,
+    "Text": "Mostra stivali"
+  },
+  "3bc7ac0b-9ee2-4a75-ab75-e0aeb5b4d138": {
+    "Offset": 0,
+    "Text": "Mostra guanti"
+  },
+  "2f95236b-825c-409b-a74a-43e285f303e6": {
+    "Offset": 0,
+    "Text": "Aggiungi ai Preferiti"
+  },
+  "1aa1a27c-96b8-452c-8ca2-aae7d945018e": {
+    "Offset": 0,
+    "Text": "Rimuovi dai Preferiti"
+  },
+  "3acd7b38-c1fa-443e-bf7b-ec7bc6ce4adf": {
+    "Offset": 0,
+    "Text": "Poppa"
+  },
+  "10aaddba-25ec-4157-bd44-88cc463abd33": {
+    "Offset": 0,
+    "Text": "Corazzatura e Scudi"
+  },
+  "fad32f1b-e96c-44cb-9590-73bf4ef59c1e": {
+    "Offset": 0,
+    "Text": "Prua"
+  },
+  "f225cd49-393b-47c8-bf2e-06e0c3e47308": {
+    "Offset": 0,
+    "Text": "Classificazione Psichica"
+  },
+  "2d2b94d3-923e-46aa-a305-53b3cdae201e": {
+    "Offset": 0,
+    "Text": "Preferiti"
+  },
+  "0ecaf448-dd87-45b3-97a0-3d16dac6a5a2": {
+    "Offset": 0,
+    "Text": ""
+  },
+  "a149c492-16fc-4da1-bf75-4073461da415": {
+    "Offset": 0,
+    "Text": ""
+  },
+  "76f64ed6-3f42-448c-ba82-5a0b76480dce": {
+    "Offset": 0,
+    "Text": "Il Sovrintendente deve essere Dogmatico"
+  },
+  "fbec7a72-e933-4595-ae4e-df4801b7a654": {
+    "Offset": 0,
+    "Text": "Il Supervisore deve essere Eretico"
+  },
+  "fdd2972a-ffec-4361-b650-539df4b77b82": {
+    "Offset": 0,
+    "Text": "Il Supervisore deve essere Iconoclast"
+  },
+  "6ce6ff24-e5e9-44ae-a897-0841a629b2b7": {
+    "Offset": 0,
+    "Text": "Ripristino Ferite"
+  },
+  "151ab24f-5543-45e4-91e6-dffa6a3ce869": {
+    "Offset": 0,
+    "Text": ""
+  },
+  "5cc36a81-ce1d-42f4-930a-6318df592e1c": {
+    "Offset": 0,
+    "Text": "Acquista tutto disponibile"
+  },
+  "dfbde654-eb11-4c5c-93ba-e8245144544e": {
+    "Offset": 0,
+    "Text": "Fucile ad Arco"
+  },
+  "42199da2-676c-47e5-b5a2-e13eee4e71b1": {
+    "Offset": 0,
+    "Text": "Fucile da Cecchino"
+  },
+  "3073187b-d2ce-4144-a5e7-8141d6549f94": {
+    "Offset": 0,
+    "Text": "Tessitore"
+  },
+  "446933fa-897f-413e-9ddd-d86f18a50dac": {
+    "Offset": 0,
+    "Text": "+4 al danno di {g|Encyclopedia:MacroCannonsSpace}macro-cannon{/g} contro nemici del Chaos e xenos"
+  },
+  "320b6afd-ae11-45ac-88c0-11a0a10d3c66": {
+    "Offset": 0,
+    "Text": "Proiettili Santificati"
+  },
+  "816b578a-12b0-4a06-bf2c-d251b40e7cf4": {
+    "Offset": 0,
+    "Text": "+10% ai danni inflitti dalle voidship alleate e +30 alla loro {g|Encyclopedia:HullIntegritySpace}integrità dello scafo{/g}"
+  },
+  "0d398afd-d339-434a-b583-f87955d537d3": {
+    "Offset": 0,
+    "Text": "Riparazione della Flotta"
+  },
+  "a58fdecf-dac8-448a-bc14-8364ada4c48d": {
+    "Offset": 0,
+    "Text": ""
+  },
+  "e23d1418-18fb-4d90-b8a6-2898c61aba4e": {
+    "Offset": 0,
+    "Text": ""
+  },
+  "c823ccd4-637e-4345-b6dd-d4ba88cf6102": {
+    "Offset": 0,
+    "Text": "<u>(10 × numero di alleati dell'utilizzatore dell'Arc Rifle Alpha ancora in combattimento)</u>"
+  },
+  "d00c9d8f-81ce-44fc-8c51-26dbf67e5a6e": {
+    "Offset": 0,
+    "Text": "<u>({g|Encyclopedia:WarhammerIntelligence}INT{/g} bonus / 2)</u>"
+  },
+  "a8cbe8ff-7ca5-47b4-bba2-ab637b1fc172": {
+    "Offset": 0,
+    "Text": "Infligge +{uip|Damage|12268145c253474cb0ff40f2329b3355} di danno base in più."
+  },
+  "2686b695-cf27-4f57-9f54-52b3c1c152a9": {
+    "Offset": 0,
+    "Text": "Tempesta Mentale dell'Arc Rifle"
+  },
+  "fb7baaa6-d7f1-4572-876a-b14ccce5e820": {
+    "Offset": 0,
+    "Text": "<u>({g|Encyclopedia:WarhammerIntelligence}INT{/g} / 2)</u>"
+  },
+  "758c9634-5a72-4cbb-9343-4a57727e64f1": {
+    "Offset": 0,
+    "Text": "Ogni creatura in un raggio di 1 cella intorno al portatore subisce {g|Encyclopedia:EnergyDamage}danni energetici{/g} pari al danno dell'arma al plasma, utilizzando la sua {g|Encyclopedia:ArmourPenetration}penetrazione armatura{/g}. Il portatore subisce il doppio dei danni con il doppio della penetrazione armatura.\nQuando l'esplosione si verifica, tutte le stack di {g|f:0835dbc012334dd49f849fcc92e9f708}surriscaldamento celle al plasma{/g} vengono rimosse dal portatore."
+  },
+  "bcb16d15-b422-43d0-9a23-53e4188c5021": {
+    "Offset": 0,
+    "Text": "{g|Encyclopedia:ResistanceTest}Test di Resistenza{/g} contro gli effetti di questo webber subiscono una penalità di −10."
+  },
+  "f22ec546-8e55-4b7e-887b-558ba251ccc3": {
+    "Offset": 0,
+    "Text": "{g|Encyclopedia:ResistanceTest}Test di Resistenza{/g} contro gli effetti di questo webber subiscono una penalità di −15."
+  },
+  "df30b680-6934-426c-8296-14123b49d1a0": {
+    "Offset": 0,
+    "Text": "{g|Encyclopedia:ResistanceTest}Test di Resistenza{/g} contro gli effetti di questo webber subiscono una penalità di −25."
+  },
+  "076a94fb-28c8-4f96-9020-c382de55e250": {
+    "Offset": 0,
+    "Text": "Tessitore di Ragnatele"
+  },
+  "713b43d3-c5d6-45d2-bd3c-55ab5649b4c5": {
+    "Offset": 0,
+    "Text": "Dopo che il Rogue Trader ha lasciato i sistemi Necron, la via verso di essi è stata chiusa. I cancelli che conducono ai Tomb Worlds sono rimasti sotto il controllo del Lord Captain, e non c'era modo di sapere se {mf|lui|lei} stesse proteggendo l'Umanità dai pericoli in agguato oltre di essi, o se {mf|si fosse semplicemente reso|si fosse semplicemente resa} l'unico proprietario delle terrificanti tecnologie e dei segreti degli xenos."
+  },
+  "14d57ec5-c73d-4315-a8d7-0a43938ddc8f": {
+    "Offset": 0,
+    "Text": "Mentre lasciavano i sistemi dei Necron, Nomos distrusse ogni Tomb World degli antichi xenos. Una qualche eterna contesa si era risvegliata all'interno della giovane divinità, pretendendo che i pianeti dei non morti venissero completamente cancellati."
+  },
+  "51639055-fb04-4768-997a-f0a3b4d8171b": {
+    "Offset": 0,
+    "Text": "Prima di lasciare i sistemi Necron, il Lord Inquisitor Calcazar ordinò alla divinità conquistata di distruggere ogni Tomb World. Così perì un'altra minaccia per l'Umanità nel settore, insieme ai segreti nascosti che deteneva sulla natura del mostro messo al servizio dell'Imperium."
+  },
+  "42f328af-58e1-4532-a726-9ce1b47f215a": {
+    "Offset": 0,
+    "Text": "<u>livello di potenza del bastone dello psyker</u>"
+  },
+  "162ae9a0-2347-4361-96de-dd6095b4ac5f": {
+    "Offset": 0,
+    "Text": "<u>(2 + {g|Encyclopedia:PsyRating}valore psi{/g})</u>"
+  },
+  "e8eab8b9-ee6a-4eec-961b-633b3c2921ff": {
+    "Offset": 0,
+    "Text": "<u>({g|Encyclopedia:PsyRating}valutazione psi{/g} + livello di potenza del bastone dello psyker)</u>"
+  },
+  "9b59ce20-86e8-45df-97b0-050d1936a192": {
+    "Offset": 0,
+    "Text": "<u>(2 × livello di potenza dello staff dello psyker)</u>"
+  },
+  "24e80e6d-4d7d-4ce6-a488-96aac4a0729f": {
+    "Offset": 0,
+    "Text": "<u>(2 + {g|Encyclopedia:PsyRating}punteggio psy{/g})</u>"
+  },
+  "ebeb84b1-e751-4d3f-a868-c9d5f4013e5d": {
+    "Offset": 0,
+    "Text": "<u>(2 × {g|Encyclopedia:PsyRating}valutazione psi{/g} + livello di potenza del bastone dello psyker)</u>"
+  },
+  "7b23602d-8d1a-4c05-98f0-4752238ca634": {
+    "Offset": 0,
+    "Text": "<u>(2 × livello di potenza del bastone dello psyker)</u>"
+  },
+  "b33ad5f8-1ae6-492e-81cc-f812201a1601": {
+    "Offset": 0,
+    "Text": "<u>(2 + {g|Encyclopedia:PsyRating}punteggio psichico{/g})</u>"
+  },
+  "c113b407-523e-43e1-a8e5-0e773dae29b9": {
+    "Offset": 0,
+    "Text": "<u>(2 × {g|Encyclopedia:PsyRating}livello psi{/g} + livello di potenza del bastone dello psyker)</u>"
+  },
+  "a2ba41f8-8257-4fc0-a0e7-1f1e1d72a55d": {
+    "Offset": 0,
+    "Text": "<u>((1 + {g|Encyclopedia:PsyRating}valore psi{/g}) × livello di potenza del bastone dello psyker)</u>"
+  },
+  "36a3b816-55b4-42c4-95f9-f2d6264facd1": {
+    "Offset": 0,
+    "Text": "<u>((1 + {g|Encyclopedia:PsyRating}rating psichico{/g}) × livello di potenza del bastone dello psyker)</u>"
+  },
+  "13f36ee1-6429-48d1-aa6f-00e733b003dc": {
+    "Offset": 0,
+    "Text": "<u>(2 × livello di potere del bastone dello psyker)</u>"
+  },
+  "088ef4af-2316-4ad7-80c9-f872225b698b": {
+    "Offset": 0,
+    "Text": "<u>(2 × (1 + {g|Encyclopedia:PsyRating}punteggio psyker{/g}) × livello di potenza del bastone dello psyker)</u>"
+  },
+  "0ac34040-708e-4f91-a067-b77e461c6a34": {
+    "Offset": 0,
+    "Text": "<u>(2 × potenza del bastone dello psyker)</u>"
+  },
+  "4a56dabb-5ccd-49dc-a4be-0333d9c0b0df": {
+    "Offset": 0,
+    "Text": "<u>(livello di potere del bastone dello psyker + {g|Encyclopedia:PsyRating}psy rating{/g} dello psyker)</u>"
+  },
+  "4a12af9a-7327-4253-8459-9e156dd86195": {
+    "Offset": 0,
+    "Text": "<u>livello di potenza del bastone dello psyker</u>"
+  },
+  "ec47c145-022b-4225-abec-b58b31ffbad3": {
+    "Offset": 0,
+    "Text": "<u>livello di potenza del bastone dello psyker + {g|Encyclopedia:PsyRating}valutazione psichica{/g} dello psyker</u>"
+  },
+  "d429ea90-73ac-4a97-8ebe-82984c420459": {
+    "Offset": 0,
+    "Text": "<u>(livello di potenza del bastone dello psyker + {g|Encyclopedia:PsyRating}psy rating{/g} dello psyker)</u>"
+  },
+  "fb5f5c3a-1dcf-4ef6-9f37-173fdfbf4738": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "c6ef3f02-f0bf-4857-a8af-97c27c0977d5": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "9911cb94-cb39-4986-92d8-8f857e06fc5b": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "3d5447a9-a340-405c-b811-216bb8d4e27d": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "d3f44471-3b91-4713-92a2-87c1a18416c3": {
+    "Offset": 0,
+    "Text": "Ogni volta che chi indossa questo oggetto uccide un nemico, il {g|Encyclopedia:Cooldown}tempo di ricarica{/g} di {g|f:9395d6c10694470f8c8ea3c74c7e09c7}Go For the Throat{/g} viene ripristinato.\n<b>Proprietà base dell'armatura</b>: +25 {g|Encyclopedia:WarhammerStrength}Forza{/g}."
+  },
+  "3aa3e9d7-6f50-44b0-93c7-016c51ddcf5c": {
+    "Offset": 0,
+    "Text": "Armatura della Forza di Fenris"
+  },
+  "6e41a78e-9da0-445b-8c80-fca82911bead": {
+    "Offset": 0,
+    "Text": "No uguale vi era nella Tana{br}\nAd Arnoolf per forza e allegria.{br}\nMostri colpendo con mano possente,{br}\nScacciando con risate il morso dell'Inverno Infernale.{br}\nSkal!{br}"
+  },
+  "e571eee2-da45-42f7-805f-5e26d9bd5558": {
+    "Offset": 0,
+    "Text": "Tutti gli alleati non xenos guadagnano +2 {g|Encyclopedia:Deflection}deviazione{/g} contro xenos e demoni."
+  },
+  "1e7edd22-31ab-4c07-93fa-3c6cea4c88ca": {
+    "Offset": 0,
+    "Text": "Luce di Fede"
+  },
+  "e3befaa1-88cc-4e70-89b0-61bf59ea0f45": {
+    "Offset": 0,
+    "Text": "Il Rogue Trader e i suoi alleati infliggono il 15% di danni in più con fiamme e granate."
+  },
+  "1ba177f3-821b-4ba1-9422-10db7975f256": {
+    "Offset": 0,
+    "Text": "Promethium Santificato"
+  },
+  "48bcb822-aedb-48ce-a1bc-a93d182a897a": {
+    "Offset": 0,
+    "Text": "Tutti gli alleati guadagnano +5 {g|Encyclopedia:SkillAthletics}Atletica{/g} e subiscono il −10% in meno di {g|Encyclopedia:ToxicDamage}danni tossici{/g}."
+  },
+  "8944096b-f37f-4978-a916-92ab4a079c7f": {
+    "Offset": 0,
+    "Text": "Neuro-Soppressori per la Plebaglia"
+  },
+  "9d9fab4a-c6ff-4d27-8d7e-96d2b7ed0902": {
+    "Offset": 0,
+    "Text": "Livello di {g|Encyclopedia:ToxinEffect}tossina{/g} inflitta dal Rogue Trader o dai suoi alleati aumentato di +3."
+  },
+  "4b946f42-815b-46f8-8641-bcc14e7933d8": {
+    "Offset": 0,
+    "Text": "Nettare Velenoso"
+  },
+  "a422bb9e-8456-4218-bd47-0f04e0c7be60": {
+    "Offset": 0,
+    "Text": "Arma {g|Encyclopedia:LanceWeaponSpace}lance{/g} a medio raggio che infligge <u>(da 36 a 52)</u> {g|Encyclopedia:SpaceBattleDamageGlossary}danni{/g} a un nemico scelto all'interno di un ristretto {g|Encyclopedia:FiringArcSpace}arco di fuoco{/g}."
+  },
+  "5cec0455-26a4-4b94-8e8d-a47c5aa41966": {
+    "Offset": 0,
+    "Text": "Quando Marazhai effettua un attacco aggiuntivo concesso da {g|f:1b26e486d9974b9ca26d055413fb3e01}Dual-Weapon Combat{/g}, utilizzando un'arma Drukhari, quell'attacco non subisce penalità e non vede aumentato il suo costo."
+  },
+  "f240acdd-da56-404b-9e77-99cf20bfca40": {
+    "Offset": 0,
+    "Text": "Supremazia dei Nati Puri"
+  },
+  "237cf086-ee96-47bf-b205-6d44ce0dd5d9": {
+    "Offset": 0,
+    "Text": "Quando Yrliet uccide un bersaglio con un {g|Encyclopedia:SingleRangedAttacksGlossary}attacco con colpo singolo{/g} di un'arma Aeldari per la prima volta in un {g|Encyclopedia:Round}turno{/g}, guadagna immediatamente un attacco aggiuntivo."
+  },
+  "9f6e3c5d-2e32-4922-8bc0-e9a109cf21d1": {
+    "Offset": 0,
+    "Text": "Percorso dell'Emarginato"
+  },
+  "6bcb2929-8847-4cd1-bc2a-cfab4b7a69ec": {
+    "Offset": 0,
+    "Text": "Infligge {g|Encyclopedia:ToxicDamage}danni tossici{/g}. Il bersaglio deve superare un {g|Encyclopedia:WarhammerToughness}test di Resistenza{/g} altrimenti subisce l'effetto {g|Encyclopedia:ProneEffect}prono{/g} e {g|Encyclopedia:ToxinEffect}tossina{/g} (6)."
+  },
+  "09b3e29f-ac11-4730-9c59-bc7f11f7deae": {
+    "Offset": 0,
+    "Text": ""
+  },
+  "1235ca58-957a-4ad5-9fda-1bafe990527a": {
+    "Offset": 0,
+    "Text": ""
+  },
+  "256d8b5a-a7c9-4aa6-bd71-f258e19289b9": {
+    "Offset": 0,
+    "Text": ""
+  },
+  "edebdc83-6863-4b1f-8154-644c95325ac5": {
+    "Offset": 0,
+    "Text": ""
+  },
+  "b01bfefa-b331-41d7-90a9-b38eb00c4346": {
+    "Offset": 0,
+    "Text": "<u>(numero di stack di {g|f:0835dbc012334dd49f849fcc92e9f708}surriscaldamento celle al plasma{/g} / 2)</u>"
+  },
+  "d6e86d32-6fdc-49bc-850e-860a7d6d8646": {
+    "Offset": 0,
+    "Text": "Colpi da questa pistola non causano mai {g|f:2a5d173c50af4cfd86eb00b12848b450}Esplosione al Plasma{/g}, ma gli attacchi di sovraccarico al plasma costano +{uip|AP|43fd6cdd5921407f9eac01903ce5afd7} {g|Encyclopedia:ActionPoints}PA{/g} in più."
+  },
+  "4a314470-6b6c-4e08-8d6f-cd65c23916b2": {
+    "Offset": 0,
+    "Text": "Pistola al Plasma Procyon B"
+  },
+  "c879e051-6cdb-4863-a5ca-f77f754c3cad": {
+    "Offset": 0,
+    "Text": "Se il portatore è un Tech-Priest o ha un'altra arma al plasma nello stesso set, gli attacchi di sovraccarico di quest'arma costano −1 {g|Encyclopedia:ActionPoints}PA{/g} in meno."
+  },
+  "5e5acf82-6f39-45c3-b5ec-fdd1352da121": {
+    "Offset": 0,
+    "Text": "Pistola al Plasma Procyon A"
+  },
+  "614f1aff-10c8-47de-9c99-b0cab4b4d004": {
+    "Offset": 0,
+    "Text": "{g|Encyclopedia:Reload}Ricaricamento{/g} di quest'arma rimuove tutti gli stack di {g|f:0835dbc012334dd49f849fcc92e9f708}surriscaldamento celle al plasma{/g} dal portatore."
+  },
+  "3f711e5a-8e14-49a1-a46f-9c542f33a434": {
+    "Offset": 0,
+    "Text": "Pistola al Plasma con Modulo Crionico"
+  },
+  "e238ca99-9326-481d-99d4-e2f42df98aa6": {
+    "Offset": 0,
+    "Text": "La creatura è {g|Encyclopedia:BlindedEffect}accecata{/g}. Inoltre, la {g|Encyclopedia:HitSequenceGlossary}probabilità di colpire{/g} contro di essa è aumentata del +{uip|HitChance|bcce07e5964c409f9708c87306e2413e}% e la {g|Encyclopedia:CritChancesAndCritDamageGlossary}probabilità di colpo critico{/g} del +{uip|CritChance|bcce07e5964c409f9708c87306e2413e}%."
+  },
+  "6c6ed814-ccdc-467d-abcb-14b4522e71cf": {
+    "Offset": 0,
+    "Text": "Luce di Petrakara"
+  },
+  "273f8a30-df7a-407d-b3cf-308aeaf4e1b9": {
+    "Offset": 0,
+    "Text": "<u>(10 + rango {g|Encyclopedia:SoulMarkFaith}Dogmatico{/g} del portatore della Benedetta Lampada di Petrakara)</u>"
+  },
+  "c92433ef-0345-44f3-8a71-d82d02b84db4": {
+    "Offset": 0,
+    "Text": "<u>(5 + rango {g|Encyclopedia:SoulMarkFaith}Dogmatico{/g} del portatore della Lampada Benedetta di Petrakara)</u>"
+  },
+  "44f319b4-56b7-457d-afd9-666db44153ad": {
+    "Offset": 0,
+    "Text": "La Sete della Marchesa"
+  },
+  "596e120b-334d-4e2c-ab4b-a1c2d40bb9af": {
+    "Offset": 0,
+    "Text": "{g|f:2a5d173c50af4cfd86eb00b12848b450}Esplosione al Plasma{/g} causata da quest'arma colpisce i bersagli in un raggio di 2 celle. Il tipo di danno inflitto a ogni bersaglio, escluso il portatore, è considerato danno {g|Encyclopedia:WarpDamage}warp{/g}."
+  },
+  "d35265a6-0f25-4cd8-9d0c-bb4c1e6b6dba": {
+    "Offset": 0,
+    "Text": "Il Bagliore delle Stelle Morte"
+  },
+  "fca67fb5-12b4-4eca-838b-323857ddd484": {
+    "Offset": 0,
+    "Text": "Mentre il portatore ha 2 o più stack di {g|f:0835dbc012334dd49f849fcc92e9f708}surriscaldamento celle al plasma{/g}, quest'arma infligge un danno aggiuntivo del 30% come {g|Encyclopedia:FireDamage}danni da fuoco{/g}."
+  },
+  "b5ee9458-41e6-495f-a937-d879d06af1e1": {
+    "Offset": 0,
+    "Text": "{g|Encyclopedia:OverpenetrationFullGlossary}Probabilità di Overpenetrazione{/g} aumentata del +50%. In caso di overpenetrazione, l'arma non subisce penalità sui danni inflitti."
+  },
+  "817788bd-afed-4a17-934b-fdb5bb57123d": {
+    "Offset": 0,
+    "Text": "Stella Neutrona"
+  },
+  "98e56e9a-706d-4311-8133-50d28168cf05": {
+    "Offset": 0,
+    "Text": "Il portatore può effettuare solo attacchi ad area con quest'arma. Questi attacchi costano 1 PA in meno e non infliggono danni agli alleati del portatore."
+  },
+  "4364f1f1-b634-4c60-9d43-440aa65dd934": {
+    "Offset": 0,
+    "Text": ""
+  },
+  "d5a187ca-46c5-4b10-9e9e-a07073ebe749": {
+    "Offset": 0,
+    "Text": "Quest'arma possiede solo l'abilità {g|f:a39a31f8f11445cba7e420dce565babc}Colpire{/g}. Al {g|Encyclopedia:HitSequenceGlossary}colpo{/g}, ogni nemico in un raggio di 2 celle attorno al bersaglio viene ugualmente attaccato e non può {g|Encyclopedia:Parry}parare{/g} quell'attacco."
+  },
+  "6fbf337b-d054-40db-ab02-60c3d4ca7c8e": {
+    "Offset": 0,
+    "Text": "Mjodlner"
+  },
+  "61c338a8-3dc3-40f2-934e-994ccbd99d02": {
+    "Offset": 0,
+    "Text": "Tecnomante"
+  },
+  "9b11e139-ee0d-45da-b9ec-8333e7abc428": {
+    "Offset": 0,
+    "Text": "Pietà!"
+  },
+  "474b112b-422f-4930-a7fd-1c0a5e7f4d2b": {
+    "Offset": 0,
+    "Text": "pietà!"
+  },
+  "4f3e6daa-5f74-4e9b-ae71-2a2892856a5b": {
+    "Offset": 0,
+    "Text": "PIETÀ!"
+  },
+  "b1c3fbe7-f43f-4468-b0dd-a1600ac232b7": {
+    "Offset": 0,
+    "Text": ""
+  },
+  "3def5958-1db9-4c49-ac18-f694a8d5c328": {
+    "Offset": 0,
+    "Text": ""
+  },
+  "c74f9c8a-5e4d-41c3-92a0-e9c2ec845b27": {
+    "Offset": 0,
+    "Text": ""
+  },
+  "76015f7f-33f2-459d-96df-a078b425fc0e": {
+    "Offset": 0,
+    "Text": ""
+  },
+  "7e323af4-e838-4998-a134-ab9fa0ff4f00": {
+    "Offset": 0,
+    "Text": "с"
+  },
+  "9845a791-fe88-4557-91e2-e28404b63283": {
+    "Offset": 0,
+    "Text": ""
+  },
+  "d36e7cd2-fa9d-4482-b8ae-7b8b8fd87a0a": {
+    "Offset": 0,
+    "Text": "Ormai, la faccenda nei Quartieri Ombra deve essersi certamente conclusa... in una forma o nell'altra."
+  },
+  "b1579c02-3b31-4547-8ebe-3a64c4861c47": {
+    "Offset": 0,
+    "Text": ""
+  },
+  "e0121793-a5cf-4012-816f-5df3bff7bf31": {
+    "Offset": 0,
+    "Text": "Un nemico {g|f:1e22c265a12744cc95a03d26b6c3cef9}ostacolato{/g} nei suoi attacchi contro i suoi alleati guadagna +{uip|DodgeReductionBonus|716db50043764b14802c71e4774d6010}% di {g|Encyclopedia:DodgeReduction}riduzione schivata{/g} e infligge +{uip|WarpDamage|716db50043764b14802c71e4774d6010} danni warp aggiuntivi, incrementati dal bonus danni del protocollo dell'aquila cibernetica."
+  },
+  "300d7fc3-ee33-4482-8d6b-6fe4e80eabad": {
+    "Offset": 0,
+    "Text": "Ombra della Perdizione"
+  },
+  "706f56f6-f37a-4a38-a557-06b751a1a971": {
+    "Offset": 0,
+    "Text": "<u>(5 × bonus {g|Encyclopedia:WarhammerPerception}PER{/g} del famiglio)</u>"
+  },
+  "d98f7359-6519-47ba-b219-28b58b2f9f04": {
+    "Offset": 0,
+    "Text": "<u>(Bonus {g|Encyclopedia:WarhammerAgility}AGI{/g} del Famiglio × Grado {g|Encyclopedia:SoulMarkCorruption}Eretico{/g} del Supervisore)</u>"
+  },
+  "bbcdf53a-6926-4717-864c-2cf1b689e07d": {
+    "Offset": 0,
+    "Text": "Il personaggio guadagna {uip|tHPNumber|5da89253c7ea493d92a955f101a53349} {g|Encyclopedia:TemporaryWounds}ferite temporanee{/g}. Può rilanciare un tentativo fallito di {g|Encyclopedia:DodgeGlossary}schivata{/g} e {g|Encyclopedia:Parry}parata{/g} e ignorare la prossima istanza di danno."
+  },
+  "7893326d-dcc2-439f-ae4b-825805de2b11": {
+    "Offset": 0,
+    "Text": "Tocco Rigenerante"
+  },
+  "e6dbc966-f961-4247-9b4b-65fb7aa1d272": {
+    "Offset": 0,
+    "Text": "<u>Rango di {g|Encyclopedia:SoulMarkHope}Iconoclasta{/g} del Sovrintendente</u>"
+  },
+  "facbe4ca-cf1a-4402-bf04-eec102da088d": {
+    "Offset": 0,
+    "Text": "Quando l'aquila cibernetica si muove attraverso le celle, adiacente ai suoi alleati, conferisce loro {g|f:5da89253c7ea493d92a955f101a53349}Tocco Vivificante{/g} per 1 {g|Encyclopedia:Round}turno{/g}."
+  },
+  "c05d39b9-b2c7-4ec8-bc58-a8f1114265b9": {
+    "Offset": 0,
+    "Text": "Guardiano della Vita"
+  },
+  "92de414e-68f1-4586-b9a4-ca9930c3c888": {
+    "Offset": 0,
+    "Text": "Mentre l'aquila cibernetica è {g|f:ec56854df2e84ef196a49079a43b5211}in volo{/g}, la {g|Encyclopedia:Resolve}determinazione{/g} di tutti gli alleati non xenos aumenta di +{uip|ResolveBonus|8ab6e0555aba4bb691a9e01fce6bef99}. Non si cumula.\nOgni volta che l'aquila cibernetica smette di {g|f:ec56854df2e84ef196a49079a43b5211}volare{/g}, tutti gli alleati non xenos ottengono {g|Encyclopedia:TemporaryWounds}ferite temporanee{/g}, pari alla loro determinazione. Inoltre, la loro {g|Encyclopedia:DodgeReduction}riduzione schivata{/g} e {g|Encyclopedia:ParryReduction}riduzione parata{/g} aumentano del +<u>determinazione</u>%. Entrambi gli effetti sono attivi per 1 {g|Encyclopedia:Round}turno{/g}."
+  },
+  "8aec968f-f250-4119-8e1a-fcdf0485bb36": {
+    "Offset": 0,
+    "Text": "Visione di Reverenza"
+  },
+  "fde7bfbf-ee25-43cb-89b2-e781c366bc72": {
+    "Offset": 0,
+    "Text": "<u>Grado {g|Encyclopedia:SoulMarkFaith}Dogmatico{/g} del Sovrintendente</u>"
+  },
+  "56337492-d11a-43fc-893e-b111c4559440": {
+    "Offset": 0,
+    "Text": "Quando il cyber-mastiff attacca un bersaglio, infligge {uip|FireDamage|a02ad192625a4bc289b3a59008ab84ea} danni da fuoco aggiuntivi {g|Encyclopedia:FireDamage}da fuoco{/g}. Se il bersaglio soffre dell'effetto {g|Encyclopedia:BurningEffect}bruciatura{/g}, non può {g|Encyclopedia:DodgeGlossary}schivare{/g}, {g|Encyclopedia:Parry}parare{/g} o {g|Encyclopedia:BlockChance}bloccare{/g} l'attacco del cyber-mastiff."
+  },
+  "910a1ee2-783f-49f9-8d2b-4b38e1e15fce": {
+    "Offset": 0,
+    "Text": "Bestia Infuocata"
+  },
+  "7898165a-408e-4892-9a56-89b5e23fa890": {
+    "Offset": 0,
+    "Text": "<u>Grado {g|Encyclopedia:SoulMarkCorruption}Eretico{/g} del Supervisore</u>"
+  },
+  "458d7bd8-0be2-4924-bb5f-45be2e81789f": {
+    "Offset": 0,
+    "Text": "Mentre un alleato è ancora in combattimento e adiacente al cyber-mastiff, subisce il −{uip|DamageReduced|4b7781d804484271947c42e2cdbe1727}% di danni in meno da tutte le fonti e recupera {uip|RestoredWounds|4b7781d804484271947c42e2cdbe1727} {g|Encyclopedia:HitPoints}punti ferita{/g} all'inizio del proprio {g|Encyclopedia:Turn}turno{/g}."
+  },
+  "62355384-2451-40af-b4ca-68a5a7fc29db": {
+    "Offset": 0,
+    "Text": "Bestia Fedele"
+  },
+  "690dd3d5-bd8f-45b7-8e82-b541472a0d5b": {
+    "Offset": 0,
+    "Text": "<u>Grado di {g|Encyclopedia:SoulMarkHope}Iconoclasta{/g} del Supervisore</u>"
+  },
+  "f3a77106-36e0-4dd1-a34d-e73f893fface": {
+    "Offset": 0,
+    "Text": "<u>(Rango {g|Encyclopedia:SoulMarkHope}Iconoclasta{/g} del Sovrintendente + bonus {g|Encyclopedia:WarhammerToughness}TGH{/g} del famiglio)</u>"
+  },
+  "c8ca3fc5-1de3-4baa-b769-9231d50df2c3": {
+    "Offset": 0,
+    "Text": "Ogni volta che il cyber-mastiff infligge danni durante un attacco, guadagna +<u>(danni inflitti / 25)</u> stack dell'effetto {g|f:6cf8cf0920bd461aa5bddb4d45d49649}frenzied{/g}. Si accumula fino a 100 volte."
+  },
+  "38ce196e-a036-45b3-908f-1255aada33cd": {
+    "Offset": 0,
+    "Text": "Frenesia Ciberbestiale"
+  },
+  "a1540725-ef05-44fa-ab79-6f10cbcbe677": {
+    "Offset": 0,
+    "Text": "Quando il cyber-mastiff subisce danni letali, rimane attivato e recupera {uip|RestoredWounds|6cf8cf0920bd461aa5bddb4d45d49649} {g|Encyclopedia:HitPoints}ferite{/g} se ha più di 30 stack di {g|f:6cf8cf0920bd461aa5bddb4d45d49649}Truculence{/g}."
+  },
+  "190d4390-ea51-4def-9557-f03a9a6e0d42": {
+    "Offset": 0,
+    "Text": "Frenetico"
+  },
+  "8cd69a07-8f8e-4593-8b0d-1b9aa5b6ad79": {
+    "Offset": 0,
+    "Text": "<u>(Numero di stack frenetici × Rango {g|Encyclopedia:SoulMarkFaith}Dogmatico{/g} del Supervisore)</u>"
+  },
+  "b53ca7ad-34bd-421e-8648-b51cd6c28fec": {
+    "Offset": 0,
+    "Text": "Ogni stack di questo effetto aumenta {g|Encyclopedia:WarhammerWeaponSkill}Weapon Skill{/g}, {g|Encyclopedia:WarhammerBallisticSkill}Ballistic Skill{/g}, {g|Encyclopedia:WarhammerWillpower}Willpower{/g}, e {g|Encyclopedia:WarhammerStrength}Strength{/g} di +5 e {g|Encyclopedia:Resolve}resolve{/g} di +1."
+  },
+  "9e60a746-42e1-4e5a-812c-c2ce11c761f7": {
+    "Offset": 0,
+    "Text": "Solligio del Warp"
+  },
+  "369ef0e7-1d2b-4bfb-89a4-0da19b002063": {
+    "Offset": 0,
+    "Text": "Tutti gli alleati in un raggio di 4 celle intorno al psyber-raven guadagnano +{uip|WPBonus|1ff86f1bc340493d9ca708f838c7678c} {g|Encyclopedia:WarhammerWillpower}Willpower{/g}, subiscono il −50% di danni in meno dai demoni e sono immuni all'effetto {g|f:423e91ce057d4e2489043ded7306f3e2}orrori del warp{/g}.\nSe un alleato inizia il proprio {g|Encyclopedia:Turn}turno{/g} in un raggio di 4 celle intorno al psyber-raven, guadagna +1 stack dell'effetto {g|f:d601afbd98d44f7fb57fe84c12f2dc59}sollievo del warp{/g} fino alla fine del combattimento. Si accumula fino a 5 volte."
+  },
+  "e56680f3-f94f-4b2d-9204-a67471233ac3": {
+    "Offset": 0,
+    "Text": "Ancoraggio al Warp"
+  },
+  "44ebf3db-bd9c-4ff6-a028-794ac2c0b738": {
+    "Offset": 0,
+    "Text": "<u>Bonus {g|Encyclopedia:WarhammerWillpower}WP{/g} del Famiglio</u>"
+  },
+  "93c85dc1-2e5f-4779-a1bc-d86558c2e133": {
+    "Offset": 0,
+    "Text": "Il primo {g|Encyclopedia:PsykerPowersGlossary}potere psichico{/g} nel {g|Encyclopedia:Round}turno{/g} {g|f:fcf1f3b77e3e4cf7ba2cb960e2e6028e}trasmesso{/g} attraverso il corvo psibernetico brucia i nemici in un raggio di 4 celle intorno al famiglio, infliggendo loro {uip|FireDamage|6a40ad34e6fa4400a96b82ebd140fcaa} {g|Encyclopedia:FireDamage}danni da fuoco{/g}.\nQuel danno viene aumentato del +100% contro nemici xenos, psyker e demoni."
+  },
+  "272552dc-ff71-493b-92d8-f077b8c4ff9f": {
+    "Offset": 0,
+    "Text": "Conflagrazione"
+  },
+  "8bd16e36-67bd-4f0c-90aa-92f97aa3ce4e": {
+    "Offset": 0,
+    "Text": "<u>(10 + bonus {g|Encyclopedia:WarhammerWillpower}WP{/g} del famiglio × grado {g|Encyclopedia:SoulMarkFaith}Dogmatico{/g} del Sovrintendente)</u>"
+  },
+  "7f868969-ec59-4581-b377-9ac229cc0d28": {
+    "Offset": 0,
+    "Text": "Se viene inflitto danno all'Overseer mentre si trova in un raggio di 4 celle intorno al psyber-corvo, questo danno viene inflitto a un personaggio alleato casuale."
+  },
+  "481b5ab2-6dcb-4c3c-b07f-b142b1f7d329": {
+    "Offset": 0,
+    "Text": "Solo Pedine"
+  },
+  "b6e9af9f-d6aa-453e-94dc-4625ba3454a9": {
+    "Offset": 0,
+    "Text": "Mentre l'Overseer è in un raggio di 4 celle intorno al servo-skull swarm, gli alleati non-xenos in quell'area guadagnano +{uip|ResolveBonus|e5265e74557c4069b8312921f4c640b1} {g|Encyclopedia:Resolve}resolve{/g}.\nTutti gli xenos, demoni e psyker in quell'area subiscono +{uip|DamageModifier|e5265e74557c4069b8312921f4c640b1}% di danni in più da qualsiasi fonte."
+  },
+  "7b638128-23e2-4253-8943-2514bd58685d": {
+    "Offset": 0,
+    "Text": "Fiamma di Fede"
+  },
+  "8d8f00f7-de26-4420-90f7-01f6290fc544": {
+    "Offset": 0,
+    "Text": "<u>Grado {g|Encyclopedia:SoulMarkFaith}Dogmatico{/g} dell'Ispettore</u>"
+  },
+  "a7827517-6a20-44d2-9e53-c79be94cb6d7": {
+    "Offset": 0,
+    "Text": "<u>(Bonus di {g|Encyclopedia:WarhammerIntelligence}INT{/g} del Famiglio × Grado {g|Encyclopedia:SoulMarkFaith}Dogmatico{/g} del Supervisore)</u>"
+  },
+  "8e1c8d3e-20a2-48d9-aa72-9f68f9bebfef": {
+    "Offset": 0,
+    "Text": "Dopo che un totale di cinque creature sono morte o personaggi alleati sono caduti privi di sensi in un raggio di 4 celle intorno allo sciame di servo-skull, l'Overseer e i personaggi alleati che iniziano il loro {g|Encyclopedia:Turn}turno{/g} in quell'area guadagnano +1 {g|Encyclopedia:ActionPoints}PA{/g}."
+  },
+  "df67206e-0bd6-439d-90d7-029a9f2719f7": {
+    "Offset": 0,
+    "Text": "Massa Sanguinosa"
+  },
+  "cb1b844c-1476-4fae-ac3c-3dfaeba6a527": {
+    "Offset": 0,
+    "Text": "Quando un personaggio alleato cade privo di sensi o subisce un {g|Encyclopedia:Injury}nuovo infortunio{/g} in un raggio di 4 celle intorno all'sciame di servo-skull, il {g|Encyclopedia:MomentumWithDetailsGlossary}momentum{/g} del gruppo non viene ridotto. Invece, viene aumentato di +{uip|DeathMomentum|7118f19ea17a4fa9bf849fe70766fbbb} per ogni personaggio alleato ancora in combattimento."
+  },
+  "a772d56e-e43d-496b-a9bc-5ad083842a7a": {
+    "Offset": 0,
+    "Text": "Coraggio Vero"
+  },
+  "89010097-42e2-45dc-9abb-66b9f39b98be": {
+    "Offset": 0,
+    "Text": "<u>Grado di {g|Encyclopedia:SoulMarkHope}Iconoclasta{/g} del Supervisore</u>"
+  },
+  "4f90d918-d245-4487-bd62-3190a9274c0e": {
+    "Offset": 0,
+    "Text": "Ha dimostrato preoccupazione per il coro della nave fornendo loro rifornimenti."
+  },
+  "0bfcbdd2-c898-4b5e-a279-1486f185e440": {
+    "Offset": 0,
+    "Text": "{n}Il sangue inizia a colare dagli angoli degli occhi di Idira.{/n} \"Il veleno del mistero non scoperto sta corrodendo gli interni d'acciaio e il sangue vitale che scorre al loro interno. Dentro la carne affine si nasconde una mente bizzarra, in attesa che la sua preda cada addormentata. Che valore ha domani, o figlio dell'Umanità? Risveglia il disturbo assopito e scoprilo, altrimenti prosegui nell'ignoranza finché non perderai te stesso.\" {n}Mentre riacquista i sensi, Idira inspira bruscamente, poi ti lancia uno sguardo di lato:{/n} \"Ci rifletta bene, Lord Captain. Stiamo per lasciar sfuggire l'ultimo filo. E se i sussurri delle mie vocine hanno un senso, senza il rituale, le cose si metteranno molto male.\""
+  },
+  "94d95de0-9bea-42f5-8731-8ebeec8f90d1": {
+    "Offset": 0,
+    "Text": "{n}Heinrix ti rivolge uno sguardo stanco e quasi infastidito.{/n} \"Ci sono state milioni di persone che hanno trascurato di rimuovere una minaccia nascosta — e sono state esse stesse rimosse dall'esistenza prima del loro tempo come conseguenza. Valuti la sua dinastia? Poiché questo potrebbe essere il prezzo dell'indolenza e della codardia. Esegua il rituale.\""
+  },
+  "d501ec2c-33f7-4a78-9d39-45824daadf1e": {
+    "Offset": 0,
+    "Text": "{n}L'espressione di Jae diventa insolitamente seria.{/n} \"Non sono molto propenso a giocare con i poteri del warp, shereen. Ma ignorare un pugnale puntato contro di me è un'idea che mi piace ancora meno.\""
+  },
+  "8b8b1a77-e767-4c38-a237-18eb9622e7fb": {
+    "Offset": 0,
+    "Text": "\"Lotte intestine e nemici appostati mi hanno rubato la mia casa.\" {n}Nonostante i suoi sforzi per nasconderlo, noti un lieve tremito nella voce della Navigatrice.{/n} \"Se quel rituale può svelare la minaccia, allora dobbiamo agire. Meglio accettare le prossime perdite come un sacrificio necessario piuttosto che perdere tutto quanto.\""
+  },
+  "f5d2ec0a-516a-4eab-97c8-afc65de48dae": {
+    "Offset": 0,
+    "Text": "\"Domin, la volontà dell'Immortale ci ha condotto a Veni'Zacchary, e Lui ci ordina di percorrere un cammino stretto e sanguinoso. Se ci allontaniamo da questo cammino ora, il nostro segno scomparirà per sempre...\""
+  },
+  "504b668b-75d0-4244-a205-eef49f7645bb": {
+    "Offset": 0,
+    "Text": "Aiutato Zacchary Weisz a superare la sua colpa."
+  },
+  "2a0bef50-b09b-407b-9286-db722dde4271": {
+    "Offset": 0,
+    "Text": "Rifiutato di liberare Kibellah dal suo debito nonostante ciò che l'Haemonculus le aveva fatto."
+  },
+  "b6f6b509-0d07-4aca-8190-5c08a5ca72c3": {
+    "Offset": 0,
+    "Text": "\"{name}, sono pronto ai tuoi ordini. Non è la prima volta che partecipo alla soppressione di una ribellione. Ricorda, più spietatamente la schiacceremo, migliore sarà l'esito.\""
+  },
+  "e073baaa-b851-406e-9c3f-dbf0fe7e8591": {
+    "Offset": 0,
+    "Text": "Hai trattato il contrabbandiere cieco con compassione."
+  },
+  "aae9a70d-c318-4d3c-a7bb-951d9c188df2": {
+    "Offset": 0,
+    "Text": "Ha esaminato l'anima dell'operaio con uno sguardo empio per ricercare tracce di corruzione."
+  },
+  "112b95ab-2ea7-4738-82ef-2c2a1bf743f3": {
+    "Offset": 0,
+    "Text": "Ha versato la verità di peccati e crimini nella macchina di confessione sotto il mantello dell'anonimato."
+  },
+  "228dffb8-3a4c-43b1-8a1b-02004d9195f1": {
+    "Offset": 0,
+    "Text": "\"I problemi di Thassera sono stati risolti. Se vuoi i dettagli, vai a vedere di persona.\""
+  },
+  "af010d2a-fee9-4cb4-a53a-87d1dc390913": {
+    "Offset": 0,
+    "Text": "\"A essere onesti, questa è la prima volta che sento parlare di questo pianeta. Leethus doveva essere uno di quei segreti di cui sono a conoscenza solo pochi eletti - e ancora meno tra questi pochi riescono a rimanere in vita una volta che il loro scopo è stato compiuto.\""
+  },
+  "db58488e-8e84-48a6-adde-d1e3bb74f969": {
+    "Offset": 0,
+    "Text": "\"Sei protetto da una manciata di uomini e servitor — decisamente insufficiente per fermarmi.\""
+  },
+  "2dc9fe8f-cf07-474b-9dad-2cb534001648": {
+    "Offset": 0,
+    "Text": "\"Sbagli i calcoli: Slither-in-Darkness è il mercenario xenos più pericoloso in questa parte del settore. E il mio Timoniere... Dopo tutte le atrocità che ha commesso, sarebbe difficile definirlo umano.\""
+  },
+  "d9952d5e-be4a-4218-9ebc-1f6167783589": {
+    "Offset": 0,
+    "Text": "\"Siamo giunti per onorare i più grandi tra i grandi!\""
+  },
+  "ebc22c27-d86b-4949-aa1e-8a1046c22611": {
+    "Offset": 0,
+    "Text": "\"Se solo potessi contemplare le meraviglie delle stelle... anche solo per un attimo!\""
+  },
+  "9440f055-e5a8-4319-92ab-26e5a656daee": {
+    "Offset": 0,
+    "Text": "\"Questo ricevimento è splendido come quelli tra le stelle! Non credi?\""
+  },
+  "66b43906-37a0-4d90-8c9d-d06653d683c1": {
+    "Offset": 0,
+    "Text": "\"Miei nobili amici, beviamo un brindisi — all'arrivo del nostro ospite più distinto!\""
+  },
+  "049aa589-f5dc-4d9c-9f93-da04f58b3f22": {
+    "Offset": 0,
+    "Text": "\"Dio-Imperatore sia benedetto, sei sopravvissuto! Era così spaventoso... Come possono esistere tali abominazioni nel Suo mondo?!\""
+  },
+  "e1eb32b9-a9a4-47c6-80b1-2156157be8b2": {
+    "Offset": 0,
+    "Text": "\"Questo ascensore potrebbe essere la via per la Città Alta — se solo non fosse così in alto.\""
+  },
+  "82a6984e-c62c-4956-aea3-7e6b3588d917": {
+    "Offset": 0,
+    "Text": "\"Per il verbale, quello è stato un vero capolavoro!\""
+  },
+  "a8e1bc16-f27d-416b-be36-82bf1f9aa681": {
+    "Offset": 0,
+    "Text": "\"Credi che questo ti aiuterà a vincere? Il mio destino non è più nelle tue mani!\""
+  },
+  "27c9a9cf-da10-45a2-a705-3317ff9349f2": {
+    "Offset": 0,
+    "Text": "\"Un giorno benedetto davvero per il commercio!\""
+  },
+  "5ae6df8a-13dc-4417-a67d-128aa5347ea3": {
+    "Offset": 0,
+    "Text": "\"Rendete omaggio ai Signori e alle Signore Celesti! Onorateli facendo più acquisti!\""
+  },
+  "920ede83-6de8-439a-a077-bf15554f38b4": {
+    "Offset": 0,
+    "Text": "\"E da dove vieni?\""
+  },
+  "4e926123-677e-4c3e-8a57-0c2576525613": {
+    "Offset": 0,
+    "Text": "\"Da un mondo civilizzato lontano — sì, Thassera manca di molto di ciò a cui ero abituato, eppure dopo il mio incarico qui, ben presto ho imparato ad amare questo pianeta con tutto il cuore. Spero che durante la tua visita anche tu possa provare almeno un po' di affetto per Thassera.\""
+  },
+  "dd1dc048-a5fb-4123-bcae-8ca6c7f26175": {
+    "Offset": 0,
+    "Text": "{n}Ruoldo cambia bruscamente argomento, poco propenso a dire di più sul suo mondo natale. Il motivo di questo rimane poco chiaro.{/n}"
+  },
+  "23b8010d-461a-4ca6-a426-835190defa20": {
+    "Offset": 0,
+    "Text": "{n}Ruoldo non sembra per niente abbattuto — scambiare le scintillanti guglie di un hive per le torri oscure di un mondo feudale avrebbe spezzato lo spirito di molti.{/n}"
+  },
+  "2773d9c2-1e10-44fd-8df7-c7737da97933": {
+    "Offset": 0,
+    "Text": "\"Grazie per questo ballo, ma... fermiamoci qui. Potremo riprenderlo un'altra volta, quando non sarai così distratto.\""
+  },
+  "b28a24b5-8884-4ee1-a8ac-7bc6af1268eb": {
+    "Offset": 0,
+    "Text": "{n}Argenta scuote la testa.{/n} \"Servire l'Imperatore solo per guadagnarsi un destino migliore? Che fondamenta pietose per la fede su Thassera! I missionari devono essere inviati qui per mettere questo mondo sul vero cammino, finché c'è ancora tempo.\""
+  },
+  "7ef3bfbe-0c8b-4889-866f-4b74b896efeb": {
+    "Offset": 0,
+    "Text": "\"Elemosinare benedizioni invece di prove è un insulto all'Eterno — questa è la verità.\""
+  },
+  "68abbe5a-3247-4e5b-a89c-dadd529a4cde": {
+    "Offset": 0,
+    "Text": "\"È chiaro che i fanatici imperiali non hanno messo piede su Thassera negli ultimi secoli. Altrimenti avresti un'altra melodia: che si debba soffrire, pregare finché la vista non si affievolisce, e poi soffrire ancora una volta.\""
+  },
+  "c017f7e3-f3b1-49e3-8fdc-41be70907ee2": {
+    "Offset": 0,
+    "Text": "{n}Sebbene i Thasseriani onorino il Dio-Imperatore, la loro interpretazione del Credo sconfina quasi nell'eresia. Servirlo è già di per sé una ricompensa, e solo il desiderio di servire più a lungo e con maggiore zelo è degno di essere perseguito.{/n}"
+  },
+  "f0d356cd-0ed7-49d9-bed1-1f9eda170325": {
+    "Offset": 0,
+    "Text": "{n}In verità, il detto recita: quanti sono i mondi, altrettanti sono i percorsi di fede nel Dio-Imperatore. Quindi, non sorprende che la dottrina di Thasserian sia plasmata in una forma quasi poetica.{/n}"
+  },
+  "17752bce-73fd-4d84-843b-c40f89969118": {
+    "Offset": 0,
+    "Text": "\"Ordinò che la bocca del mutante condannato fosse liberata dai punti.\""
+  },
+  "16bddf35-3062-4075-ae8b-a6e6ddc87749": {
+    "Offset": 0,
+    "Text": "\"Che crudeltà mostruosa cucire la bocca di un uomo! Togli immediatamente quei punti.\""
+  },
+  "ad96e8c9-2afa-4714-8867-96b758d396ec": {
+    "Offset": 0,
+    "Text": "{n}Desiderosa di compiacerla, Taddua esegue l'ordine, ma il suo lavoro è tutt'altro che delicato: l'uomo condannato geme e si strozzava dal dolore mentre il boia estrae i fili dalla sua carne.{/n}"
+  },
+  "5cabf0f0-2ed0-4015-8b54-6794cd37e51b": {
+    "Offset": 0,
+    "Text": "\"Th... gnk yoo...\" {n}Con la bocca che cola sangue, il mutante difficilmente dirà altro.{/n}"
+  },
+  "53a48da8-a135-464c-89c3-c6ef56176700": {
+    "Offset": 0,
+    "Text": "{n}Alla vista di un xenos nel vostro gruppo, i cortigiani mascherati iniziano a sussurrare e mormorare. Nel bagliore dei loro occhi e nel riccio delle loro labbra non c'è che un disgusto carico di paura.{/n}"
+  },
+  "c7fabdf2-dd04-490f-a949-94065fab9fe9": {
+    "Offset": 0,
+    "Text": "\"Entrambi sono colpevoli. Metteteli a morte secondo le vostre tradizioni.\""
+  },
+  "29d0a957-d7e7-4389-a6c1-729b4185b73e": {
+    "Offset": 0,
+    "Text": "\"Forse potresti iniziare spiegando di cosa si trattava?\""
+  },
+  "ba7150d8-feb1-4240-b534-c2749aa2f375": {
+    "Offset": 0,
+    "Text": "\"Ora, ora, perché così teso? Mi sono semplicemente stancato di vederti sempre in giro con il tuo seguito. Mai un'occasione per due parole faccia a faccia. Eppure vedo che il tuo spaventoso guardiano è riuscito a trovare la sua strada fin qui.\" {n}Il deficiente sogghigna mentre fa un cenno verso l'Arbitrator.{/n} \"E mi scusi il… accoglienza tutt'altro che gentile. Questi meccanismi logorati dalla pioggia non mancano mai di deludere — cigolano un momento, cedono il successivo.\""
+  },
+  "4f84ea82-cdc4-4081-97dc-59c459bf7821": {
+    "Offset": 0,
+    "Text": "\"È stato compiuto un tentativo di omicidio a Solomorne. Alcuni degli altri secondini ne erano coinvolti. Trova i colpevoli ed eseguili.\""
+  },
+  "6aa8239a-4e38-47bf-b20e-a2c8006abab3": {
+    "Offset": 0,
+    "Text": "\"Solomorne potrebbe essere scomparso, ma le sue regole restano in vigore. Non cambiare nulla. Servi finché il servizio non ti esaurisce. Chiaro?\""
+  },
+  "e6e1d596-0bb6-409f-9de6-415adda41540": {
+    "Offset": 0,
+    "Text": "\"Solomorne non è più un tuo problema. Addio.\""
+  },
+  "1323eeb8-d2f0-4cf1-8f9e-495c09f01f50": {
+    "Offset": 0,
+    "Text": "\"Grazie per il tuo coinvolgimento personale! Lunga vita alla dinastia!\""
+  },
+  "c87528c9-9ac7-4895-acb3-212cacb6356e": {
+    "Offset": 0,
+    "Text": "\"Vostra Signoria, il Maestro Anthar riferisce che lo avete licenziato. La questione è dunque risolta?\""
+  },
+  "b2429bf9-733e-4441-bed4-b3006dd95efa": {
+    "Offset": 0,
+    "Text": "{n}La scintilla della volontà di vivere si spegne negli occhi dell'uomo.{/n} \"Farò... il necessario. Finché il servizio non mi logorerà.\""
+  },
+  "d063f1a9-0e5d-4880-86e3-39dbb4f68f4b": {
+    "Offset": 0,
+    "Text": "\"Lo farò! Il sommo sovrintendente riceverà un rapporto sull'indagine e su tutte le esecuzioni conseguenti.\""
+  },
+  "6e3405b0-d842-46e0-9908-a3a1e3db89cd": {
+    "Offset": 0,
+    "Text": "Tertius Quart ha condotto il Rogue Trader in una trappola. Torna indietro e scopri dove custodisce davvero l'inventario delle tasse."
+  },
+  "c8e1d1fa-801e-406a-8a87-b748db9019a8": {
+    "Offset": 0,
+    "Text": "Torna dal funzionario."
+  },
+  "fe6b5da6-b49d-4e1f-a49c-16fb2fd710a6": {
+    "Offset": 0,
+    "Text": "\"Ora non è certo il momento di chiacchierare — ogni momento perso potrebbe costarci prove preziose.\""
+  },
+  "70cbf3c7-55d6-4136-9874-c069eb3baf2d": {
+    "Offset": 0,
+    "Text": "\"Aggiungi al registro dell'Arbitrator: fuggire dai suoi sentimenti e respingere l'unica persona che lo ama incondizionatamente.\""
+  },
+  "6d043292-6a1c-4a33-a74f-52a428c65152": {
+    "Offset": 0,
+    "Text": "\"Affronti il Rogue Trader {name} von Valancius, plebeo! Inginocchiati è il modo in cui devi salutarmi! E mi aspetto un inventario delle ricchezze di questo luogo da parte tua.\""
+  },
+  "472c61bf-303a-4abb-aa58-6b33b1c5c84b": {
+    "Offset": 0,
+    "Text": "[Afferra il data-slate] \"È l'inventario? Eccellente. Porgimelo.\""
+  },
+  "8c732bcf-db83-4fa7-805e-d9876ec23a86": {
+    "Offset": 0,
+    "Text": "\"Non sono autorizzato a rilasciare documenti di tale importanza a individui che non si siano identificati.\""
+  },
+  "d4c15363-cafe-4d6f-8a52-4ccc5a734624": {
+    "Offset": 0,
+    "Text": "{n}Il funzionario strappa via il data-slate con sorprendente agilità e si piega protettivamente sopra di esso.{/n} \"No! Questo dispositivo è già nell'elenco dell'inventario e non deve essere rimosso! Io— Io? Sì, devo annotare il tentativo di furto nel registro! La prego di indicare chiaramente il nome e l'occupazione del responsabile.\""
+  },
+  "a2c052d8-f7cb-46e7-a284-07145ff02127": {
+    "Offset": 0,
+    "Text": "{n}Per un momento, gli Arbitrator si scambiano sguardi — potrebbero essere pronti a prenderti in custodia, ma lo sfogo furioso del prefetto non è passato inosservato.{/n}"
+  },
+  "648be451-002d-4e37-b87a-c1dd210a4b36": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "b76621f6-ec15-4ed3-aba5-516428f2d14a": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "ab6b92d0-dfd5-4d38-a811-e5f477669cfe": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "e0e92e4b-2022-4f75-828b-97bf0e54f060": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "f8db1c9a-696e-48f3-8375-a043f3f6bb4b": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "3d5db81b-a3b6-42f6-8aac-932fac2d6b19": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "6a603e42-33e4-471d-84d2-2b865a41191f": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "b4b1d427-6343-46c3-bc16-6aab6ff00d07": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "535107fa-5d09-4093-b71a-e2f238911783": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "c9372952-bb00-45dc-975a-2c250eef4ef9": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "13b8180b-3092-4d50-bf76-f6e967dcf525": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "a433400d-df63-4f49-af96-757d464adf6f": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "b343d063-6edf-413a-8cc1-efdc18d14bfd": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "a2ded522-236f-4f52-a79c-139b937df0ab": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "0fc962ab-5f69-4e01-b81a-5d87d07596ac": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "d130b0c4-16fb-48b5-859d-faeecdf86829": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "130d9863-5347-42c6-aaa7-7648a19db0a9": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "2978155d-b920-4168-8ce4-5ea4faf3baae": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "7cdfdc9b-77c4-47e7-8c6e-dd07754a1033": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "77eb5781-b828-4330-b6e4-d1c9549a77ce": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "56f19457-c298-4c93-adca-728f4c89035e": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "ac2204df-8554-4763-8c2e-9d8931893185": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "00412f98-62aa-4b37-a333-58ba47478fa1": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "6e19df55-06cd-4367-8320-8cf6be58200c": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "298e63d2-fc68-4250-8ccb-c2cf274707b2": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "356f7e00-02a9-4d8b-8b43-e62994ac569c": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "a8c15ac8-b6bb-402f-a9bc-0bce59ffadb5": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "e0943633-4ffa-402b-907b-75859459c6fc": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "be825f8d-787d-414f-ab17-be2f69b74ad4": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "82a974f2-08d6-44e3-a07f-14fbd746e5dd": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "50441296-232c-46d9-9e94-2b2c6556f402": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "f74d2ee3-03fd-4f77-93e2-af1ec95285eb": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "c1244e49-7c4a-458f-88e3-319f879f443c": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "d2448c1a-ca2d-4e7e-8ad0-bb0b2d3273f3": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "a551a592-6859-42b6-805d-a45e60e9136f": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "f8a4a813-e195-456c-83ac-ec5162c2ff3e": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "2cde5662-d78d-4167-8452-72bd8aa80580": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "d05c253c-0ed9-4d7e-a832-eeab7d36d26f": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "c0afb4ed-8d62-4c6d-8acd-9cf161f177ba": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "723fbe60-caa4-4cff-9262-39a06914991a": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "57b7d327-498d-4b2c-8bf9-7e0d1a89b362": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "ea8024f9-263b-4be1-bede-bfb4e97f9906": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "3d12488b-d2fc-453e-a4fc-779d82e6deda": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "bb95c9d0-adff-4ba4-9d6b-827584835265": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "0d498f87-2dce-48e7-ae63-bbcb4e7b95cb": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "fe15a8e0-6757-430a-8dfb-68375029e010": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "4c75d765-2e5c-469e-ae8e-2acd6f20ab5f": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "a8b264e6-8967-4839-a0e5-a8de0106c85c": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "8056d994-69be-4d25-a47b-7fbce7f93a58": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "cbce5876-0c20-4793-9a18-5b321de5f08e": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "3957aaa2-eeda-4782-98ac-c14667b609e4": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "59e8a801-8ee8-46f2-ba7d-80d57d397834": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "972ca0d8-8b49-4f1a-b031-323e47f498fe": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "9325715f-3c3c-48c4-ac49-6db4cce8dd3e": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "b418cf17-bf8c-4484-9517-61c1b79fa390": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "35d2f140-9e58-41cf-bd26-a06456b5ee96": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "9015ef4b-862b-4d25-8842-2875b6cc34c4": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "8e101690-7393-49c9-8aad-79fc6831f21b": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "a284e28e-3c22-4bfd-b2ac-60a1f89e68ca": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "c3847ca0-c57b-4202-8700-e0221144a9bc": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "2e16694b-69fc-40ee-96b5-08b7e1119309": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "08600b9a-7e2f-4643-8d9a-f2fe45cf462b": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "4b84651b-64f8-4bd7-99bf-30981bcea550": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "0b6d6e8e-2038-4634-b6dd-d34731598f5b": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "21a92318-ecc5-4288-8eff-ba511715c0c0": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "86adc4ae-4670-4539-8847-04cca993c69e": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "afcaa69f-dd1d-4970-83ab-e233b270f1b5": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "e7687c07-4ffe-45d6-8773-1b24db191518": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "541ce607-59b1-45f4-9268-639912f9743d": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "561862d1-0cdf-4096-8128-0f71020ce41b": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "80569f1f-333f-49e8-8bfa-a7e86b35dcf8": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "38bb256a-4d91-481c-8013-8c869f4bb61f": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "cc802bd4-0fff-442c-8356-2482cf8cd2c5": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "0c6af7bf-c09a-49cf-87be-5ae54e8af433": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "bb3ad6ab-3a5a-44da-b4b5-37c6602f473a": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "4f819b71-aaee-4290-be39-dbdaa65b2a07": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "dbb965d6-8f71-42dd-ad03-55b358866509": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "949c9345-ccad-47fa-bb50-ddc70b630f6d": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "e6e6eb57-82ec-47ef-b2de-9eea133223d5": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "09a2b759-f7ba-4aa1-a765-0870391297e8": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "26a38325-a035-4b1a-bf21-d17a6c741f27": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "84a661a6-afcd-4a58-a0b6-bb998a4e01a1": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "f2306948-63cf-459f-9f8b-8dd01dad7548": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "a0781236-0fe0-4824-b27a-b05a4e59047a": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "b8774fec-ae07-4863-b9e4-bb9b2ff24eeb": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "383872db-c87a-4b81-a232-29aa2a97e2ba": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "db48a885-98b4-428a-8c48-224987f43a39": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "56956bf1-7669-4631-9c6f-bafab18b7aa2": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "f0833bd3-b849-4cc7-b641-3274744e5c06": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "49d6d2e7-dd59-4580-bd88-a6e40372f23b": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "e5341bd9-d9c0-4c71-91ab-e8ed0165b2ec": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "cfc44920-9edf-491f-b1c7-0fd72738a235": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "b5d36091-4a05-4ff3-8a46-b2388cb0c6fc": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "151d55f0-5502-4776-a085-f97d8c766153": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "eaa65a08-3a18-4cd5-9338-e452c06e7daa": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "b84764f9-a312-4b52-b46d-b164bd8dbeee": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "4a26a8aa-c7c4-4f9c-b6bc-be7346a555ca": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "35e7b9e8-005b-4292-98ac-7e8ab053b3ee": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "fed66b2e-991f-495d-9893-69124a126108": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "573b4e37-9cab-4fd2-93e3-c8ebd3acb6b7": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "fe4d60a6-ce56-4439-98b2-32447fb21bc3": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "8d80cbcc-c6dd-44e0-9c30-3049e7113eb0": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "5b7ef841-755b-4a0c-af32-0845894e8bd0": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "42a8f0a8-6866-4320-abef-a3606035142f": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "cb6d335d-f596-4b93-a3ce-4ba0d0ce4c32": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "cde40f6b-d31c-4996-b7f4-9a4aca94acc0": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "b79f5672-4bac-4c9c-8283-b28e17f99cdd": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "79e4e6fc-9f1f-48ce-af04-e7d388e0dd76": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "b436a546-22c4-4127-86df-461c2262066b": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "58d8bbf1-ef30-4a59-8483-6861c58958c3": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "c19a3edf-8be1-4957-8848-991c3698b8e3": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "c780a68c-c423-470c-b4f4-30e7d2d0c922": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "c1276c0e-05f5-4cae-8b21-32052928048e": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "54a62ac3-0f58-4326-a30c-b442514a890a": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "a143714b-0525-42fc-8f6f-1cb4c3f31d77": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "563756b8-b2c5-4cd7-86f0-9bafd1f6bdae": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "b1db1fd7-9388-40c8-851c-a1201e671200": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "f4efb19a-9660-4471-abba-42edbe357430": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "ce46dacc-ea00-478e-93ad-d16dbe50c75b": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "c4e206f7-9889-480a-9ab2-2393724dc599": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "1a67a3ee-3a39-418b-9058-4d5046dd581e": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "e847d166-e74d-4cba-bb4c-830999fc6415": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "46ea4b0b-9558-4c21-934b-6e0c4a69d5aa": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "d49a2ac2-6d0a-422f-ac92-81110f484adb": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "7cd0502c-67d2-4dbb-b64a-b335c22ed521": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "abb9d911-afdc-41e1-b7aa-d09dd332d153": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "4aac353d-9795-48da-b9ba-9aa372925d4e": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "144c5edd-5718-493f-a9a8-2f3f062a7780": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "1a7f5112-e5b7-4cec-9edb-2c861c7b0524": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "03337313-e8a6-465a-8752-d29170901e42": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "a24d921c-de08-443a-a3f9-901a26f58487": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "b2315d69-b470-435b-b6cb-5c75f34a321f": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "c691b2b9-c1e5-49af-8106-4addcadb678e": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "deab1ec7-c49e-4853-b605-d1c8ebec050c": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "852c9b4a-bdd5-41d2-9bb9-34ce8e14f0a9": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "734513ce-b7c4-4009-bcfa-826d96d1299f": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "9ba3dd1f-5fcd-4b33-9bb3-6c43cc736de8": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "12884bd6-0d67-4e09-a570-d790916674b0": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "7b932f3f-92f6-4ff2-89ac-6aacda3c03e0": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "e1e14ee3-b28b-45e0-9b2b-93a8b0a5cf76": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "9fd2f309-11fd-4e84-aef4-319d16e7efb9": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "41a44a0c-d98a-444e-8f87-4f07c8c59bda": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "e69fdbfa-9919-4dfa-a7ae-9914712a9546": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "556e1e17-2351-452e-88e1-e2752f93fd7e": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "4b2f852a-8357-4140-8d7b-0b49fcb4e79b": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "a12bce96-ed91-4532-92fa-702cd4bba951": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "faa32b7c-7e62-4c54-bff7-aa1a32251211": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "ace98e14-6e48-493c-acd4-a6ca5d6f9a12": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "6a7762f9-3c2b-4649-b222-edc5e2a5b05a": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "5adc8357-4798-487d-9134-31c87c8bfd91": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "42b7e927-aab8-40ac-89bf-3d5ce652255b": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "da54c751-38ec-424c-964e-97bc88995527": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "0e326365-489f-435f-943e-5016fe8b7d29": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "a3f239ed-3c6a-4567-ac94-633c4d048cf8": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "5df81db3-f12f-4c4c-8a99-c7865b9d0087": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "0de1495b-e5e2-4749-a21b-0208124fbaff": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "8d03159f-70eb-4262-91cd-4194f6a6a29d": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "562fe2f4-0df4-4c46-8eca-aec8138fdde0": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "1fd182fb-1340-4db6-8efb-9dcb86ac5bd1": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "82e41117-ff17-4b1c-9823-ed2c229cd4d0": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "928ed690-9cd0-46f4-8a87-25a922dde456": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "f5c0801d-d4c2-4e7a-a003-dd702845a24d": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "c59abf2f-4406-4225-8fd4-856b2ff870bb": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "1ed04fec-aa39-4d61-90e6-e93400e3ec50": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "1c329bc0-5383-4957-801e-4a2537db81f9": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "94160c98-a98b-4cf9-bd7d-26ddbd4a7cf2": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "7e3a3f00-cdd8-4f74-93f9-5f243e2d310d": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "3fdc28bc-7f58-46df-80f1-2c8e3fb7b78f": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "874c076c-b9db-42f0-a9d6-e9d4897c2333": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "21aa5347-223b-4a69-9dfe-69f5b95b5a0e": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "47ec62c7-a3b2-462c-ae9c-26eafa553aa3": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "3a901a40-7070-4437-951d-385755131bc3": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "5f97568d-6c82-45ca-a922-9980ccac4459": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "fc2c964f-e278-479b-88c5-104f0bec82c6": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "b41d99b4-b7c4-4369-9384-bc4f9cd2f5a3": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "c7fe4a86-9c7b-42af-a668-76019cafbd7a": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "18f98559-0e56-4ebd-9419-2dd2844c973e": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "896dcbfd-8dfe-43ea-be15-a4c26d06d40b": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "60ae9bd7-829e-4c2e-a229-4baab58e6ca8": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "76c421db-9421-4f84-9f8e-5846b163a1e4": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "e8f2079b-19dd-469a-9e98-0e17b2f53ccc": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "3f4090ce-c3fd-4524-a36d-b85bd7ac1dcc": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "482e49a8-152c-44a4-b8de-87f0ee2f7da6": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "7e3b3100-8e76-462f-b58d-d2bd3b63cd50": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "d7e079a9-92f3-4a7e-90dd-b17c9cf0f473": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "2ab28fd3-7beb-4478-9482-95473c30a1eb": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "6bac4015-a8b1-4a87-9cf3-714b88e59908": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "fc9d22a2-10a9-445c-9df5-70d3d4e00954": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "359d3ebc-e07a-4a7f-a43e-ed9bcdfb0c9b": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "d5fcb402-65c6-438d-8d2a-391a22193c04": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "433d7e52-fe7d-4420-8981-47370d01db44": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "05bebb60-bc8c-49b9-b887-70f1ab516abd": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "2b58aea9-bf62-47ae-953e-a2036860dc8f": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "00f92cea-8a17-4d9f-9399-fcb2fb89b500": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "72b1ca77-810d-4720-8ce8-4700a5f9def8": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "c56f3220-4df4-46ce-a24d-6092e700d3c5": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "79d931a8-b635-4b64-b4d7-10d4f26d0041": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "c00547c5-c042-4ee7-b2f6-6674a1667222": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "8c72556f-377f-49b8-aefb-36bb19ab9f35": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "ffb61408-ee2c-4d56-ba20-df4d77451a8c": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "0d90a200-0b2c-4a94-9f3d-300cafeea238": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "b3889be1-954a-4e0d-88ae-9abf5a906de7": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "3cbea3db-3fd7-4aac-ae8a-9c4b96500232": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "c74232d3-6cbd-462e-9f59-ffa52bba2cef": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "49f99344-5285-4c5f-9de3-3d7fbb9cf162": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "b29f5ed4-1505-4c82-9479-cc7c30e43135": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "055201d9-eceb-4eef-82bc-7df19f18e3ed": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "28e355b2-14db-4de4-9bee-70c25b1275ff": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "1c2ad8ff-9b1e-427a-a60a-5a04c3a8aadf": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "9f6fa1c0-a31b-4b49-b289-cf14a933a498": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "3fa22de9-f195-4299-9657-aba1f0232f54": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "07cdf87e-2871-43c2-bd54-eff5e881ed62": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "4f6a4bc2-553f-4e27-9363-b92cc665ec97": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "8b65ce20-099a-4b0a-a078-89ae1d70e5f1": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "7d4f135a-85f5-4177-93bb-7526befe49ac": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "a861a304-382f-45c8-b822-47705cf09008": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "44dd6d9f-96f4-446e-b36f-b75627738102": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "be76d421-4c79-4636-9c27-a6959f731529": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "da298a3e-6293-4898-9121-65e89ad50d8b": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "4af8d46a-1afb-4ac2-b478-ed6bf8b452bb": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "75271e4c-3e8a-4409-80b5-60a8446cb9cd": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "fb9efc27-b019-4ee6-87e1-2e41eef99f60": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "0d74a3e6-aff1-4db1-bcc1-a1bede0cc521": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "b4fc9791-fded-4868-923e-4247054707a7": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "7921c3a5-fd7a-489a-84ea-d449b7c158bf": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "c0fe09e5-b8eb-4087-92cc-075b51f06d00": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "3aa871a5-e8cc-4f72-b926-677e140b2c1b": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "be3ac242-bb1e-4d6e-b9c4-9f536efc6754": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "87bf9d5e-ad85-4529-bf9a-975dab41927e": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "e2e274b1-c9fb-4150-8b75-dbf782cf8d50": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "c63610f6-deaa-43c6-b7cd-9aa7fb1ddc26": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "b575ec28-6938-47bf-af8b-222e1fbee95a": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "4ab42e96-840b-4956-a4a6-482ca674fcd6": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "c0c9434e-1071-4190-8bec-6a43154018d6": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "dc99a90b-73de-496b-a89e-5ae70b7b505c": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "434bf11e-6e60-4e96-b072-88a2cfa0a1b0": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "207f4ab1-92ba-41d7-accb-1fe30dd9d888": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "680ceaf1-01ce-48ae-8a32-27fe49d4bfc8": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "8e16ec48-70e9-4287-9158-7b487aa53ef7": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "45b78680-c359-4215-a803-7a5de95e2192": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "fce46d92-aefd-47e4-972a-7d8db2a2abab": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "2c1a84af-2643-4ba5-b274-6adb5077cb6b": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "60084b53-7dc4-4db2-8015-7da3e0efc6d6": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "260129cb-8bde-45d9-ae3b-aadf0dd53799": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "6fe27e79-2a82-4a6d-9b57-dbb4ccb807eb": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "017bb92d-feb9-4614-bed7-7b2e9165ef4e": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "79960d85-7358-4b53-b953-32dd3f480abf": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "cb9be4f7-700b-4753-b9ad-c13be59cf8b0": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "8bb10ade-e3cf-4b37-b4a3-acad2fc5c154": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "e2d88513-24ef-4926-bd31-cead3e56e8d4": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "58ac3dd8-ce07-4b6e-8f58-f6093110b4dc": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "f002d569-e00b-4a39-b9b1-eedbfd6f7f6f": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "38507315-0971-4e96-8122-cce3f77038b6": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "2f7d7be1-da54-4ed6-b819-43e67ed150f4": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "e5ded366-67c2-4b54-9439-f7e097c59b16": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "9fc7cc5f-d399-49bf-8f8c-789f933baedf": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "c130d7f6-234c-45d8-9d5b-56b2eb4b9f2f": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "f194fc73-3cf8-411d-ac87-f010fc2382cf": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "ef017cdd-561a-4bf7-8c6b-7b2ce2115823": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "d9324aa3-14cd-4522-bf96-babe2182bbf4": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "8f77ebdb-bb89-4e9f-bfef-8fb2efb96882": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "7c7cfc83-0d48-4ea6-a374-ffb0bc15a511": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "39ef8331-f18d-4820-99d3-c40dd295f4be": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "b7c1437f-fa4b-4e61-ac0c-a647619feb7f": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "fb3bfad7-2755-4512-b18d-eb7a80a6e009": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "0f3ef59d-a4d4-48e8-9a21-019823446ab5": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "8f7f291d-c993-4f22-b1ba-8376a58b866a": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "79d8343c-6e58-49d2-9565-1aa8e09c8d92": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "0c84719d-d680-4ab6-b192-d2de3305e0a1": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "84745a92-63f6-4651-835a-fbde0b2043ba": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "92e54699-5619-4df2-87c4-3cbc19acddf9": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "fb6338c5-33ea-4b5c-93dd-6f274977c121": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "39465514-f894-4b2c-b6f9-4a60f01342da": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "85ab9e62-1870-4a50-b79b-3d3c2cf61b93": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "a2778d98-a655-42f5-8878-aad32b1d51fb": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "3488f549-bcf4-48c4-8da2-a6d8f7d471c6": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "8549b6f8-1b44-4e72-9fec-c3fb156d692f": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "9c15acc6-dd6b-4dfd-ae6c-44a36d8c736a": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "541789b3-7720-4593-9242-94ca9c00d912": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "50464ae0-d2f1-4f56-a7cc-cb28030dccfe": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "68376e9e-a49b-4435-ba9b-d91726ba1cfc": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "77384e73-d75a-406e-b26b-736dfb62d2f1": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "a08fb274-6d67-4dad-8623-b8f5f2daa430": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "151ea7f4-138c-4239-ae1e-0c43cd4b41d9": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "1627caf6-b9ec-4ba8-a519-e30ff306b80c": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "b1104ba3-43d4-4085-b1da-ad8eaad2506f": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "b0102028-6ed4-4f6c-ac73-8d78453901d3": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "8cb974b8-2fc9-4b06-a4db-e68670cf1555": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "92b3168f-fcc5-40b9-ba89-c5e2a3a04e9e": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "20ade68f-236e-496d-8633-063908fe7e57": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "e5c13e8a-b745-4e01-81c6-b5feb09b4b96": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "d4e5b3a3-1e8c-4fa3-9158-065a1baca660": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "068d9eb7-22b9-4718-a00e-f2a4c4be4af3": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "dc273480-1bab-4880-ab27-86459cf2f2bf": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "3f98aad1-c692-473e-8dc4-64b5bfd4a773": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "8a48b4fb-be2d-42f7-b3a5-a2b0950b8aca": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "feee538b-84fa-4c47-abbe-f2b05be92b71": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "1319045b-8f83-41b0-b837-fbe9e4b31951": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "01ae3ac9-212f-43be-90df-c424049ed65f": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "7650b6e0-6852-438e-9829-42df68423597": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "ae885f1d-7ba3-40f7-acf4-6c753280ac84": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "bef08bc1-202c-4944-8972-02d2245758b2": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "df777880-4bd4-4a8c-9031-14cef535cf99": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "03a9a2c0-7af9-4abb-b19d-3ac44abf1e74": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "d1aa6cdd-8e75-4618-9d4e-4b8080d17500": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "86156f02-d134-4175-ac56-29594efc00bc": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "307d5949-5f08-41df-9a12-5b2488be5620": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "6846a089-0ed7-4c4b-94e6-78baff859e2f": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "cf20e8db-b6bc-4c5d-beab-4b128013576f": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "a3db8295-66c6-4ac4-a42a-91d322d84b9f": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "61257265-194d-47e6-9403-5e56bd5afead": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "524bf96a-0f89-44c9-88d6-5335de16a01e": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "51fc0bd2-9340-4c18-87cb-408f399cbc36": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "a7b33e2a-99c8-4c55-b6f5-f94779af725a": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "79f2cddf-be25-432e-ae24-f13174b89711": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "542d517b-588d-419b-9b78-69f84988daaf": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "e326cf54-26a8-4fe2-85d3-5c0ae18b9f14": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "d18b56bc-241c-4c9f-9687-03c0fad01579": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "5b5cd51f-cff3-4984-bbab-c4693bcafe5f": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "425ad3ce-528d-4862-b77b-fdc6900ba28b": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "f7c28b9d-89a7-4a82-ae30-ae965a7bd131": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "0937155e-a901-44ab-87c7-bf3fc34897c3": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "a98bff0b-9813-4d6c-be0a-0798f95a3f0c": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "8716e8ee-cb62-43f3-9bca-cb85fe41bdec": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "5a38c7ad-071c-473e-bcdf-db4794311fed": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "820e398c-275a-45a9-920e-02f676869d28": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "cad14138-b563-4b70-b79e-8d4b18895015": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "3f910f28-9b1d-40ea-a217-1841c65dc520": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "784ce009-3e72-4163-b109-db90d2fda62e": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "38ecfe02-ea63-49a5-9ded-b2788100687a": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "259094a1-be30-460a-836f-fe5e4604b444": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "ad866d68-59df-4194-9b09-c8850c7413a2": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "89a875e0-5588-4687-a1a6-7e8170fbd1ac": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "93f8e85e-fa5a-4100-8bd9-7152e670baaf": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "b25cbcbd-57ea-40e6-8649-06f3d706df5f": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "b53c502a-d34f-428d-b6d2-61770374bdc0": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "cc3ead82-044a-4691-b245-7b0312f79028": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "9f7fb449-aa9f-4115-9ae6-d40b71d14045": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "bb5e11e2-0e89-49f7-a401-38830e9725cf": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "73d8edb1-b3a7-46c1-839f-f9e42caccdf7": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "75d3c6db-6a6a-4594-93ac-9f8b70de3f52": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "dacdbd0a-97b6-4daa-a36a-8507a3178bcc": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "f2fedfb6-d548-475c-a0d1-df4ee105f492": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "b9f6ee0e-439c-445b-9d37-479ce9caa8cf": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "adc8faa5-905a-4552-89a7-5e745a04c52f": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "a6a227f8-fdce-46fd-a967-dff7989bbd6e": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "06f5b14e-7c3b-4d18-b447-04824e91c691": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "bdbefb76-3407-497f-b996-91942e4d0c12": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "6b612406-c811-4f04-ae12-2edc3c054232": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "8d950b1e-46e2-40a9-b368-470933decf2b": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "0e41e7ac-c81a-4baf-a0bb-c0459558cc87": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "d11209a8-9867-4f0f-a363-d415025481f8": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "057ef596-f85f-49c8-8706-dd0c7c3459c9": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "70c9b2db-148e-4100-a3b9-d47254d73971": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "a2a87688-aef0-4ae9-bdda-ba7455cb51f0": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "7d61d18b-6e88-44c1-bb1b-b54e5e37e82d": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "47f4d347-931f-4242-a530-d25a399b87f9": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "9dc06433-be5e-4377-8a3c-1ad833e75f66": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "15d95d89-c370-461f-9503-d096195bafb6": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "2c85f096-649b-4164-a182-d5a8de58856a": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "8bd470a2-ab23-4d9d-a201-97dc64e2feca": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "01697eb1-6c83-43d0-acce-4a80e1d6ceda": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "30fecfd5-f107-41bf-a4b1-1469a1c85180": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "6aa6ff22-affb-46b9-b830-2f5bc383f2fd": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "9d84253e-9fbb-4378-8992-b5ab5f6583d4": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "4c4a01a0-0b52-46b0-abb1-d729144e0335": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "3437ce96-8ab7-40c4-910e-b52a7a50e8c3": {
+    "Offset": 0,
+    "Text": "Il portatore recupera tutti i {g|Encyclopedia:MovementPoints}MP{/g} e può effettuare un attacco aggiuntivo in questo {g|Encyclopedia:Turn}turno{/g}.\n! Può essere utilizzato una sola volta per combattimento."
+  },
+  "9e6022fb-1a8c-4ad7-a1c5-ffda5a981995": {
+    "Offset": 0,
+    "Text": "Colpo di Kurnous"
+  },
+  "4d66c292-079a-4e93-a8ee-704640c8ab1a": {
+    "Offset": 0,
+    "Text": "Il portatore guadagna +2 {g|Encyclopedia:MovementPoints}MP{/g} e l'abilità {g|f:4824d61c41f74e13be50391caf7f413f}Strike of Kurnous{/g}."
+  },
+  "9bd993ae-667a-43cf-af5b-eb085a8697c2": {
+    "Offset": 0,
+    "Text": "L'Armatura del Padre Cacciatore"
+  },
+  "31273159-9f5c-4573-bf91-49d47aab4429": {
+    "Offset": 0,
+    "Text": "Durante il combattimento, l'indossatore è considerato protetto da {g|Encyclopedia:DetailsOfTheCoverGlossary}copertura{/g} parziale se la sua {g|Encyclopedia:WarhammerAgility}Agilità{/g} è superiore a 70, e da copertura completa invece se la sua Agilità è superiore a 140."
+  },
+  "2155c143-034c-4082-93a8-f50136a2fc25": {
+    "Offset": 0,
+    "Text": "Armatura Flessibile Aeldari"
+  },
+  "cbd478e9-4ffe-47a0-ba92-af2ddfa6a70a": {
+    "Offset": 0,
+    "Text": "Il portatore guadagna +1 {g|Encyclopedia:Deflection}deviazione{/g} per ogni stack di questo effetto. Quando il portatore subisce qualsiasi tipo di danno, tranne {g|Encyclopedia:DirectDamage}diretto{/g}, {g|Encyclopedia:WarpDamage}warp{/g} o {g|Encyclopedia:MentalDamage}mentale{/g}, tutti gli stack vengono rimossi."
+  },
+  "b0f9364e-93e4-4a8e-8425-7229237bb9cc": {
+    "Offset": 0,
+    "Text": "Danza degli Wraith"
+  },
+  "da573f7f-9b53-4e9c-a8df-7d20d0ebb529": {
+    "Offset": 0,
+    "Text": "Ogni volta che qualcuno utilizza un {g|Encyclopedia:PsykerPowersGlossary}potere psichico{/g} in combattimento, l'indossatore guadagna +1 stack dell'effetto {g|f:8b6b420e5fad4cb3a0851ebf21ace3a8}wraithdance{/g}."
+  },
+  "16863fa1-b991-485e-86fb-83ca0317b54a": {
+    "Offset": 0,
+    "Text": "Vesti del Wraithdancer"
+  },
+  "0e0933ed-2082-4480-8d13-8fdd69d60f0f": {
+    "Offset": 0,
+    "Text": ""
+  },
+  "22fc0194-61de-4dc4-b7c0-268f5389a452": {
+    "Offset": 0,
+    "Text": "Quando il portatore {g|Encyclopedia:DodgeGlossary}schiva{/g} un attacco, contrattacca immediatamente (Può contrattaccare anche con un'arma a distanza in mischia). Quel contrattacco infligge il {uip|Damage|587c463377a14c9f843841fd7a19f461}% del danno dell'arma (non può superare il 100%)."
+  },
+  "c19d18f0-30e5-4184-b001-0dd84508c816": {
+    "Offset": 0,
+    "Text": "La Vendetta di Khaine"
+  },
+  "38bd1c03-5590-417a-9398-54e3eab35186": {
+    "Offset": 0,
+    "Text": ""
+  },
+  "65dbcfa9-1fd7-40a6-adc0-d632259ef5b5": {
+    "Offset": 0,
+    "Text": ""
+  },
+  "94072e83-5e4e-4c75-962a-3e3c333db2c2": {
+    "Offset": 0,
+    "Text": "Il portatore guadagna +70% {g|Encyclopedia:DodgeGlossary}schivata{/g}. Dopo ogni attacco contro il portatore che può essere schivato, questo valore viene ridotto di −10%."
+  },
+  "7af8320b-c03d-49e6-a56f-87998b5fce10": {
+    "Offset": 0,
+    "Text": "Armatura dell'Ombra dell'Alba"
+  },
+  "86faff08-ff6c-44e8-8542-25692b1ad9b7": {
+    "Offset": 0,
+    "Text": "All'inizio del combattimento, chi indossa ottiene l'effetto dello {g|f:adb64abd9fc745089b628b9a31d15dca}stimm da combattimento: serpentin{/g} per 3 {g|Encyclopedia:Round}turni{/g}."
+  },
+  "b49aba38-d13d-43dc-a56d-4889bfe29b9b": {
+    "Offset": 0,
+    "Text": "L'Ultimo Grido della Wych"
+  },
+  "3d49a783-5982-4b3f-8fa7-eff1304fe1d5": {
+    "Offset": 0,
+    "Text": "<u>({g|Encyclopedia:WarhammerAgility}AGI{/g} bonus / 3)</u>"
+  },
+  "04c21983-6c02-41d4-b4b2-c0c56ffc30d5": {
+    "Offset": 0,
+    "Text": "All'inizio del combattimento, l'indossatore ottiene l'effetto di {g|f:be213bbd9bd449a384d44b3a7e5b8893}stimm da combattimento: loto grave{/g} per 3 {g|Encyclopedia:Round}turni{/g}."
+  },
+  "9d105beb-2351-4a36-9c1b-0775a6176e40": {
+    "Offset": 0,
+    "Text": "Dono del Loto Sepolcrale"
+  },
+  "bcdb64d0-c7eb-43a3-bc60-0b6467b77650": {
+    "Offset": 0,
+    "Text": "Tessitore d'Ombre"
+  },
+  "6e182a95-c490-4c55-a41d-262ee7d3082b": {
+    "Offset": 0,
+    "Text": ""
+  },
+  "88d1f6dc-4952-4831-a400-e9a7b7821679": {
+    "Offset": 0,
+    "Text": ""
+  },
+  "9b2b2632-1728-4368-b7c7-f51d8fafe969": {
+    "Offset": 0,
+    "Text": ""
+  },
+  "5f1d99c0-d4d0-4888-8ccf-11a7875a8ecc": {
+    "Offset": 0,
+    "Text": "Al {g|Encyclopedia:HitSequenceGlossary}colpo{/g}, quest'arma infligge +3 stack dell'effetto {g|f:ac9bf532d765438299412b2158ce8953}scioglimento{/g} per 2 {g|Encyclopedia:Round}turni{/g}. Il portatore può eseguire {g|Encyclopedia:DeadeyeShot}colpi di precisione{/g} con quest'arma. È considerata un fucile da cecchino."
+  },
+  "289ffbdb-7247-4b8a-9bea-b037849f432f": {
+    "Offset": 0,
+    "Text": "Fucile a Fusione 'Spark'"
+  },
+  "ffb5b14b-49ca-430b-8683-3acb3fa36920": {
+    "Offset": 0,
+    "Text": ""
+  },
+  "6f559a2c-ce92-4ed2-a14d-b72dde6c8540": {
+    "Offset": 0,
+    "Text": "I bersagli {g|Encyclopedia:HitSequenceGlossary}colpiti{/g} con quest'arma devono superare un {g|Encyclopedia:WarhammerToughness}Test di Resistenza{/g} con una penalità di −30 o subire {g|f:4755bff66f544cf7bd9f5be37dad08db}impossibilità di attaccare{/g} per 1 {g|Encyclopedia:Round}turno{/g}."
+  },
+  "baa830e7-3703-4a3e-be52-fb03380cc4fa": {
+    "Offset": 0,
+    "Text": "Questa arma infligge +3% di danni per ogni 1% di {g|Encyclopedia:HitPoints}ferite{/g} mancanti del bersaglio."
+  },
+  "51f64aa9-dfa9-40f9-b70c-c70b3ef850a6": {
+    "Offset": 0,
+    "Text": "Lama Carnivora"
+  },
+  "48082d94-b299-418b-9e15-ceeec4c3406b": {
+    "Offset": 0,
+    "Text": "Quando il portatore infligge danni con quest'arma, subisce {g|Encyclopedia:DirectDamage}danni diretti{/g} pari al 10% dei danni inflitti."
+  },
+  "0da2a188-06c3-45ff-9e32-0f00e9823613": {
+    "Offset": 0,
+    "Text": "Thorn Klaive"
+  },
+  "ebbec53c-2a5c-4419-96fe-4092a7ec2844": {
+    "Offset": 0,
+    "Text": ""
+  },
+  "39fcc1a1-e306-4c14-a7f9-0ccf1dc215de": {
+    "Offset": 0,
+    "Text": "Utilizzando l'abilità {g|f:d42db343de7e4b08a3ea0d7bc36af41f}Rapid Fire{/g} aumenta la {g|Encyclopedia:RateOfFire}cadenza di fuoco{/g} di questa arma di +17."
+  },
+  "4b1ae6f2-1ed4-48ff-9edc-ad92a1198f69": {
+    "Offset": 0,
+    "Text": "Bolter Typhoon Astartes"
+  },
+  "9b2165ed-c334-4dc9-a434-3ee5bbf45180": {
+    "Offset": 0,
+    "Text": ""
+  },
+  "a0041641-d2ce-4c2e-87f8-36ad6924ed97": {
+    "Offset": 0,
+    "Text": "Convinto i gladiatori nell'arena a combattere insieme contro gli esecrandi xenos."
+  },
+  "de965675-a6a7-46be-81c0-c1112c3dc6cb": {
+    "Offset": 0,
+    "Text": "{n}Avevi già riconosciuto questa creatura durante il processo, ma ora, con il veleno Drukhari eliminato dal tuo corpo, la tua mente è limpida.{/n}"
+  },
+  "493d618e-1084-4c65-bde7-7e5cd98ca336": {
+    "Offset": 0,
+    "Text": "Consegnato Yrliet all'Inquisizione."
+  },
+  "87146707-695e-418c-b45c-36a7ad2d6dd2": {
+    "Offset": 0,
+    "Text": "Consegnato Idira all'Inquisizione."
+  },
+  "13fa5f60-dc36-4d2c-8715-394dd6419665": {
+    "Offset": 0,
+    "Text": "Consegnato Marazhai all'Inquisizione."
+  },
+  "326d88ba-c609-4447-9373-8a17e1a4a1e0": {
+    "Offset": 0,
+    "Text": "\"Non permetteremo a quella feccia di alzare le loro teste schifose. I miei uomini sono già in cammino verso la cripta. Vi saremo ad aspettare là.\""
+  },
+  "a83b5689-a69a-4348-9188-7a2bc22d428c": {
+    "Offset": 0,
+    "Text": "\"I miei inferni spazzeranno la baia per eventuali nascondigli rimanenti. Potremmo anche catturare un paio di quei bastardi, tanto per gradire.\""
+  },
+  "84bd9434-5c93-47de-af89-3bf313c3d408": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "2224cda9-6f4d-43aa-8573-b5e7b9bc742e": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "bd76f899-1ef7-44f5-aeb9-9129ebac3ab1": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "1bab5059-d9c3-4f17-a7cd-f04963ab438f": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "58fb1db4-99e3-4d16-adfc-93836c90d98d": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "056ea03b-231e-4b02-97b2-e8619ca9efdd": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "90111de5-877d-4bc9-9bd4-3f5d996cfc5b": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "cc3dc2c8-2c47-43ce-bdea-8997d068ecda": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "93362979-6fb0-4060-a1bb-5a181286f931": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "13c8b840-2611-4ce7-a37e-0be892914a10": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "7bafab33-b35d-4c30-86e4-9fdade12e5ad": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "287a5cd8-2c17-4ba6-9bad-c09f6dd7e7fb": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "7977073e-caa7-4501-8395-53ce0ccf7d0b": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "a2383102-d9b3-427e-b6da-a154dac55b90": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "6a69a581-8f7f-4ab0-ae84-1e1138c95f06": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "35c18f44-a52f-4440-adbb-ca5100c2da7b": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "99a80d98-cc4e-44e9-a7ad-2611fce49a2d": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "3194d79d-d376-4484-a63f-95709ab08f15": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "2ea3ac5d-35c6-49a3-add2-f5da23c3a95e": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "5425ada7-16bd-4228-9f51-29cd1583b535": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "0048306f-fb20-42ca-8597-e3dc7c5a136a": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "bcf55907-447e-401b-9ae4-d7a99696e871": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "b128bf65-499e-49ec-b270-645368870339": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "7a46f75c-2857-4dea-9d43-0190cc6c83d4": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "8840655f-0f53-4124-9bc0-1ef75845cd62": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "fdbfcfad-9fc5-4bbf-a8ff-16be46a13ff2": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "398d36ef-853d-452b-a57a-885c49af130d": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "023c48ea-be6b-444d-9431-2ef4683f112f": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "6ae856e6-e370-4eb3-95b9-00d10e8329b9": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "52971830-cb9d-49a1-9ecc-3d9b4e432b78": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "97574ccd-1c1d-4e4a-97ee-9119f20694c3": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "e1efb110-3670-4a10-98a3-bcaf6c16c81c": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "fdf8a8e3-0811-4b52-aa5e-0ef87cd29d4d": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "d97af70c-0a66-4d11-b0ad-2ce9019a931a": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "5011bd4d-a861-48f5-ac19-1f3636a5c56e": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "55a96a28-9fea-4daa-8943-bea377eab34d": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "43120b19-b305-4a5b-a515-f06a1c9541aa": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "24050ce6-79e2-4ef4-8f3d-bd0fba637547": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "9b00810a-aba8-4375-8be0-061fdcd81e84": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "b935e740-7733-43ec-bfaf-2660d1752d7f": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "6827a917-1389-4e6b-b44c-38227ce5cba5": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "21d52d37-cfc1-43a3-943d-3b61a140538c": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "359af198-39ae-42d8-b94d-334be64ee6b3": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "7d792287-8304-4dd3-a57a-24b8f43ebb85": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "46b8a230-d92b-4799-9508-f17c7f7e7af0": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "cc6db833-bca9-4ee8-8c80-3c8dc9452ec8": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "42cf1e21-490e-4ebb-a4e4-3b70c542c940": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "b00fc6b4-5580-480d-9dfa-e5583beab070": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "fc902f97-9099-4c5c-affc-9d096100e030": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "06fbb7ee-2364-42f0-8d69-35a8cb8e2790": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "31e43df6-4f68-49be-bfa1-deefd3dd0b56": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "28529ed0-6988-4df2-b0c7-14b241505dcb": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "a025752e-9004-47ec-8be5-63ebcccb0552": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "f27c048a-149f-4586-81d6-8479fe684d15": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "2d223a2c-d01b-4be7-92fb-4e533f38b6d9": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "a75bcec1-8ec9-4d37-869f-345d6fc76520": {
+    "Offset": 0,
+    "Text": "nascosto"
+  },
+  "f73deaaf-45d4-47c6-9129-53adb27b9ecf": {
+    "Offset": 0,
+    "Text": "Crea un'area di oscurità che dura per 3 {g|Encyclopedia:Round}turni{/g}. La {g|Encyclopedia:HitSequenceGlossary}probabilità di colpire{/g} e la {g|Encyclopedia:CritChancesAndCritDamageGlossary}probabilità di colpo critico{/g} delle armi a distanza sono ridotte del −50% per le creature in quell'area e per chiunque spari su di esse."
+  },
+  "07cc7e12-54f1-4e4e-8058-42c304989ccc": {
+    "Offset": 0,
+    "Text": "Intreccio d'Ombra"
+  },
+  "e70e154b-157b-4d88-a6aa-3e704f98def0": {
+    "Offset": 0,
+    "Text": ""
+  },
+  "225f98f7-d93f-489e-900c-0bc7aa0986c5": {
+    "Offset": 0,
+    "Text": "Quando l'attacco del portatore con quest'arma ottiene un {g|Encyclopedia:CritChancesAndCritDamageGlossary}colpo critico{/g}, il suo danno base aumenta di +{uip|Damage|9f76314d15a24116bf349701ecc396cc} fino alla fine del combattimento."
+  },
+  "cca2566b-2ac9-4efb-b22c-5f35c8d20de8": {
+    "Offset": 0,
+    "Text": "Ninna nanna di Sha'eil"
+  },
+  "64d34b6f-b234-4a46-aba4-7d9404bcbbe6": {
+    "Offset": 0,
+    "Text": "<u>({g|Encyclopedia:WarhammerPerception}PER{/g} / 2)</u>"
+  },
+  "45f8cafa-97ab-47f3-8c3b-0fef913b64a1": {
+    "Offset": 0,
+    "Text": "Un attacco con quest'arma infligge il +{uip|Damage|0f41b613afe24784af011bb8bd400cfc}% di danni in più ai bersagli con {g|Encyclopedia:HitPoints}ferite{/g} complete."
+  },
+  "85d5eb52-dc2a-4be4-a547-45f29cc9a020": {
+    "Offset": 0,
+    "Text": "Benedizione della Morte"
+  },
+  "71409849-7f62-4696-86db-5bbdf600776f": {
+    "Offset": 0,
+    "Text": "Il bersaglio deve superare un {g|Encyclopedia:WarhammerAgility}Agilità{/g} {g|Encyclopedia:ResistanceTest}test di resistenza{/g} altrimenti diventerà {g|Encyclopedia:SlowedEffect}rallentato{/g} fino alla fine del combattimento. Gli attacchi con quest'arma ottengono sempre un {g|Encyclopedia:CritChancesAndCritDamageGlossary}colpo critico{/g} contro bersagli rallentati."
+  },
+  "31da67dc-bca8-4997-9b9e-cdc56296b92a": {
+    "Offset": 0,
+    "Text": "Canto della Stagnazione"
+  },
+  "a15a2dde-aee5-49c9-a92c-9090d342ef14": {
+    "Offset": 0,
+    "Text": "Un {g|Encyclopedia:DeadeyeShot}colpo da cecchino{/g} di questa arma infligge l'effetto {g|f:67ea9e6b76b347359ab2cbc7a3be143c}preda{/g} sul bersaglio."
+  },
+  "a5021f03-54f5-4916-a604-e3bbca3930c7": {
+    "Offset": 0,
+    "Text": "Dono di Kurnous"
+  },
+  "bf9a3cf2-ace8-430c-a143-0629f55e3b3a": {
+    "Offset": 0,
+    "Text": "Ogni volta che l'attaccante {g|Encyclopedia:HitSequenceGlossary}colpisce{/g} con quest'arma, tutti i suoi alleati adiacenti al bersaglio effettuano un {g|Encyclopedia:AttackOfOpportunityFullGlossary}attacco di opportunità{/g} contro di esso."
+  },
+  "c3ce4fa3-9e0d-43ab-b349-c68f6acd8d21": {
+    "Offset": 0,
+    "Text": "Coro di Battaglia"
+  },
+  "598ee129-33c2-4ac8-b680-190f6fa6433b": {
+    "Offset": 0,
+    "Text": ""
+  },
+  "86974de7-7900-45b4-ac97-18904908d0f7": {
+    "Offset": 0,
+    "Text": "Quando i nemici {g|Encyclopedia:HitSequenceGlossary}colpiscono{/g} con quest'arma e subiscono danni da {g|Encyclopedia:BleedingEffect}sanguinamento{/g}, infliggono la metà di quei danni alle creature adiacenti."
+  },
+  "2cb14d3a-1da4-4814-9760-00d3b3fdf78c": {
+    "Offset": 0,
+    "Text": "Massacro Strisciante"
+  },
+  "f875eee2-1d40-4519-8eb8-fe3b60c1e912": {
+    "Offset": 0,
+    "Text": "Questa arma infligge {g|Encyclopedia:DirectDamage}danni diretti{/g}."
+  },
+  "4f932ae1-d0fc-4d7a-9544-04b9ad309618": {
+    "Offset": 0,
+    "Text": "Perforatore di Cuore"
+  },
+  "4d0d7e7d-9669-4091-b263-68bde402c160": {
+    "Offset": 0,
+    "Text": "Il bersaglio subisce l'effetto {g|Encyclopedia:ToxinEffect}tossico{/g} dell'arma e +3 livelli di tossina per ogni altro tipo di effetto danno-nel-tempo che sta attualmente subendo."
+  },
+  "8ddba46e-7616-4cf2-a06f-6e45e01bab6f": {
+    "Offset": 0,
+    "Text": "Lama del Collezionista di Sofferenza"
+  },
+  "2ab5eb74-cc38-47ad-9285-2bcacf6882e0": {
+    "Offset": 0,
+    "Text": "Dopo che il portatore infligge qualsiasi {g|Encyclopedia:DamageGlossary}danno{/g} al bersaglio con questa spada, fino alla fine del combattimento ottiene +3 {g|Encyclopedia:WarhammerAgility}Agilità{/g}, {g|Encyclopedia:WarhammerPerception}Percezione{/g}, {g|Encyclopedia:WarhammerIntelligence}Intelligenza{/g} e {g|Encyclopedia:WarhammerWillpower}Volontà{/g}, mentre il bersaglio subisce una penalità di −3 {g|Encyclopedia:Penalty}punti{/g} a quelle {g|Encyclopedia:Characteristic}caratteristiche{/g}."
+  },
+  "b47442ae-7eef-4910-b598-ad63731238e5": {
+    "Offset": 0,
+    "Text": "Lama di Djin Insaziabile"
+  },
+  "3c2fcf41-da84-4423-9c7b-712c651f5e79": {
+    "Offset": 0,
+    "Text": ""
+  },
+  "b4a35557-a0b9-47b8-ad8b-0aa587532f05": {
+    "Offset": 0,
+    "Text": ""
+  },
+  "657ab832-5c17-479d-81c6-79bc83b859cd": {
+    "Offset": 0,
+    "Text": "Nemici che subiscono l'effetto {g|Encyclopedia:ToxinEffect}tossina{/g} non possono {g|Encyclopedia:DodgeGlossary}schivare{/g} o {g|Encyclopedia:Parry}parare{/g} attacchi eseguiti con quest'arma."
+  },
+  "56d3a751-dcb3-4897-9db9-e6a3c635e263": {
+    "Offset": 0,
+    "Text": "Tormento Imminente"
+  },
+  "35c808de-2be7-417d-930c-fef5b181ddc6": {
+    "Offset": 0,
+    "Text": "Il bersaglio deve superare un {g|Encyclopedia:WarhammerToughness}Toughness{/g} {g|Encyclopedia:ResistanceTest}test di resistenza{/g} altrimenti subirà un effetto negativo comune casuale per 2 {g|Encyclopedia:Round}turni{/g}."
+  },
+  "1ea49bb7-fe43-4b37-b2b4-e8c09ece21f3": {
+    "Offset": 0,
+    "Text": "Sinfonia di Dolore"
+  },
+  "5919e535-ad0a-478f-b4c9-520de5f61276": {
+    "Offset": 0,
+    "Text": "<u>({g|Encyclopedia:WarhammerWeaponSkill}WS{/g} / 2)</u>"
+  },
+  "c344a7c3-b6e2-4df4-bee7-9472b41395ff": {
+    "Offset": 0,
+    "Text": "Questa arma ha {uip|Pen|2494b9c8d26d490d944c146a7245db55}% {g|Encyclopedia:ArmourPenetration}penetrazione armatura{/g}."
+  },
+  "d6008655-5a65-46d9-b77c-7c9950a597e2": {
+    "Offset": 0,
+    "Text": "Lama del Cacciatore di Sangue"
+  },
+  "9c8daed1-c588-4555-9272-d9c4fb1021ec": {
+    "Offset": 0,
+    "Text": "{n}Nella tua {d|Encyclopedia:CharGen_Criminal}vita passata{/d}, la capacità di capire se qualcuno fosse degno di fiducia o un traditore spesso segnava il confine tra la vita e la morte. Sotto il tuo esame, il soldato sembra decisamente troppo calmo — un chiaro segno che il miserabile sta cercando di ingannarti.{/n}"
+  },
+  "2253e27d-f9d0-4782-9405-73a254322158": {
+    "Offset": 0,
+    "Text": "\"Sei stato tu a falsificare il registro di bordo?\""
+  },
+  "a1efacc6-2cb4-4c84-a18a-2f43a80c2e3e": {
+    "Offset": 0,
+    "Text": "\"Tutto ciò che chiedo è che mi prometta di non rifarlo.\""
+  },
+  "f85d4d71-45c7-4dce-b91b-ccdbc9ba9f45": {
+    "Offset": 0,
+    "Text": "\"Se mai avrai bisogno di qualcosa, vieni direttamente da me. Ti ascolterò.\""
+  },
+  "add6a543-14f9-45f1-a1bd-cb1c9130e417": {
+    "Offset": 0,
+    "Text": "\"Non sono il tuo servo da mandare in giro per commissioni. Non tollererò più un simile comportamento nei miei confronti.\""
+  },
+  "ccde8582-245b-4f63-91f3-0ea0c064b299": {
+    "Offset": 0,
+    "Text": "\"Abbiamo esplorato le nostre capacità, inviato una richiesta e il compito è stato adempiuto. I Nomos ti sono grati per questo.\""
+  },
+  "37ba3137-a893-46fe-89e6-8c477b78b183": {
+    "Offset": 0,
+    "Text": "\"Apprezziamo la tua risposta. La tua considerazione per il Nomos ci rallegra.\""
+  },
+  "86e11a1d-6049-4da2-a48c-c6e9634ef27a": {
+    "Offset": 0,
+    "Text": "\"Sei insoddisfatto? I Nomos non cercano discordia e promettono che le loro richieste saranno più trasparenti d'ora in avanti.\""
+  },
+  "e45be3fd-dc64-4623-9ace-a965416112ef": {
+    "Offset": 0,
+    "Text": "{n}Un altro impegnativo giorno nel ruolo di Lord Captain volge al termine, e ti ritiri nelle tue camere per riposare. Alcune ore dopo, tuttavia, il tuo sonno viene infranto da un lieve scricchiolio di una porta, dal peso trascinante di passi mal assestati e da un penetrante gelo che proviene dalla grande sala. Ti vesti rapidamente, apri la porta e oltrepassi la soglia...{/n}"
+  },
+  "6e583d06-8db2-49c2-a4c6-411a6c85bec0": {
+    "Offset": 0,
+    "Text": "Ho ordinato che i resti della Black Ship siano distrutti mediante bombardamento."
+  },
+  "5e2038c9-a595-47de-868f-55cf66c8dbd0": {
+    "Offset": 0,
+    "Text": "Ordinato che i resti della Black Ship siano distrutti inviando una squadra di abbordaggio."
+  },
+  "9c36916b-c51d-4867-80cc-5c28aa0b33ce": {
+    "Offset": 0,
+    "Text": "Ordinare ai tech-priest di essere inviati al relitto della Black Ship per recuperare tutto ciò che valeva la pena prelevare."
+  },
+  "52a40910-f248-477d-a480-1204caab8a69": {
+    "Offset": 0,
+    "Text": "\"Avvio della riattivazione del protocollo di accesso, Signore Capitano. Una combinazione diversa di dati di input per il Prefetto-Calcolatore potrebbe aggirare il blocco. Questo machine-spirit menomato è improbabile che conservi i cogni-programmi necessari per tracciare tentativi ripetuti da una singola unità, né il contatore per limitarli.\""
+  },
+  "95f7fd5b-d83b-40d4-ade4-9d958172aa40": {
+    "Offset": 0,
+    "Text": "\"Desiderano sapere se la loro lotta fratricida continuerà. Dimmi, {name}, quale risposta dovrei dare loro?\""
+  },
+  "274967a1-6db8-40be-b770-750133116926": {
+    "Offset": 0,
+    "Text": "\"{mf|Signoria|Signoria}, la Flotta Cognisance chiede se il loro scisma è ancora in piedi. Come devo rispondere?\""
   }
 }
